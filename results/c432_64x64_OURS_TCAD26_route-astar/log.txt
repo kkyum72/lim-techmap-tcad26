@@ -1,0 +1,1345 @@
+Parsing result: [('OG223gat', '~((n46 & n48))'), ('n46', '(IG76gat & n47) | (~IG82gat & n47)'), ('n47', '~((~IG37gat & IG43gat) | (~IG63gat & IG69gat))'), ('n48', '(n49 & n50 & n51)'), ('n49', '~((~IG1gat & IG4gat) | (~IG11gat & IG17gat))'), ('n50', '~((~IG24gat & IG30gat) | (~IG102gat & IG108gat))'), ('n51', '~((~IG50gat & IG56gat) | (~IG89gat & IG95gat))'), ('OG329gat', '~((n53 & n57))'), ('n53', '(~n54 & ~n56 & ~n55) | (IG86gat & ~n56 & ~n55)'), ('n54', '(~OG223gat & IG82gat) | (~IG76gat & IG82gat)'), ('n55', '(~OG223gat & ~IG47gat & IG43gat) | (~IG37gat & ~IG47gat & IG43gat)'), ('n56', '(~OG223gat & ~IG73gat & IG69gat) | (~IG63gat & ~IG73gat & IG69gat)'), ('n57', '(~n58 & ~n59 & n60 & n65)'), ('n58', '(~OG223gat & ~IG8gat & IG4gat) | (~IG1gat & ~IG8gat & IG4gat)'), ('n59', '(~OG223gat & ~IG34gat & IG30gat) | (~IG24gat & ~IG34gat & IG30gat)'), ('n60', '(~n61 & ~n62) | (IG21gat & ~n62)'), ('n61', '(~IG11gat & IG17gat) | (n48 & n46 & IG17gat)'), ('n62', '(~n48 & n63 & n64) | (~n46 & n63 & n64) | (n46 & n48 & ~n63 & n64)'), ('n63', '(~IG50gat & IG56gat)'), ('n64', '(~IG60gat & IG56gat)'), ('n65', '~((~IG112gat & n66) | (~IG99gat & n67))'), ('n66', '(~IG102gat & IG108gat) | (n48 & n46 & IG108gat)'), ('n67', '(~IG89gat & IG95gat) | (n48 & n46 & IG95gat)'), ('OG370gat', '~((n69 & n75))'), ('n69', '(~n70 & ~n73 & ~n71) | (IG27gat & ~n73 & ~n71)'), ('n70', '(~OG329gat & n61) | (~IG21gat & n61)'), ('n71', '(~OG329gat & ~IG40gat & n72) | (~IG34gat & ~IG40gat & n72)'), ('n72', '(~OG223gat & IG30gat) | (~IG24gat & IG30gat)'), ('n73', '(~OG329gat & ~IG14gat & n74) | (~IG8gat & ~IG14gat & n74)'), ('n74', '(~OG223gat & IG4gat) | (~IG1gat & IG4gat)'), ('n75', '(~n87 & ~n88 & n76 & n81)'), ('n76', '(~n77 & ~n78) | (IG115gat & ~n78)'), ('n77', '(~IG112gat & n66) | (n57 & n53 & n66)'), ('n78', '(~n57 & n79 & n80) | (~n53 & n79 & n80) | (n53 & n57 & ~n79 & n80)'), ('n79', '(~IG99gat & n67)'), ('n80', '(~IG105gat & n67)'), ('n81', '~((n85) | (~n84 & ~IG53gat & n82))'), ('n82', '(~IG47gat & n83) | (n57 & n53 & n83)'), ('n83', '(~OG223gat & IG43gat) | (~IG37gat & IG43gat)'), ('n84', '(n53 & n57 & n55)'), ('n85', '(~n57 & n62 & n86) | (~n53 & n62 & n86) | (n53 & n57 & ~n62 & n86)'), ('n86', '(~IG66gat & ~OG223gat & IG50gat & IG56gat) | (~IG66gat & OG223gat & ~IG50gat & IG56gat)'), ('n87', '(~OG329gat & ~IG92gat & n54) | (~IG86gat & ~IG92gat & n54)'), ('n88', '(~IG79gat & ~OG329gat & IG73gat & n89) | (~IG79gat & OG329gat & ~IG73gat & n89)'), ('n89', '(~OG223gat & IG69gat) | (~IG63gat & IG69gat)'), ('OG421gat', '~((n91) | (~OG430gat & n101 & n105))'), ('n91', '(~OG370gat & n92) | (~IG14gat & n92)'), ('n92', '(~OG329gat & n74) | (~IG8gat & n74)'), ('OG430gat', '~((~n94 & ~n97 & ~n98 & ~n99))'), ('n94', '(~IG66gat & n95) | (n75 & n69 & n95)'), ('n95', '(~OG329gat & n96) | (~IG60gat & n96)'), ('n96', '(~OG223gat & IG56gat) | (~IG50gat & IG56gat)'), ('n97', '(~IG53gat & n82) | (n75 & n69 & n82)'), ('n98', '(~IG27gat & n70) | (n75 & n69 & n70)'), ('n99', '(~IG40gat & n100) | (n75 & n69 & n100)'), ('n100', '(~OG329gat & n72) | (~IG34gat & n72)'), ('n101', '(~n104 & ~n102) | (OG370gat & IG105gat & ~n102)'), ('n102', '(~IG92gat & n103) | (n75 & n69 & n103)'), ('n103', '(~OG329gat & n54) | (~IG86gat & n54)'), ('n104', '(~OG329gat & n67) | (~IG99gat & n67)'), ('n105', '(~n77 & ~n106) | (OG370gat & IG115gat & ~n106)'), ('n106', '(~IG79gat & n107) | (n75 & n69 & n107)'), ('n107', '(~OG329gat & n89) | (~IG73gat & n89)'), ('OG431gat', '~((~n109 & ~n111 & n110) | (~n102 & ~n111 & n110))'), ('n109', '(~n94 & ~n97)'), ('n110', '(~n98 & ~n99)'), ('n111', '(~n94 & ~n97 & ~n99 & n106)'), ('OG432gat', '~((~n113 & ~n111 & n115) | (~n114 & ~n111 & n115))'), ('n113', '(~n97 & ~n99)'), ('n114', '(~OG370gat & ~n102 & n104) | (~IG105gat & ~n102 & n104)'), ('n115', '(~n97 & ~n98) | (n99 & ~n98)')]
+File saved: results/c432_64x64_OURS_TCAD26_route-astar/instructions.txt
+**************************
+
+Primary inputs = ['IG1gat', 'IG4gat', 'IG8gat', 'IG11gat', 'IG14gat', 'IG17gat', 'IG21gat', 'IG24gat', 'IG27gat', 'IG30gat', 'IG34gat', 'IG37gat', 'IG40gat', 'IG43gat', 'IG47gat', 'IG50gat', 'IG53gat', 'IG56gat', 'IG60gat', 'IG63gat', 'IG66gat', 'IG69gat', 'IG73gat', 'IG76gat', 'IG79gat', 'IG82gat', 'IG86gat', 'IG89gat', 'IG92gat', 'IG95gat', 'IG99gat', 'IG102gat', 'IG105gat', 'IG108gat', 'IG112gat', 'IG115gat']
+**************************
+
+{'OG223gat': LUT(name=OG223gat, fanin={'n46', 'n48'}, num_product_terms=1, size=[3, 2], level=3, expr=~((n46 & n48)), row=[99], col=[99], fanlevel=4, term_products = None), 'n46': LUT(name=n46, fanin={'IG76gat', 'n47', 'IG82gat'}, num_product_terms=2, size=[3, 3], level=2, expr=(IG76gat & n47) | (~IG82gat & n47), row=[99], col=[99], fanlevel=3, term_products = None), 'n47': LUT(name=n47, fanin={'IG43gat', 'IG63gat', 'IG37gat', 'IG69gat'}, num_product_terms=2, size=[3, 3], level=1, expr=~((~IG37gat & IG43gat) | (~IG63gat & IG69gat)), row=[99], col=[99], fanlevel=2, term_products = None), 'n48': LUT(name=n48, fanin={'n50', 'n49', 'n51'}, num_product_terms=1, size=[4, 2], level=2, expr=(n49 & n50 & n51), row=[99], col=[99], fanlevel=3, term_products = None), 'n49': LUT(name=n49, fanin={'IG17gat', 'IG1gat', 'IG4gat', 'IG11gat'}, num_product_terms=2, size=[3, 3], level=1, expr=~((~IG1gat & IG4gat) | (~IG11gat & IG17gat)), row=[99], col=[99], fanlevel=2, term_products = None), 'n50': LUT(name=n50, fanin={'IG30gat', 'IG108gat', 'IG24gat', 'IG102gat'}, num_product_terms=2, size=[3, 3], level=1, expr=~((~IG24gat & IG30gat) | (~IG102gat & IG108gat)), row=[99], col=[99], fanlevel=2, term_products = None), 'n51': LUT(name=n51, fanin={'IG50gat', 'IG95gat', 'IG89gat', 'IG56gat'}, num_product_terms=2, size=[3, 3], level=1, expr=~((~IG50gat & IG56gat) | (~IG89gat & IG95gat)), row=[99], col=[99], fanlevel=2, term_products = None), 'OG329gat': LUT(name=OG329gat, fanin={'n53', 'n57'}, num_product_terms=1, size=[3, 2], level=6, expr=~((n53 & n57)), row=[99], col=[99], fanlevel=7, term_products = None), 'n53': LUT(name=n53, fanin={'n56', 'n54', 'n55', 'IG86gat'}, num_product_terms=2, size=[4, 3], level=5, expr=(~n54 & ~n56 & ~n55) | (IG86gat & ~n56 & ~n55), row=[99], col=[99], fanlevel=6, term_products = None), 'n54': LUT(name=n54, fanin={'OG223gat', 'IG76gat', 'IG82gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG82gat) | (~IG76gat & IG82gat), row=[99], col=[99], fanlevel=7, term_products = None), 'n55': LUT(name=n55, fanin={'IG43gat', 'IG47gat', 'IG37gat', 'OG223gat'}, num_product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG47gat & IG43gat) | (~IG37gat & ~IG47gat & IG43gat), row=[99], col=[99], fanlevel=6, term_products = None), 'n56': LUT(name=n56, fanin={'IG63gat', 'OG223gat', 'IG73gat', 'IG69gat'}, num_product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG73gat & IG69gat) | (~IG63gat & ~IG73gat & IG69gat), row=[99], col=[99], fanlevel=5, term_products = None), 'n57': LUT(name=n57, fanin={'n58', 'n59', 'n60', 'n65'}, num_product_terms=1, size=[5, 2], level=5, expr=(~n58 & ~n59 & n60 & n65), row=[99], col=[99], fanlevel=6, term_products = None), 'n58': LUT(name=n58, fanin={'IG8gat', 'OG223gat', 'IG4gat', 'IG1gat'}, num_product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG8gat & IG4gat) | (~IG1gat & ~IG8gat & IG4gat), row=[99], col=[99], fanlevel=5, term_products = None), 'n59': LUT(name=n59, fanin={'IG30gat', 'OG223gat', 'IG24gat', 'IG34gat'}, num_product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG34gat & IG30gat) | (~IG24gat & ~IG34gat & IG30gat), row=[99], col=[99], fanlevel=5, term_products = None), 'n60': LUT(name=n60, fanin={'n62', 'n61', 'IG21gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~n61 & ~n62) | (IG21gat & ~n62), row=[99], col=[99], fanlevel=5, term_products = None), 'n61': LUT(name=n61, fanin={'IG17gat', 'n46', 'n48', 'IG11gat'}, num_product_terms=2, size=[4, 3], level=3, expr=(~IG11gat & IG17gat) | (n48 & n46 & IG17gat), row=[99], col=[99], fanlevel=7, term_products = None), 'n62': LUT(name=n62, fanin={'n64', 'n63', 'n48', 'n46'}, num_product_terms=3, size=[5, 4], level=3, expr=(~n48 & n63 & n64) | (~n46 & n63 & n64) | (n46 & n48 & ~n63 & n64), row=[99], col=[99], fanlevel=6, term_products = None), 'n63': LUT(name=n63, fanin={'IG50gat', 'IG56gat'}, num_product_terms=1, size=[3, 2], level=1, expr=(~IG50gat & IG56gat), row=[99], col=[99], fanlevel=3, term_products = None), 'n64': LUT(name=n64, fanin={'IG60gat', 'IG56gat'}, num_product_terms=1, size=[3, 2], level=1, expr=(~IG60gat & IG56gat), row=[99], col=[99], fanlevel=3, term_products = None), 'n65': LUT(name=n65, fanin={'IG99gat', 'n66', 'IG112gat', 'n67'}, num_product_terms=2, size=[3, 3], level=4, expr=~((~IG112gat & n66) | (~IG99gat & n67)), row=[99], col=[99], fanlevel=5, term_products = None), 'n66': LUT(name=n66, fanin={'n46', 'IG108gat', 'IG102gat', 'n48'}, num_product_terms=2, size=[4, 3], level=3, expr=(~IG102gat & IG108gat) | (n48 & n46 & IG108gat), row=[99], col=[99], fanlevel=6, term_products = None), 'n67': LUT(name=n67, fanin={'IG95gat', 'IG89gat', 'n48', 'n46'}, num_product_terms=2, size=[4, 3], level=3, expr=(~IG89gat & IG95gat) | (n48 & n46 & IG95gat), row=[99], col=[99], fanlevel=7, term_products = None), 'OG370gat': LUT(name=OG370gat, fanin={'n75', 'n69'}, num_product_terms=1, size=[3, 2], level=9, expr=~((n69 & n75)), row=[99], col=[99], fanlevel=10, term_products = None), 'n69': LUT(name=n69, fanin={'IG27gat', 'n70', 'n73', 'n71'}, num_product_terms=2, size=[4, 3], level=8, expr=(~n70 & ~n73 & ~n71) | (IG27gat & ~n73 & ~n71), row=[99], col=[99], fanlevel=9, term_products = None), 'n70': LUT(name=n70, fanin={'OG329gat', 'n61', 'IG21gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n61) | (~IG21gat & n61), row=[99], col=[99], fanlevel=9, term_products = None), 'n71': LUT(name=n71, fanin={'n72', 'IG40gat', 'IG34gat', 'OG329gat'}, num_product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG40gat & n72) | (~IG34gat & ~IG40gat & n72), row=[99], col=[99], fanlevel=8, term_products = None), 'n72': LUT(name=n72, fanin={'IG30gat', 'OG223gat', 'IG24gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG30gat) | (~IG24gat & IG30gat), row=[99], col=[99], fanlevel=7, term_products = None), 'n73': LUT(name=n73, fanin={'IG8gat', 'IG14gat', 'OG329gat', 'n74'}, num_product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG14gat & n74) | (~IG8gat & ~IG14gat & n74), row=[99], col=[99], fanlevel=8, term_products = None), 'n74': LUT(name=n74, fanin={'IG1gat', 'OG223gat', 'IG4gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG4gat) | (~IG1gat & IG4gat), row=[99], col=[99], fanlevel=7, term_products = None), 'n75': LUT(name=n75, fanin={'n88', 'n81', 'n87', 'n76'}, num_product_terms=1, size=[5, 2], level=8, expr=(~n87 & ~n88 & n76 & n81), row=[99], col=[99], fanlevel=9, term_products = None), 'n76': LUT(name=n76, fanin={'IG115gat', 'n78', 'n77'}, num_product_terms=2, size=[3, 3], level=7, expr=(~n77 & ~n78) | (IG115gat & ~n78), row=[99], col=[99], fanlevel=8, term_products = None), 'n77': LUT(name=n77, fanin={'n53', 'n66', 'n57', 'IG112gat'}, num_product_terms=2, size=[4, 3], level=6, expr=(~IG112gat & n66) | (n57 & n53 & n66), row=[99], col=[99], fanlevel=10, term_products = None), 'n78': LUT(name=n78, fanin={'n80', 'n53', 'n57', 'n79'}, num_product_terms=3, size=[5, 4], level=6, expr=(~n57 & n79 & n80) | (~n53 & n79 & n80) | (n53 & n57 & ~n79 & n80), row=[99], col=[99], fanlevel=7, term_products = None), 'n79': LUT(name=n79, fanin={'IG99gat', 'n67'}, num_product_terms=1, size=[3, 2], level=4, expr=(~IG99gat & n67), row=[99], col=[99], fanlevel=6, term_products = None), 'n80': LUT(name=n80, fanin={'IG105gat', 'n67'}, num_product_terms=1, size=[3, 2], level=4, expr=(~IG105gat & n67), row=[99], col=[99], fanlevel=6, term_products = None), 'n81': LUT(name=n81, fanin={'n85', 'n82', 'n84', 'IG53gat'}, num_product_terms=2, size=[4, 3], level=7, expr=~((n85) | (~n84 & ~IG53gat & n82)), row=[99], col=[99], fanlevel=8, term_products = None), 'n82': LUT(name=n82, fanin={'n83', 'n53', 'IG47gat', 'n57'}, num_product_terms=2, size=[4, 3], level=6, expr=(~IG47gat & n83) | (n57 & n53 & n83), row=[99], col=[99], fanlevel=9, term_products = None), 'n83': LUT(name=n83, fanin={'IG43gat', 'IG37gat', 'OG223gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG43gat) | (~IG37gat & IG43gat), row=[99], col=[99], fanlevel=6, term_products = None), 'n84': LUT(name=n84, fanin={'n53', 'n57', 'n55'}, num_product_terms=1, size=[4, 2], level=6, expr=(n53 & n57 & n55), row=[99], col=[99], fanlevel=7, term_products = None), 'n85': LUT(name=n85, fanin={'n53', 'n57', 'n62', 'n86'}, num_product_terms=3, size=[5, 4], level=6, expr=(~n57 & n62 & n86) | (~n53 & n62 & n86) | (n53 & n57 & ~n62 & n86), row=[99], col=[99], fanlevel=7, term_products = None), 'n86': LUT(name=n86, fanin={'IG66gat', 'IG50gat', 'OG223gat', 'IG56gat'}, num_product_terms=2, size=[5, 3], level=4, expr=(~IG66gat & ~OG223gat & IG50gat & IG56gat) | (~IG66gat & OG223gat & ~IG50gat & IG56gat), row=[99], col=[99], fanlevel=6, term_products = None), 'n87': LUT(name=n87, fanin={'IG92gat', 'n54', 'OG329gat', 'IG86gat'}, num_product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG92gat & n54) | (~IG86gat & ~IG92gat & n54), row=[99], col=[99], fanlevel=8, term_products = None), 'n88': LUT(name=n88, fanin={'IG79gat', 'IG73gat', 'n89', 'OG329gat'}, num_product_terms=2, size=[5, 3], level=7, expr=(~IG79gat & ~OG329gat & IG73gat & n89) | (~IG79gat & OG329gat & ~IG73gat & n89), row=[99], col=[99], fanlevel=8, term_products = None), 'n89': LUT(name=n89, fanin={'IG63gat', 'OG223gat', 'IG69gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG69gat) | (~IG63gat & IG69gat), row=[99], col=[99], fanlevel=7, term_products = None), 'OG421gat': LUT(name=OG421gat, fanin={'n105', 'OG430gat', 'n101', 'n91'}, num_product_terms=2, size=[4, 3], level=11, expr=~((n91) | (~OG430gat & n101 & n105)), row=[99], col=[99], fanlevel=0, term_products = None), 'n91': LUT(name=n91, fanin={'n92', 'OG370gat', 'IG14gat'}, num_product_terms=2, size=[3, 3], level=10, expr=(~OG370gat & n92) | (~IG14gat & n92), row=[99], col=[99], fanlevel=11, term_products = None), 'n92': LUT(name=n92, fanin={'IG8gat', 'OG329gat', 'n74'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n74) | (~IG8gat & n74), row=[99], col=[99], fanlevel=10, term_products = None), 'OG430gat': LUT(name=OG430gat, fanin={'n94', 'n99', 'n98', 'n97'}, num_product_terms=1, size=[5, 2], level=10, expr=~((~n94 & ~n97 & ~n98 & ~n99)), row=[99], col=[99], fanlevel=11, term_products = None), 'n94': LUT(name=n94, fanin={'IG66gat', 'n69', 'n95', 'n75'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG66gat & n95) | (n75 & n69 & n95), row=[99], col=[99], fanlevel=10, term_products = None), 'n95': LUT(name=n95, fanin={'n96', 'IG60gat', 'OG329gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n96) | (~IG60gat & n96), row=[99], col=[99], fanlevel=9, term_products = None), 'n96': LUT(name=n96, fanin={'IG50gat', 'OG223gat', 'IG56gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG56gat) | (~IG50gat & IG56gat), row=[99], col=[99], fanlevel=7, term_products = None), 'n97': LUT(name=n97, fanin={'n75', 'n69', 'n82', 'IG53gat'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG53gat & n82) | (n75 & n69 & n82), row=[99], col=[99], fanlevel=10, term_products = None), 'n98': LUT(name=n98, fanin={'n75', 'IG27gat', 'n69', 'n70'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG27gat & n70) | (n75 & n69 & n70), row=[99], col=[99], fanlevel=10, term_products = None), 'n99': LUT(name=n99, fanin={'n75', 'IG40gat', 'n69', 'n100'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG40gat & n100) | (n75 & n69 & n100), row=[99], col=[99], fanlevel=10, term_products = None), 'n100': LUT(name=n100, fanin={'n72', 'IG34gat', 'OG329gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n72) | (~IG34gat & n72), row=[99], col=[99], fanlevel=9, term_products = None), 'n101': LUT(name=n101, fanin={'OG370gat', 'n104', 'n102', 'IG105gat'}, num_product_terms=2, size=[4, 3], level=10, expr=(~n104 & ~n102) | (OG370gat & IG105gat & ~n102), row=[99], col=[99], fanlevel=11, term_products = None), 'n102': LUT(name=n102, fanin={'IG92gat', 'n69', 'n103', 'n75'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG92gat & n103) | (n75 & n69 & n103), row=[99], col=[99], fanlevel=11, term_products = None), 'n103': LUT(name=n103, fanin={'n54', 'OG329gat', 'IG86gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n54) | (~IG86gat & n54), row=[99], col=[99], fanlevel=9, term_products = None), 'n104': LUT(name=n104, fanin={'n67', 'OG329gat', 'IG99gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n67) | (~IG99gat & n67), row=[99], col=[99], fanlevel=10, term_products = None), 'n105': LUT(name=n105, fanin={'OG370gat', 'IG115gat', 'n77', 'n106'}, num_product_terms=2, size=[4, 3], level=10, expr=(~n77 & ~n106) | (OG370gat & IG115gat & ~n106), row=[99], col=[99], fanlevel=11, term_products = None), 'n106': LUT(name=n106, fanin={'n75', 'n69', 'n107', 'IG79gat'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG79gat & n107) | (n75 & n69 & n107), row=[99], col=[99], fanlevel=10, term_products = None), 'n107': LUT(name=n107, fanin={'OG329gat', 'IG73gat', 'n89'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n89) | (~IG73gat & n89), row=[99], col=[99], fanlevel=9, term_products = None), 'OG431gat': LUT(name=OG431gat, fanin={'n111', 'n110', 'n102', 'n109'}, num_product_terms=2, size=[4, 3], level=11, expr=~((~n109 & ~n111 & n110) | (~n102 & ~n111 & n110)), row=[99], col=[99], fanlevel=0, term_products = None), 'n109': LUT(name=n109, fanin={'n94', 'n97'}, num_product_terms=1, size=[3, 2], level=10, expr=(~n94 & ~n97), row=[99], col=[99], fanlevel=11, term_products = None), 'n110': LUT(name=n110, fanin={'n98', 'n99'}, num_product_terms=1, size=[3, 2], level=10, expr=(~n98 & ~n99), row=[99], col=[99], fanlevel=11, term_products = None), 'n111': LUT(name=n111, fanin={'n94', 'n99', 'n106', 'n97'}, num_product_terms=1, size=[5, 2], level=10, expr=(~n94 & ~n97 & ~n99 & n106), row=[99], col=[99], fanlevel=11, term_products = None), 'OG432gat': LUT(name=OG432gat, fanin={'n111', 'n114', 'n113', 'n115'}, num_product_terms=2, size=[4, 3], level=11, expr=~((~n113 & ~n111 & n115) | (~n114 & ~n111 & n115)), row=[99], col=[99], fanlevel=0, term_products = None), 'n113': LUT(name=n113, fanin={'n99', 'n97'}, num_product_terms=1, size=[3, 2], level=10, expr=(~n97 & ~n99), row=[99], col=[99], fanlevel=11, term_products = None), 'n114': LUT(name=n114, fanin={'OG370gat', 'n104', 'n102', 'IG105gat'}, num_product_terms=2, size=[4, 3], level=10, expr=(~OG370gat & ~n102 & n104) | (~IG105gat & ~n102 & n104), row=[99], col=[99], fanlevel=11, term_products = None), 'n115': LUT(name=n115, fanin={'n98', 'n99', 'n97'}, num_product_terms=2, size=[3, 3], level=10, expr=(~n97 & ~n98) | (n99 & ~n98), row=[99], col=[99], fanlevel=11, term_products = None)}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{(3, 2): 2, (3, 3): 4}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 0, 'H5': 0, 'V2': 4, 'V3': 12, 'V4': 0}
+Current level luts: ['n63', 'n64', 'n47', 'n49', 'n50', 'n51']
+Trying to map LUT at level 1 with fanin {'IG50gat', 'IG56gat'} and expression (~IG50gat & IG56gat)
+Number of terms: 1
+Terms: [['~IG50gat', 'IG56gat', '0'], ['.', '.', '~n63']]
+Trying to map LUT at level 1 with fanin {'IG60gat', 'IG56gat'} and expression (~IG60gat & IG56gat)
+Number of terms: 1
+Terms: [['~IG60gat', 'IG56gat', '0'], ['.', '.', '~n64']]
+Trying to map LUT at level 1 with fanin {'IG43gat', 'IG63gat', 'IG37gat', 'IG69gat'} and expression ~((~IG37gat & IG43gat) | (~IG63gat & IG69gat))
+Number of terms: 2
+Terms: [['~IG37gat', 'IG43gat', '0'], ['~IG63gat', 'IG69gat', '0'], ['.', '.', '~n47']]
+Trying to map LUT at level 1 with fanin {'IG17gat', 'IG1gat', 'IG4gat', 'IG11gat'} and expression ~((~IG1gat & IG4gat) | (~IG11gat & IG17gat))
+Number of terms: 2
+Terms: [['~IG1gat', 'IG4gat', '0'], ['~IG11gat', 'IG17gat', '0'], ['.', '.', '~n49']]
+Trying to map LUT at level 1 with fanin {'IG30gat', 'IG108gat', 'IG24gat', 'IG102gat'} and expression ~((~IG24gat & IG30gat) | (~IG102gat & IG108gat))
+Number of terms: 2
+Terms: [['~IG24gat', 'IG30gat', '0'], ['~IG102gat', 'IG108gat', '0'], ['.', '.', '~n50']]
+Trying to map LUT at level 1 with fanin {'IG50gat', 'IG95gat', 'IG89gat', 'IG56gat'} and expression ~((~IG50gat & IG56gat) | (~IG89gat & IG95gat))
+Number of terms: 2
+Terms: [['~IG50gat', 'IG56gat', '0'], ['~IG89gat', 'IG95gat', '0'], ['.', '.', '~n51']]
+Set parameter Username
+Set parameter LicenseID to value <removed>
+Academic license - for non-commercial use only - expires 2027-05-21
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[n63,0,0].Start = 1.0
+[warmstart] x[n64,2,0].Start = 1.0
+[warmstart] x[n47,4,0].Start = 1.0
+[warmstart] x[n49,7,0].Start = 1.0
+[warmstart] x[n50,10,0].Start = 1.0
+[warmstart] x[n51,13,0].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 168 rows, 88 columns and 460 nonzeros
+Model fingerprint: 0x1475feaf
+Variable types: 0 continuous, 88 integer (88 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+User MIP start produced solution with objective -0 (0.00s)
+Loaded user MIP start with objective -0
+
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: -0 
+No other solutions better than -0
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -0.000000000000e+00, best bound -0.000000000000e+00, gap 0.0000%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 1
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 0.093624 s
+
+place_information 20 calls | total 0.000011 s | avg 0.000000570 s
+map_lut_with_reset 1 calls | total 0.092643 s | avg 0.092642833 s
+execute_Copy 1 calls | total 0.000009 s | avg 0.000009445 s
+cal_V_temp 1 calls | total 0.000049 s | avg 0.000049458 s
+compute_reduce_space 1 calls | total 0.000003 s | avg 0.000002722 s
+Blocking 1 calls | total 0.000213 s | avg 0.000212758 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 1 calls | total 0.000695 s | avg 0.000695486 s
+
+[ Section runtime summary ]
+
+[ ILP solve time summary ]
+ILP1_map_lut: 1 calls | total 0.001465 s | avg 0.001464976 s
+ILP2_row_group_refine: 1 calls | total 0.000295 s | avg 0.000295364 s
+{(4, 2): 1, (3, 3): 1}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 3, 'H4': 4, 'H5': 0, 'V2': 2, 'V3': 3, 'V4': 0}
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 0, 'V2': 2, 'V3': 3, 'V4': 0}
+Current level luts: ['n46', 'n48']
+Trying to map LUT at level 2 with fanin {'IG76gat', 'n47', 'IG82gat'} and expression (IG76gat & n47) | (~IG82gat & n47)
+Number of terms: 2
+Terms: [['IG76gat', 'n47', '0'], ['~IG82gat', 'n47', '0'], ['.', '.', '~n46']]
+Trying to map LUT at level 2 with fanin {'n50', 'n49', 'n51'} and expression (n49 & n50 & n51)
+Number of terms: 1
+Terms: [['n49', 'n50', 'n51', '0'], ['.', '.', '.', '~n48']]
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[n46,2,0].Start = 1.0
+[warmstart] x[n48,0,3].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 54 rows, 36 columns and 110 nonzeros
+Model fingerprint: 0xe0460ba4
+Variable types: 0 continuous, 36 integer (36 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+User MIP start produced solution with objective -9 (0.00s)
+Loaded user MIP start with objective -9
+
+Presolve removed 48 rows and 27 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 9 columns, 18 nonzeros
+Variable types: 0 continuous, 9 integer (9 binary)
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 1: -9 
+No other solutions better than -9
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -9.000000000000e+00, best bound -9.000000000000e+00, gap 0.0000%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 2
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 0.122705 s
+
+place_information 27 calls | total 0.000021 s | avg 0.000000771 s
+map_lut_with_reset 2 calls | total 0.116303 s | avg 0.058151286 s
+execute_Copy 2 calls | total 0.004577 s | avg 0.002288278 s
+cal_V_temp 2 calls | total 0.000100 s | avg 0.000050094 s
+compute_reduce_space 2 calls | total 0.000011 s | avg 0.000005476 s
+Blocking 2 calls | total 0.000429 s | avg 0.000214677 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 2 calls | total 0.001265 s | avg 0.000632457 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 7 calls | total 0.000003 s | avg 0.000000443 s
+A_star_search::section2-1 | 384 calls | total 0.000266 s | avg 0.000000693 s
+A_star_search::section6 | 377 calls | total 0.001652 s | avg 0.000004383 s
+
+[ ILP solve time summary ]
+ILP1_map_lut: 2 calls | total 0.003477 s | avg 0.001738284 s
+ILP2_row_group_refine: 2 calls | total 0.000490 s | avg 0.000244850 s
+{(3, 2): 1, (4, 3): 3, (5, 4): 1}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 9, 'V4': 4}
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 9, 'V4': 4}
+Current level luts: ['OG223gat', 'n61', 'n66', 'n67', 'n62']
+Trying to map LUT at level 3 with fanin {'n46', 'n48'} and expression ~((n46 & n48))
+Number of terms: 1
+Terms: [['n46', 'n48', '0'], ['.', '.', '~OG223gat']]
+Trying to map LUT at level 3 with fanin {'IG17gat', 'n46', 'n48', 'IG11gat'} and expression (~IG11gat & IG17gat) | (n48 & n46 & IG17gat)
+Number of terms: 2
+Terms: [['~IG11gat', 'IG17gat', '0', '0'], ['n48', 'n46', 'IG17gat', '0'], ['.', '.', '.', '~n61']]
+Trying to map LUT at level 3 with fanin {'n46', 'IG108gat', 'IG102gat', 'n48'} and expression (~IG102gat & IG108gat) | (n48 & n46 & IG108gat)
+Number of terms: 2
+Terms: [['~IG102gat', 'IG108gat', '0', '0'], ['n48', 'n46', 'IG108gat', '0'], ['.', '.', '.', '~n66']]
+Trying to map LUT at level 3 with fanin {'IG95gat', 'IG89gat', 'n48', 'n46'} and expression (~IG89gat & IG95gat) | (n48 & n46 & IG95gat)
+Number of terms: 2
+Terms: [['~IG89gat', 'IG95gat', '0', '0'], ['n48', 'n46', 'IG95gat', '0'], ['.', '.', '.', '~n67']]
+Trying to map LUT at level 3 with fanin {'n64', 'n63', 'n48', 'n46'} and expression (~n48 & n63 & n64) | (~n46 & n63 & n64) | (n46 & n48 & ~n63 & n64)
+Number of terms: 3
+Terms: [['~n48', 'n63', 'n64', '0', '0'], ['~n46', 'n63', 'n64', '0', '0'], ['n46', 'n48', '~n63', 'n64', '0'], ['.', '.', '.', '.', '~n62']]
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[OG223gat,0,0].Start = 1.0
+[warmstart] x[n61,2,3].Start = 1.0
+[warmstart] x[n66,5,3].Start = 1.0
+[warmstart] x[n67,8,3].Start = 1.0
+[warmstart] x[n62,11,7].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 442 rows, 207 columns and 1027 nonzeros
+Model fingerprint: 0x6391ad80
+Variable types: 0 continuous, 207 integer (207 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+User MIP start produced solution with objective -26 (0.00s)
+Loaded user MIP start with objective -26
+
+Presolve removed 343 rows and 96 columns
+Presolve time: 0.01s
+Presolved: 99 rows, 111 columns, 351 nonzeros
+Variable types: 0 continuous, 111 integer (111 binary)
+
+Root relaxation: objective -2.200000e+01, 86 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -22.00000    0   46  -26.00000  -22.00000  15.4%     -    0s
+     0     0  -22.00000    0   48  -26.00000  -22.00000  15.4%     -    0s
+     0     0 infeasible    0       -26.00000  -26.00000  0.00%     -    0s
+     0     0 infeasible    0       -26.00000  -26.00000  0.00%     -    0s
+
+Cutting planes:
+  Clique: 6
+  RLT: 2
+  BQP: 3
+
+Explored 1 nodes (184 simplex iterations) in 0.03 seconds (0.01 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 1: -26 
+No other solutions better than -26
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -2.600000000000e+01, best bound -2.600000000000e+01, gap 0.0000%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 3
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 0.275896 s
+
+place_information 54 calls | total 0.000050 s | avg 0.000000929 s
+map_lut_with_reset 3 calls | total 0.239575 s | avg 0.079858480 s
+execute_Copy 3 calls | total 0.033331 s | avg 0.011110360 s
+cal_V_temp 3 calls | total 0.000161 s | avg 0.000053613 s
+compute_reduce_space 3 calls | total 0.000023 s | avg 0.000007793 s
+Blocking 3 calls | total 0.000713 s | avg 0.000237800 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 3 calls | total 0.002041 s | avg 0.000680437 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 111 calls | total 0.000029 s | avg 0.000000264 s
+A_star_search::section2-1 | 4170 calls | total 0.002706 s | avg 0.000000649 s
+A_star_search::section6 | 4059 calls | total 0.017419 s | avg 0.000004292 s
+
+[ ILP solve time summary ]
+ILP1_map_lut: 3 calls | total 0.047734 s | avg 0.015911386 s
+ILP2_row_group_refine: 3 calls | total 0.001281 s | avg 0.000427123 s
+{(3, 2): 2, (3, 3): 8, (4, 3): 4, (5, 3): 1}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{(3, 2): 1, (3, 3): 4, (4, 3): 4, (5, 3): 1}
+{'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{(3, 2): 1, (3, 3): 4, (4, 3): 2, (5, 3): 1}
+{'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Current level luts: ['n79', 'n80', 'n54', 'n60', 'n65', 'n72', 'n74', 'n83', 'n89', 'n96', 'n55', 'n56', 'n58', 'n59', 'n86']
+Trying to map LUT at level 4 with fanin {'IG99gat', 'n67'} and expression (~IG99gat & n67)
+Number of terms: 1
+Terms: [['~IG99gat', 'n67', '0'], ['.', '.', '~n79']]
+Trying to map LUT at level 4 with fanin {'IG105gat', 'n67'} and expression (~IG105gat & n67)
+Number of terms: 1
+Terms: [['~IG105gat', 'n67', '0'], ['.', '.', '~n80']]
+Trying to map LUT at level 4 with fanin {'OG223gat', 'IG76gat', 'IG82gat'} and expression (~OG223gat & IG82gat) | (~IG76gat & IG82gat)
+Number of terms: 2
+Terms: [['~OG223gat', 'IG82gat', '0'], ['~IG76gat', 'IG82gat', '0'], ['.', '.', '~n54']]
+Trying to map LUT at level 4 with fanin {'n62', 'n61', 'IG21gat'} and expression (~n61 & ~n62) | (IG21gat & ~n62)
+Number of terms: 2
+Terms: [['~n61', '~n62', '0'], ['IG21gat', '~n62', '0'], ['.', '.', '~n60']]
+Trying to map LUT at level 4 with fanin {'IG99gat', 'n66', 'IG112gat', 'n67'} and expression ~((~IG112gat & n66) | (~IG99gat & n67))
+Number of terms: 2
+Terms: [['~IG112gat', 'n66', '0'], ['~IG99gat', 'n67', '0'], ['.', '.', '~n65']]
+Trying to map LUT at level 4 with fanin {'IG30gat', 'OG223gat', 'IG24gat'} and expression (~OG223gat & IG30gat) | (~IG24gat & IG30gat)
+Number of terms: 2
+Terms: [['~OG223gat', 'IG30gat', '0'], ['~IG24gat', 'IG30gat', '0'], ['.', '.', '~n72']]
+Trying to map LUT at level 4 with fanin {'IG1gat', 'OG223gat', 'IG4gat'} and expression (~OG223gat & IG4gat) | (~IG1gat & IG4gat)
+Number of terms: 2
+Terms: [['~OG223gat', 'IG4gat', '0'], ['~IG1gat', 'IG4gat', '0'], ['.', '.', '~n74']]
+Trying to map LUT at level 4 with fanin {'IG43gat', 'IG37gat', 'OG223gat'} and expression (~OG223gat & IG43gat) | (~IG37gat & IG43gat)
+Number of terms: 2
+Terms: [['~OG223gat', 'IG43gat', '0'], ['~IG37gat', 'IG43gat', '0'], ['.', '.', '~n83']]
+Trying to map LUT at level 4 with fanin {'IG63gat', 'OG223gat', 'IG69gat'} and expression (~OG223gat & IG69gat) | (~IG63gat & IG69gat)
+Number of terms: 2
+Terms: [['~OG223gat', 'IG69gat', '0'], ['~IG63gat', 'IG69gat', '0'], ['.', '.', '~n89']]
+Trying to map LUT at level 4 with fanin {'IG50gat', 'OG223gat', 'IG56gat'} and expression (~OG223gat & IG56gat) | (~IG50gat & IG56gat)
+Number of terms: 2
+Terms: [['~OG223gat', 'IG56gat', '0'], ['~IG50gat', 'IG56gat', '0'], ['.', '.', '~n96']]
+Trying to map LUT at level 4 with fanin {'IG43gat', 'IG47gat', 'IG37gat', 'OG223gat'} and expression (~OG223gat & ~IG47gat & IG43gat) | (~IG37gat & ~IG47gat & IG43gat)
+Number of terms: 2
+Terms: [['~OG223gat', '~IG47gat', 'IG43gat', '0'], ['~IG37gat', '~IG47gat', 'IG43gat', '0'], ['.', '.', '.', '~n55']]
+Trying to map LUT at level 4 with fanin {'IG63gat', 'OG223gat', 'IG73gat', 'IG69gat'} and expression (~OG223gat & ~IG73gat & IG69gat) | (~IG63gat & ~IG73gat & IG69gat)
+Number of terms: 2
+Terms: [['~OG223gat', '~IG73gat', 'IG69gat', '0'], ['~IG63gat', '~IG73gat', 'IG69gat', '0'], ['.', '.', '.', '~n56']]
+Trying to map LUT at level 4 with fanin {'IG8gat', 'OG223gat', 'IG4gat', 'IG1gat'} and expression (~OG223gat & ~IG8gat & IG4gat) | (~IG1gat & ~IG8gat & IG4gat)
+Number of terms: 2
+Terms: [['~OG223gat', '~IG8gat', 'IG4gat', '0'], ['~IG1gat', '~IG8gat', 'IG4gat', '0'], ['.', '.', '.', '~n58']]
+Trying to map LUT at level 4 with fanin {'IG30gat', 'OG223gat', 'IG24gat', 'IG34gat'} and expression (~OG223gat & ~IG34gat & IG30gat) | (~IG24gat & ~IG34gat & IG30gat)
+Number of terms: 2
+Terms: [['~OG223gat', '~IG34gat', 'IG30gat', '0'], ['~IG24gat', '~IG34gat', 'IG30gat', '0'], ['.', '.', '.', '~n59']]
+Trying to map LUT at level 4 with fanin {'IG66gat', 'IG50gat', 'OG223gat', 'IG56gat'} and expression (~IG66gat & ~OG223gat & IG50gat & IG56gat) | (~IG66gat & OG223gat & ~IG50gat & IG56gat)
+Number of terms: 2
+Terms: [['~IG66gat', '~OG223gat', 'IG50gat', 'IG56gat', '0'], ['~IG66gat', 'OG223gat', '~IG50gat', 'IG56gat', '0'], ['.', '.', '.', '.', '~n86']]
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[n79,0,0].Start = 1.0
+[warmstart] x[n80,0,3].Start = 1.0
+[warmstart] x[n54,2,0].Start = 1.0
+[warmstart] x[n60,5,0].Start = 1.0
+[warmstart] x[n65,8,0].Start = 1.0
+[warmstart] x[n72,11,0].Start = 1.0
+[warmstart] x[n74,2,3].Start = 1.0
+[warmstart] x[n83,5,3].Start = 1.0
+[warmstart] x[n89,8,3].Start = 1.0
+[warmstart] x[n96,11,3].Start = 1.0
+[warmstart] x[n55,2,6].Start = 1.0
+[warmstart] x[n56,5,6].Start = 1.0
+[warmstart] x[n58,8,6].Start = 1.0
+[warmstart] x[n59,11,6].Start = 1.0
+[warmstart] x[n86,2,14].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 1750 rows, 891 columns and 4816 nonzeros
+Model fingerprint: 0x30e39269
+Variable types: 0 continuous, 891 integer (891 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+Warning: Completing partial solution with 813 unfixed non-continuous variables out of 891
+User MIP start produced solution with objective -20 (0.00s)
+Loaded user MIP start with objective -20
+
+Presolve removed 1445 rows and 417 columns
+Presolve time: 0.04s
+Presolved: 305 rows, 474 columns, 1694 nonzeros
+Variable types: 0 continuous, 474 integer (474 binary)
+
+Root relaxation: objective -1.550000e+01, 321 iterations, 0.01 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -15.50000    0  116  -20.00000  -15.50000  22.5%     -    0s
+     0     0  -16.00000    0  153  -20.00000  -16.00000  20.0%     -    0s
+     0     0  -17.00000    0   87  -20.00000  -17.00000  15.0%     -    0s
+     0     0  -17.27778    0   87  -20.00000  -17.27778  13.6%     -    0s
+     0     0  -17.27778    0   87  -20.00000  -17.27778  13.6%     -    0s
+     0     0  -17.33333    0   92  -20.00000  -17.33333  13.3%     -    0s
+     0     0  -17.53333    0   91  -20.00000  -17.53333  12.3%     -    0s
+     0     0  -17.53333    0   97  -20.00000  -17.53333  12.3%     -    0s
+     0     0  -17.55000    0  118  -20.00000  -17.55000  12.3%     -    0s
+     0     0  -17.61667    0  125  -20.00000  -17.61667  11.9%     -    0s
+     0     0  -17.61667    0  126  -20.00000  -17.61667  11.9%     -    0s
+     0     0  -17.69697    0   58  -20.00000  -17.69697  11.5%     -    0s
+     0     0  -17.69697    0   88  -20.00000  -17.69697  11.5%     -    0s
+     0     0  -17.69697    0  141  -20.00000  -17.69697  11.5%     -    0s
+     0     0  -17.84848    0  101  -20.00000  -17.84848  10.8%     -    0s
+     0     0  -17.84848    0   95  -20.00000  -17.84848  10.8%     -    0s
+     0     0  -18.36842    0   94  -20.00000  -18.36842  8.16%     -    0s
+     0     0  -18.69537    0   96  -20.00000  -18.69537  6.52%     -    0s
+     0     0  -18.69537    0   93  -20.00000  -18.69537  6.52%     -    0s
+
+Cutting planes:
+  Gomory: 6
+  Clique: 15
+  MIR: 6
+  Zero half: 10
+  RLT: 4
+
+Explored 1 nodes (3715 simplex iterations) in 0.39 seconds (0.15 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 2: -20 -20 
+No other solutions better than -20
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -2.000000000000e+01, best bound -2.000000000000e+01, gap 0.0000%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 4
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 0.898473 s
+
+place_information 122 calls | total 0.000109 s | avg 0.000000894 s
+map_lut_with_reset 4 calls | total 0.769946 s | avg 0.192486444 s
+execute_Copy 4 calls | total 0.123429 s | avg 0.030857222 s
+cal_V_temp 7 calls | total 0.000361 s | avg 0.000051588 s
+compute_reduce_space 7 calls | total 0.000045 s | avg 0.000006435 s
+Blocking 4 calls | total 0.001286 s | avg 0.000321424 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 4 calls | total 0.003297 s | avg 0.000824321 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 283 calls | total 0.000074 s | avg 0.000000262 s
+A_star_search::section2-1 | 16453 calls | total 0.011463 s | avg 0.000000697 s
+A_star_search::section6 | 16170 calls | total 0.072624 s | avg 0.000004491 s
+
+[ ILP solve time summary ]
+ILP1_map_lut: 4 calls | total 0.440976 s | avg 0.110243891 s
+ILP2_row_group_refine: 4 calls | total 0.002026 s | avg 0.000506424 s
+{(5, 2): 1, (4, 3): 1}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Trying to use area: {'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Current level luts: ['n53', 'n57']
+Trying to map LUT at level 5 with fanin {'n56', 'n54', 'n55', 'IG86gat'} and expression (~n54 & ~n56 & ~n55) | (IG86gat & ~n56 & ~n55)
+Number of terms: 2
+Terms: [['~n54', '~n56', '~n55', '0'], ['IG86gat', '~n56', '~n55', '0'], ['.', '.', '.', '~n53']]
+Trying to map LUT at level 5 with fanin {'n58', 'n59', 'n60', 'n65'} and expression (~n58 & ~n59 & n60 & n65)
+Number of terms: 1
+Terms: [['~n58', '~n59', 'n60', 'n65', '0'], ['.', '.', '.', '.', '~n57']]
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[n53,2,0].Start = 1.0
+[warmstart] x[n57,0,4].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 108 rows, 73 columns and 236 nonzeros
+Model fingerprint: 0x4af8fe25
+Variable types: 0 continuous, 73 integer (73 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+User MIP start produced solution with objective -16 (0.00s)
+Loaded user MIP start with objective -16
+
+Presolve removed 85 rows and 52 columns
+Presolve time: 0.00s
+Presolved: 23 rows, 21 columns, 54 nonzeros
+Variable types: 0 continuous, 21 integer (21 binary)
+
+Root relaxation: cutoff, 17 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0     cutoff    0       -16.00000  -16.00000  0.00%     -    0s
+
+Explored 1 nodes (17 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 1: -16 
+No other solutions better than -16
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -1.600000000000e+01, best bound -1.600000000000e+01, gap 0.0000%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 5
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 0.956806 s
+
+place_information 132 calls | total 0.000125 s | avg 0.000000948 s
+map_lut_with_reset 5 calls | total 0.820682 s | avg 0.164136358 s
+execute_Copy 5 calls | total 0.130068 s | avg 0.026013622 s
+cal_V_temp 8 calls | total 0.000412 s | avg 0.000051511 s
+compute_reduce_space 8 calls | total 0.000053 s | avg 0.000006634 s
+Blocking 5 calls | total 0.001547 s | avg 0.000309372 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 5 calls | total 0.003919 s | avg 0.000783852 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 296 calls | total 0.000079 s | avg 0.000000268 s
+A_star_search::section2-1 | 16947 calls | total 0.011788 s | avg 0.000000696 s
+A_star_search::section6 | 16651 calls | total 0.074655 s | avg 0.000004483 s
+
+[ ILP solve time summary ]
+ILP1_map_lut: 5 calls | total 0.444039 s | avg 0.088807829 s
+ILP2_row_group_refine: 5 calls | total 0.002457 s | avg 0.000491364 s
+{(3, 2): 1, (4, 2): 1, (4, 3): 2, (5, 4): 2}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 6, 'V4': 8}
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 6, 'V4': 8}
+Current level luts: ['OG329gat', 'n84', 'n77', 'n82', 'n78', 'n85']
+Trying to map LUT at level 6 with fanin {'n53', 'n57'} and expression ~((n53 & n57))
+Number of terms: 1
+Terms: [['n53', 'n57', '0'], ['.', '.', '~OG329gat']]
+Trying to map LUT at level 6 with fanin {'n53', 'n57', 'n55'} and expression (n53 & n57 & n55)
+Number of terms: 1
+Terms: [['n53', 'n57', 'n55', '0'], ['.', '.', '.', '~n84']]
+Trying to map LUT at level 6 with fanin {'n53', 'n66', 'n57', 'IG112gat'} and expression (~IG112gat & n66) | (n57 & n53 & n66)
+Number of terms: 2
+Terms: [['~IG112gat', 'n66', '0', '0'], ['n57', 'n53', 'n66', '0'], ['.', '.', '.', '~n77']]
+Trying to map LUT at level 6 with fanin {'n83', 'n53', 'IG47gat', 'n57'} and expression (~IG47gat & n83) | (n57 & n53 & n83)
+Number of terms: 2
+Terms: [['~IG47gat', 'n83', '0', '0'], ['n57', 'n53', 'n83', '0'], ['.', '.', '.', '~n82']]
+Trying to map LUT at level 6 with fanin {'n80', 'n53', 'n57', 'n79'} and expression (~n57 & n79 & n80) | (~n53 & n79 & n80) | (n53 & n57 & ~n79 & n80)
+Number of terms: 3
+Terms: [['~n57', 'n79', 'n80', '0', '0'], ['~n53', 'n79', 'n80', '0', '0'], ['n53', 'n57', '~n79', 'n80', '0'], ['.', '.', '.', '.', '~n78']]
+Trying to map LUT at level 6 with fanin {'n53', 'n57', 'n62', 'n86'} and expression (~n57 & n62 & n86) | (~n53 & n62 & n86) | (n53 & n57 & ~n62 & n86)
+Number of terms: 3
+Terms: [['~n57', 'n62', 'n86', '0', '0'], ['~n53', 'n62', 'n86', '0', '0'], ['n53', 'n57', '~n62', 'n86', '0'], ['.', '.', '.', '.', '~n85']]
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[OG329gat,0,0].Start = 1.0
+[warmstart] x[n84,0,3].Start = 1.0
+[warmstart] x[n77,2,3].Start = 1.0
+[warmstart] x[n82,5,3].Start = 1.0
+[warmstart] x[n78,8,7].Start = 1.0
+[warmstart] x[n85,12,7].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 855 rows, 383 columns and 1982 nonzeros
+Model fingerprint: 0xf34af1e7
+Variable types: 0 continuous, 383 integer (383 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+User MIP start produced solution with objective -44 (0.01s)
+Loaded user MIP start with objective -44
+
+Presolve removed 639 rows and 150 columns
+Presolve time: 0.03s
+Presolved: 216 rows, 233 columns, 888 nonzeros
+Variable types: 0 continuous, 233 integer (233 binary)
+
+Root relaxation: objective -4.000000e+01, 322 iterations, 0.01 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -40.00000    0   61  -44.00000  -40.00000  9.09%     -    0s
+     0     0  -41.50000    0   60  -44.00000  -41.50000  5.68%     -    0s
+
+Cutting planes:
+  Gomory: 1
+  Zero half: 7
+
+Explored 1 nodes (557 simplex iterations) in 0.05 seconds (0.02 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 1: -44 
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -4.400000000000e+01, best bound -4.200000000000e+01, gap 4.5455%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 6
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 1.174242 s
+
+place_information 167 calls | total 0.000172 s | avg 0.000001030 s
+map_lut_with_reset 6 calls | total 0.977961 s | avg 0.162993563 s
+execute_Copy 6 calls | total 0.188947 s | avg 0.031491169 s
+cal_V_temp 9 calls | total 0.000472 s | avg 0.000052405 s
+compute_reduce_space 9 calls | total 0.000064 s | avg 0.000007060 s
+Blocking 6 calls | total 0.001834 s | avg 0.000305668 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 6 calls | total 0.004792 s | avg 0.000798648 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 494 calls | total 0.000129 s | avg 0.000000262 s
+A_star_search::section2-1 | 24778 calls | total 0.016874 s | avg 0.000000681 s
+A_star_search::section6 | 24284 calls | total 0.106997 s | avg 0.000004406 s
+
+[ ILP solve time summary ]
+ILP1_map_lut: 6 calls | total 0.513431 s | avg 0.085571837 s
+ILP2_row_group_refine: 6 calls | total 0.003248 s | avg 0.000541276 s
+{(3, 3): 8, (4, 3): 4, (5, 3): 1}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{(3, 3): 4, (4, 3): 4, (5, 3): 1}
+{'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{(3, 3): 4, (4, 3): 2, (5, 3): 1}
+{'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Current level luts: ['n70', 'n76', 'n92', 'n95', 'n100', 'n103', 'n104', 'n107', 'n71', 'n73', 'n81', 'n87', 'n88']
+Trying to map LUT at level 7 with fanin {'OG329gat', 'n61', 'IG21gat'} and expression (~OG329gat & n61) | (~IG21gat & n61)
+Number of terms: 2
+Terms: [['~OG329gat', 'n61', '0'], ['~IG21gat', 'n61', '0'], ['.', '.', '~n70']]
+Trying to map LUT at level 7 with fanin {'IG115gat', 'n78', 'n77'} and expression (~n77 & ~n78) | (IG115gat & ~n78)
+Number of terms: 2
+Terms: [['~n77', '~n78', '0'], ['IG115gat', '~n78', '0'], ['.', '.', '~n76']]
+Trying to map LUT at level 7 with fanin {'IG8gat', 'OG329gat', 'n74'} and expression (~OG329gat & n74) | (~IG8gat & n74)
+Number of terms: 2
+Terms: [['~OG329gat', 'n74', '0'], ['~IG8gat', 'n74', '0'], ['.', '.', '~n92']]
+Trying to map LUT at level 7 with fanin {'n96', 'IG60gat', 'OG329gat'} and expression (~OG329gat & n96) | (~IG60gat & n96)
+Number of terms: 2
+Terms: [['~OG329gat', 'n96', '0'], ['~IG60gat', 'n96', '0'], ['.', '.', '~n95']]
+Trying to map LUT at level 7 with fanin {'n72', 'IG34gat', 'OG329gat'} and expression (~OG329gat & n72) | (~IG34gat & n72)
+Number of terms: 2
+Terms: [['~OG329gat', 'n72', '0'], ['~IG34gat', 'n72', '0'], ['.', '.', '~n100']]
+Trying to map LUT at level 7 with fanin {'n54', 'OG329gat', 'IG86gat'} and expression (~OG329gat & n54) | (~IG86gat & n54)
+Number of terms: 2
+Terms: [['~OG329gat', 'n54', '0'], ['~IG86gat', 'n54', '0'], ['.', '.', '~n103']]
+Trying to map LUT at level 7 with fanin {'n67', 'OG329gat', 'IG99gat'} and expression (~OG329gat & n67) | (~IG99gat & n67)
+Number of terms: 2
+Terms: [['~OG329gat', 'n67', '0'], ['~IG99gat', 'n67', '0'], ['.', '.', '~n104']]
+Trying to map LUT at level 7 with fanin {'OG329gat', 'IG73gat', 'n89'} and expression (~OG329gat & n89) | (~IG73gat & n89)
+Number of terms: 2
+Terms: [['~OG329gat', 'n89', '0'], ['~IG73gat', 'n89', '0'], ['.', '.', '~n107']]
+Trying to map LUT at level 7 with fanin {'n72', 'IG40gat', 'IG34gat', 'OG329gat'} and expression (~OG329gat & ~IG40gat & n72) | (~IG34gat & ~IG40gat & n72)
+Number of terms: 2
+Terms: [['~OG329gat', '~IG40gat', 'n72', '0'], ['~IG34gat', '~IG40gat', 'n72', '0'], ['.', '.', '.', '~n71']]
+Trying to map LUT at level 7 with fanin {'IG8gat', 'IG14gat', 'OG329gat', 'n74'} and expression (~OG329gat & ~IG14gat & n74) | (~IG8gat & ~IG14gat & n74)
+Number of terms: 2
+Terms: [['~OG329gat', '~IG14gat', 'n74', '0'], ['~IG8gat', '~IG14gat', 'n74', '0'], ['.', '.', '.', '~n73']]
+Trying to map LUT at level 7 with fanin {'n85', 'n82', 'n84', 'IG53gat'} and expression ~((n85) | (~n84 & ~IG53gat & n82))
+Number of terms: 2
+Terms: [['n85', '0', '0', '0'], ['~n84', '~IG53gat', 'n82', '0'], ['.', '.', '.', '~n81']]
+Trying to map LUT at level 7 with fanin {'IG92gat', 'n54', 'OG329gat', 'IG86gat'} and expression (~OG329gat & ~IG92gat & n54) | (~IG86gat & ~IG92gat & n54)
+Number of terms: 2
+Terms: [['~OG329gat', '~IG92gat', 'n54', '0'], ['~IG86gat', '~IG92gat', 'n54', '0'], ['.', '.', '.', '~n87']]
+Trying to map LUT at level 7 with fanin {'IG79gat', 'IG73gat', 'n89', 'OG329gat'} and expression (~IG79gat & ~OG329gat & IG73gat & n89) | (~IG79gat & OG329gat & ~IG73gat & n89)
+Number of terms: 2
+Terms: [['~IG79gat', '~OG329gat', 'IG73gat', 'n89', '0'], ['~IG79gat', 'OG329gat', '~IG73gat', 'n89', '0'], ['.', '.', '.', '.', '~n88']]
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[n70,0,0].Start = 1.0
+[warmstart] x[n76,3,0].Start = 1.0
+[warmstart] x[n92,6,0].Start = 1.0
+[warmstart] x[n95,9,0].Start = 1.0
+[warmstart] x[n100,0,3].Start = 1.0
+[warmstart] x[n103,3,3].Start = 1.0
+[warmstart] x[n104,6,3].Start = 1.0
+[warmstart] x[n107,9,3].Start = 1.0
+[warmstart] x[n71,0,6].Start = 1.0
+[warmstart] x[n73,3,6].Start = 1.0
+[warmstart] x[n81,6,6].Start = 1.0
+[warmstart] x[n87,9,6].Start = 1.0
+[warmstart] x[n88,0,14].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 3183 rows, 1430 columns and 8068 nonzeros
+Model fingerprint: 0x9687ba0f
+Variable types: 0 continuous, 1430 integer (1430 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+Warning: Completing partial solution with 1334 unfixed non-continuous variables out of 1430
+User MIP start produced solution with objective -51 (0.00s)
+Loaded user MIP start with objective -51
+
+Presolve removed 2111 rows and 78 columns
+Presolve time: 0.05s
+Presolved: 1072 rows, 1352 columns, 4590 nonzeros
+Variable types: 0 continuous, 1352 integer (1352 binary)
+
+Root relaxation: objective -3.400000e+01, 1785 iterations, 0.10 seconds (0.06 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -34.00000    0  342  -51.00000  -34.00000  33.3%     -    0s
+H    0     0                     -49.0000000  -34.00000  30.6%     -    0s
+H    0     0                     -47.0000000  -34.00000  27.7%     -    0s
+     0     0  -34.00000    0  608  -47.00000  -34.00000  27.7%     -    0s
+H    0     0                     -46.0000000  -35.75926  22.3%     -    1s
+H    0     0                     -45.0000000  -35.75926  20.5%     -    1s
+     0     0  -35.75926    0  475  -45.00000  -35.75926  20.5%     -    1s
+     0     0  -36.28305    0  541  -45.00000  -36.28305  19.4%     -    1s
+     0     0  -37.74356    0  591  -45.00000  -37.74356  16.1%     -    1s
+     0     0  -38.04801    0  598  -45.00000  -38.04801  15.4%     -    1s
+     0     0  -38.04967    0  591  -45.00000  -38.04967  15.4%     -    1s
+     0     0  -38.05025    0  588  -45.00000  -38.05025  15.4%     -    1s
+     0     0  -39.23109    0  659  -45.00000  -39.23109  12.8%     -    1s
+     0     0  -39.30602    0  691  -45.00000  -39.30602  12.7%     -    1s
+     0     0  -39.32768    0  687  -45.00000  -39.32768  12.6%     -    1s
+     0     0  -39.32768    0  641  -45.00000  -39.32768  12.6%     -    1s
+     0     0  -39.36793    0  478  -45.00000  -39.36793  12.5%     -    1s
+     0     2  -39.36793    0  478  -45.00000  -39.36793  12.5%     -    2s
+   195   109  -42.19608   12  394  -45.00000  -40.14742  10.8%   240    5s
+   528   238     cutoff   21       -45.00000  -40.90994  9.09%   195   10s
+   901   408  -42.71659   19  413  -45.00000  -41.32117  8.18%   174   16s
+  1285   553  -42.36000   15  312  -45.00000  -41.64655  7.45%   165   20s
+  1825   745  -43.30444   12  294  -45.00000  -41.81855  7.07%   154   25s
+
+Cutting planes:
+  Learned: 2
+  Gomory: 2
+  Clique: 12
+  MIR: 4
+  Zero half: 9
+  RLT: 1
+  Relax-and-lift: 1
+
+Explored 2015 nodes (324550 simplex iterations) in 26.01 seconds (20.31 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 8: -45 -45 -46 ... -51
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -4.500000000000e+01, best bound -4.300000000000e+01, gap 4.4444%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 7
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 27.498421 s
+
+place_information 229 calls | total 0.000320 s | avg 0.000001396 s
+map_lut_with_reset 7 calls | total 27.192520 s | avg 3.884645712 s
+execute_Copy 7 calls | total 0.296520 s | avg 0.042360071 s
+cal_V_temp 13 calls | total 0.000656 s | avg 0.000050448 s
+compute_reduce_space 13 calls | total 0.000081 s | avg 0.000006225 s
+Blocking 7 calls | total 0.002401 s | avg 0.000342959 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 7 calls | total 0.005923 s | avg 0.000846162 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 752 calls | total 0.000206 s | avg 0.000000275 s
+A_star_search::section2-1 | 41074 calls | total 0.026347 s | avg 0.000000641 s
+A_star_search::section6 | 40322 calls | total 0.169767 s | avg 0.000004210 s
+
+[ ILP solve time summary ]
+ILP1_map_lut: 7 calls | total 26.547056 s | avg 3.792436533 s
+ILP2_row_group_refine: 7 calls | total 0.025055 s | avg 0.003579344 s
+{(5, 2): 1, (4, 3): 1}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Trying to use area: {'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Current level luts: ['n69', 'n75']
+Trying to map LUT at level 8 with fanin {'IG27gat', 'n70', 'n73', 'n71'} and expression (~n70 & ~n73 & ~n71) | (IG27gat & ~n73 & ~n71)
+Number of terms: 2
+Terms: [['~n70', '~n73', '~n71', '0'], ['IG27gat', '~n73', '~n71', '0'], ['.', '.', '.', '~n69']]
+Trying to map LUT at level 8 with fanin {'n88', 'n81', 'n87', 'n76'} and expression (~n87 & ~n88 & n76 & n81)
+Number of terms: 1
+Terms: [['~n87', '~n88', 'n76', 'n81', '0'], ['.', '.', '.', '.', '~n75']]
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[n69,2,0].Start = 1.0
+[warmstart] x[n75,0,4].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 108 rows, 73 columns and 236 nonzeros
+Model fingerprint: 0x116ec4c5
+Variable types: 0 continuous, 73 integer (73 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+User MIP start produced solution with objective -16 (0.00s)
+Loaded user MIP start with objective -16
+
+Presolve removed 85 rows and 52 columns
+Presolve time: 0.00s
+Presolved: 23 rows, 21 columns, 54 nonzeros
+Variable types: 0 continuous, 21 integer (21 binary)
+
+Root relaxation: cutoff, 17 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0     cutoff    0       -16.00000  -16.00000  0.00%     -    0s
+
+Explored 1 nodes (17 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 1: -16 
+No other solutions better than -16
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -1.600000000000e+01, best bound -1.600000000000e+01, gap 0.0000%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 8
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 27.581626 s
+
+place_information 239 calls | total 0.000362 s | avg 0.000001515 s
+map_lut_with_reset 8 calls | total 27.262085 s | avg 3.407760685 s
+execute_Copy 8 calls | total 0.308961 s | avg 0.038620100 s
+cal_V_temp 14 calls | total 0.000704 s | avg 0.000050263 s
+compute_reduce_space 14 calls | total 0.000090 s | avg 0.000006413 s
+Blocking 8 calls | total 0.002812 s | avg 0.000351465 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 8 calls | total 0.006612 s | avg 0.000826552 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 765 calls | total 0.000216 s | avg 0.000000282 s
+A_star_search::section2-1 | 41679 calls | total 0.026824 s | avg 0.000000644 s
+A_star_search::section6 | 40914 calls | total 0.173149 s | avg 0.000004232 s
+
+[ ILP solve time summary ]
+ILP1_map_lut: 8 calls | total 26.550515 s | avg 3.318814365 s
+ILP2_row_group_refine: 8 calls | total 0.049667 s | avg 0.006208376 s
+{(3, 2): 1, (4, 3): 6}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{(3, 2): 1, (4, 3): 3}
+{'H2': 0, 'H3': 3, 'H4': 8, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{(3, 2): 1, (4, 3): 2}
+{'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Current level luts: ['OG370gat', 'n94', 'n97', 'n98', 'n99', 'n102', 'n106']
+Trying to map LUT at level 9 with fanin {'n75', 'n69'} and expression ~((n69 & n75))
+Number of terms: 1
+Terms: [['n69', 'n75', '0'], ['.', '.', '~OG370gat']]
+Trying to map LUT at level 9 with fanin {'IG66gat', 'n69', 'n95', 'n75'} and expression (~IG66gat & n95) | (n75 & n69 & n95)
+Number of terms: 2
+Terms: [['~IG66gat', 'n95', '0', '0'], ['n75', 'n69', 'n95', '0'], ['.', '.', '.', '~n94']]
+Trying to map LUT at level 9 with fanin {'n75', 'n69', 'n82', 'IG53gat'} and expression (~IG53gat & n82) | (n75 & n69 & n82)
+Number of terms: 2
+Terms: [['~IG53gat', 'n82', '0', '0'], ['n75', 'n69', 'n82', '0'], ['.', '.', '.', '~n97']]
+Trying to map LUT at level 9 with fanin {'n75', 'IG27gat', 'n69', 'n70'} and expression (~IG27gat & n70) | (n75 & n69 & n70)
+Number of terms: 2
+Terms: [['~IG27gat', 'n70', '0', '0'], ['n75', 'n69', 'n70', '0'], ['.', '.', '.', '~n98']]
+Trying to map LUT at level 9 with fanin {'n75', 'IG40gat', 'n69', 'n100'} and expression (~IG40gat & n100) | (n75 & n69 & n100)
+Number of terms: 2
+Terms: [['~IG40gat', 'n100', '0', '0'], ['n75', 'n69', 'n100', '0'], ['.', '.', '.', '~n99']]
+Trying to map LUT at level 9 with fanin {'IG92gat', 'n69', 'n103', 'n75'} and expression (~IG92gat & n103) | (n75 & n69 & n103)
+Number of terms: 2
+Terms: [['~IG92gat', 'n103', '0', '0'], ['n75', 'n69', 'n103', '0'], ['.', '.', '.', '~n102']]
+Trying to map LUT at level 9 with fanin {'n75', 'n69', 'n107', 'IG79gat'} and expression (~IG79gat & n107) | (n75 & n69 & n107)
+Number of terms: 2
+Terms: [['~IG79gat', 'n107', '0', '0'], ['n75', 'n69', 'n107', '0'], ['.', '.', '.', '~n106']]
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[OG370gat,0,0].Start = 1.0
+[warmstart] x[n94,2,3].Start = 1.0
+[warmstart] x[n97,5,3].Start = 1.0
+[warmstart] x[n98,2,7].Start = 1.0
+[warmstart] x[n99,5,7].Start = 1.0
+[warmstart] x[n102,2,11].Start = 1.0
+[warmstart] x[n106,5,11].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 1608 rows, 728 columns and 4137 nonzeros
+Model fingerprint: 0x7d63f25f
+Variable types: 0 continuous, 728 integer (728 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+Warning: Completing partial solution with 684 unfixed non-continuous variables out of 728
+User MIP start produced solution with objective -32 (0.00s)
+Loaded user MIP start with objective -32
+
+Presolve removed 996 rows and 12 columns
+Presolve time: 0.03s
+Presolved: 612 rows, 716 columns, 2616 nonzeros
+Variable types: 0 continuous, 716 integer (716 binary)
+
+Root relaxation: objective -2.000000e+01, 1112 iterations, 0.04 seconds (0.03 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -20.00000    0  258  -32.00000  -20.00000  37.5%     -    0s
+     0     0  -20.73585    0  407  -32.00000  -20.73585  35.2%     -    0s
+     0     0  -20.77778    0  455  -32.00000  -20.77778  35.1%     -    0s
+     0     0  -22.48878    0  418  -32.00000  -22.48878  29.7%     -    0s
+     0     0  -22.55969    0  415  -32.00000  -22.55969  29.5%     -    0s
+     0     0  -22.56167    0  415  -32.00000  -22.56167  29.5%     -    0s
+     0     0  -22.80882    0  446  -32.00000  -22.80882  28.7%     -    0s
+     0     0  -22.87632    0  458  -32.00000  -22.87632  28.5%     -    0s
+     0     0  -22.87799    0  435  -32.00000  -22.87799  28.5%     -    0s
+     0     0  -23.39993    0  449  -32.00000  -23.39993  26.9%     -    0s
+     0     0  -23.47264    0  459  -32.00000  -23.47264  26.6%     -    0s
+     0     0  -23.47925    0  458  -32.00000  -23.47925  26.6%     -    0s
+     0     0  -23.47925    0  446  -32.00000  -23.47925  26.6%     -    0s
+     0     0  -23.48708    0  368  -32.00000  -23.48708  26.6%     -    1s
+     0     2  -23.48708    0  320  -32.00000  -23.48708  26.6%     -    1s
+  1051   167  -28.83333    9  169  -32.00000  -27.57143  13.8%  44.3    5s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 1
+  Clique: 99
+  Zero half: 34
+
+Explored 3534 nodes (108788 simplex iterations) in 9.23 seconds (6.14 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 1: -32 
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -3.200000000000e+01, best bound -3.100000000000e+01, gap 3.1250%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 9
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 36.934752 s
+
+place_information 271 calls | total 0.000407 s | avg 0.000001502 s
+map_lut_with_reset 9 calls | total 36.573610 s | avg 4.063734416 s
+execute_Copy 9 calls | total 0.349114 s | avg 0.038790492 s
+cal_V_temp 18 calls | total 0.000848 s | avg 0.000047109 s
+compute_reduce_space 18 calls | total 0.000109 s | avg 0.000006031 s
+Blocking 9 calls | total 0.003293 s | avg 0.000365873 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 9 calls | total 0.007372 s | avg 0.000819070 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 905 calls | total 0.000248 s | avg 0.000000274 s
+A_star_search::section2-1 | 48251 calls | total 0.030152 s | avg 0.000000625 s
+A_star_search::section6 | 47346 calls | total 0.195038 s | avg 0.000004119 s
+
+[ ILP solve time summary ]
+ILP1_map_lut: 9 calls | total 35.777787 s | avg 3.975309704 s
+ILP2_row_group_refine: 9 calls | total 0.050327 s | avg 0.005591883 s
+{(3, 2): 3, (5, 2): 2, (3, 3): 2, (4, 3): 3}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Current level luts: ['n109', 'n110', 'n113', 'n91', 'n115', 'n101', 'n105', 'n114', 'OG430gat', 'n111']
+Trying to map LUT at level 10 with fanin {'n94', 'n97'} and expression (~n94 & ~n97)
+Number of terms: 1
+Terms: [['~n94', '~n97', '0'], ['.', '.', '~n109']]
+Trying to map LUT at level 10 with fanin {'n98', 'n99'} and expression (~n98 & ~n99)
+Number of terms: 1
+Terms: [['~n98', '~n99', '0'], ['.', '.', '~n110']]
+Trying to map LUT at level 10 with fanin {'n99', 'n97'} and expression (~n97 & ~n99)
+Number of terms: 1
+Terms: [['~n97', '~n99', '0'], ['.', '.', '~n113']]
+Trying to map LUT at level 10 with fanin {'n92', 'OG370gat', 'IG14gat'} and expression (~OG370gat & n92) | (~IG14gat & n92)
+Number of terms: 2
+Terms: [['~OG370gat', 'n92', '0'], ['~IG14gat', 'n92', '0'], ['.', '.', '~n91']]
+Trying to map LUT at level 10 with fanin {'n98', 'n99', 'n97'} and expression (~n97 & ~n98) | (n99 & ~n98)
+Number of terms: 2
+Terms: [['~n97', '~n98', '0'], ['n99', '~n98', '0'], ['.', '.', '~n115']]
+Trying to map LUT at level 10 with fanin {'OG370gat', 'n104', 'n102', 'IG105gat'} and expression (~n104 & ~n102) | (OG370gat & IG105gat & ~n102)
+Number of terms: 2
+Terms: [['~n104', '~n102', '0', '0'], ['OG370gat', 'IG105gat', '~n102', '0'], ['.', '.', '.', '~n101']]
+Trying to map LUT at level 10 with fanin {'OG370gat', 'IG115gat', 'n77', 'n106'} and expression (~n77 & ~n106) | (OG370gat & IG115gat & ~n106)
+Number of terms: 2
+Terms: [['~n77', '~n106', '0', '0'], ['OG370gat', 'IG115gat', '~n106', '0'], ['.', '.', '.', '~n105']]
+Trying to map LUT at level 10 with fanin {'OG370gat', 'n104', 'n102', 'IG105gat'} and expression (~OG370gat & ~n102 & n104) | (~IG105gat & ~n102 & n104)
+Number of terms: 2
+Terms: [['~OG370gat', '~n102', 'n104', '0'], ['~IG105gat', '~n102', 'n104', '0'], ['.', '.', '.', '~n114']]
+Trying to map LUT at level 10 with fanin {'n94', 'n99', 'n98', 'n97'} and expression ~((~n94 & ~n97 & ~n98 & ~n99))
+Number of terms: 1
+Terms: [['~n94', '~n97', '~n98', '~n99', '0'], ['.', '.', '.', '.', '~OG430gat']]
+Trying to map LUT at level 10 with fanin {'n94', 'n99', 'n106', 'n97'} and expression (~n94 & ~n97 & ~n99 & n106)
+Number of terms: 1
+Terms: [['~n94', '~n97', '~n99', 'n106', '0'], ['.', '.', '.', '.', '~n111']]
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[n109,0,0].Start = 1.0
+[warmstart] x[n110,2,0].Start = 1.0
+[warmstart] x[n113,4,0].Start = 1.0
+[warmstart] x[n91,6,0].Start = 1.0
+[warmstart] x[n115,9,0].Start = 1.0
+[warmstart] x[n101,6,3].Start = 1.0
+[warmstart] x[n105,9,3].Start = 1.0
+[warmstart] x[n114,12,3].Start = 1.0
+[warmstart] x[OG430gat,0,7].Start = 1.0
+[warmstart] x[n111,2,7].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 1148 rows, 512 columns and 2670 nonzeros
+Model fingerprint: 0xdb0eb3bd
+Variable types: 0 continuous, 512 integer (512 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+User MIP start produced solution with objective -49 (0.00s)
+Loaded user MIP start with objective -49
+
+Presolve removed 839 rows and 150 columns
+Presolve time: 0.02s
+Presolved: 309 rows, 362 columns, 1222 nonzeros
+Variable types: 0 continuous, 362 integer (362 binary)
+
+Root relaxation: objective -4.000000e+01, 317 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -40.00000    0  116  -49.00000  -40.00000  18.4%     -    0s
+H    0     0                     -47.0000000  -40.00000  14.9%     -    0s
+H    0     0                     -46.0000000  -40.00000  13.0%     -    0s
+     0     0  -42.00000    0  155  -46.00000  -42.00000  8.70%     -    0s
+     0     0          -    0       -46.00000  -43.75000  4.89%     -    0s
+
+Cutting planes:
+  Gomory: 4
+  Zero half: 10
+  RLT: 2
+
+Explored 1 nodes (814 simplex iterations) in 0.06 seconds (0.03 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 3: -46 -47 -49 
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -4.600000000000e+01, best bound -4.400000000000e+01, gap 4.3478%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+
+
+
+
+
+
+
+
+
+Finished mapping level: 10
+
+
+[ Function runtime summary ]
+Total accumulated runtime: 37.120763 s
+
+place_information 309 calls | total 0.000459 s | avg 0.000001486 s
+map_lut_with_reset 10 calls | total 36.699445 s | avg 3.669944539 s
+execute_Copy 10 calls | total 0.407972 s | avg 0.040797153 s
+cal_V_temp 19 calls | total 0.000897 s | avg 0.000047207 s
+compute_reduce_space 19 calls | total 0.000117 s | avg 0.000006174 s
+Blocking 10 calls | total 0.003604 s | avg 0.000360372 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 10 calls | total 0.008269 s | avg 0.000826883 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 1051 calls | total 0.000281 s | avg 0.000000267 s
+A_star_search::section2-1 | 57441 calls | total 0.035361 s | avg 0.000000616 s
+A_star_search::section6 | 56390 calls | total 0.228601 s | avg 0.000004054 s
+
+[ ILP solve time summary ]
+ILP1_map_lut: 10 calls | total 35.837889 s | avg 3.583788937 s
+ILP2_row_group_refine: 10 calls | total 0.051489 s | avg 0.005148851 s
+{(4, 3): 3}
+['V2', 'V3', 'V4']
+['H2', 'H3', 'H4', 'H5']
+{'H2': 0, 'H3': 0, 'H4': 4, 'H5': 0, 'V2': 0, 'V3': 9, 'V4': 0}
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 120
+Set parameter MIPGap to value 0.05
+[warmstart] applying map_lut-based warm start
+[warmstart] x[OG421gat,0,0].Start = 1.0
+[warmstart] x[OG431gat,3,0].Start = 1.0
+[warmstart] x[OG432gat,6,0].Start = 1.0
+Set parameter MIPFocus to value 1
+Set parameter Heuristics to value 0.5
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Ubuntu 20.04.6 LTS")
+
+CPU model: Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 64 physical cores, 128 logical processors, using up to 4 threads
+
+Optimize a model with 544 rows, 288 columns and 1308 nonzeros
+Model fingerprint: 0xdc2d26cc
+Variable types: 0 continuous, 288 integer (288 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+User MIP start produced solution with objective -27 (0.00s)
+Loaded user MIP start with objective -27
+
+Presolve removed 415 rows and 99 columns
+Presolve time: 0.01s
+Presolved: 129 rows, 189 columns, 579 nonzeros
+Variable types: 0 continuous, 189 integer (189 binary)
+
+Root relaxation: cutoff, 130 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0     cutoff    0       -27.00000  -27.00000  0.00%     -    0s
+
+Explored 1 nodes (130 simplex iterations) in 0.01 seconds (0.01 work units)
+Thread count was 4 (of 128 available processors)
+
+Solution count 1: -27 
+No other solutions better than -27
+
+Optimal solution found (tolerance 5.00e-02)
+Best objective -2.700000000000e+01, best bound -2.700000000000e+01, gap 0.0000%
+Set parameter Threads to value 4
+Set parameter TimeLimit to value 60
+
+Finished mapping the last level
+
+[]
+all luts mapping successfully
+
+[ Function runtime summary ]
+Total accumulated runtime: 37.235520 s
+
+place_information 325 calls | total 0.000484 s | avg 0.000001490 s
+map_lut_with_reset 11 calls | total 36.786140 s | avg 3.344194550 s
+execute_Copy 11 calls | total 0.435710 s | avg 0.039610044 s
+cal_V_temp 20 calls | total 0.000938 s | avg 0.000046897 s
+compute_reduce_space 20 calls | total 0.000121 s | avg 0.000006044 s
+Blocking 11 calls | total 0.003857 s | avg 0.000350667 s
+max_luts_in_one_V 0 calls | total 0.000000 s | avg 0.000000000 s
+levelup_luts 0 calls | total 0.000000 s | avg 0.000000000 s
+update_mapping_info 0 calls | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar 0 calls | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col 10 calls | total 0.008269 s | avg 0.000826883 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | 1087 calls | total 0.000293 s | avg 0.000000270 s
+A_star_search::section2-1 | 60322 calls | total 0.037671 s | avg 0.000000624 s
+A_star_search::section6 | 59235 calls | total 0.242987 s | avg 0.000004102 s
+
+
+
+
+----------------------------------------------------------------
+@@@@@@@@LUTS sorted by level
+[LUT(name=n63, fanin={'IG50gat', 'IG56gat'}, num_product_terms=1, size=[3, 2], level=1, expr=(~IG50gat & IG56gat), row=[0, 1], col=[0, 1, 2, 63], fanlevel=3, term_products = [['~IG50gat', 'IG56gat', '0'], ['.', '.', '~n63']]), LUT(name=n64, fanin={'IG60gat', 'IG56gat'}, num_product_terms=1, size=[3, 2], level=1, expr=(~IG60gat & IG56gat), row=[2, 3], col=[0, 1, 2, 63], fanlevel=3, term_products = [['~IG60gat', 'IG56gat', '0'], ['.', '.', '~n64']]), LUT(name=n47, fanin={'IG43gat', 'IG63gat', 'IG37gat', 'IG69gat'}, num_product_terms=2, size=[3, 3], level=1, expr=~((~IG37gat & IG43gat) | (~IG63gat & IG69gat)), row=[4, 5, 6], col=[0, 1, 2, 63], fanlevel=2, term_products = [['~IG37gat', 'IG43gat', '0'], ['~IG63gat', 'IG69gat', '0'], ['.', '.', '~n47']]), LUT(name=n49, fanin={'IG17gat', 'IG1gat', 'IG4gat', 'IG11gat'}, num_product_terms=2, size=[3, 3], level=1, expr=~((~IG1gat & IG4gat) | (~IG11gat & IG17gat)), row=[7, 8, 9], col=[0, 1, 2, 63], fanlevel=2, term_products = [['~IG1gat', 'IG4gat', '0'], ['~IG11gat', 'IG17gat', '0'], ['.', '.', '~n49']]), LUT(name=n50, fanin={'IG30gat', 'IG108gat', 'IG24gat', 'IG102gat'}, num_product_terms=2, size=[3, 3], level=1, expr=~((~IG24gat & IG30gat) | (~IG102gat & IG108gat)), row=[10, 11, 12], col=[0, 1, 2, 63], fanlevel=2, term_products = [['~IG24gat', 'IG30gat', '0'], ['~IG102gat', 'IG108gat', '0'], ['.', '.', '~n50']]), LUT(name=n51, fanin={'IG50gat', 'IG95gat', 'IG89gat', 'IG56gat'}, num_product_terms=2, size=[3, 3], level=1, expr=~((~IG50gat & IG56gat) | (~IG89gat & IG95gat)), row=[13, 14, 15], col=[0, 1, 2, 63], fanlevel=2, term_products = [['~IG50gat', 'IG56gat', '0'], ['~IG89gat', 'IG95gat', '0'], ['.', '.', '~n51']]), LUT(name=n46, fanin={'IG76gat', 'n47', 'IG82gat'}, num_product_terms=2, size=[3, 3], level=2, expr=(IG76gat & n47) | (~IG82gat & n47), row=[2, 3, 4], col=[0, 1, 2, 63], fanlevel=3, term_products = [['n47', 'IG76gat', '0'], ['n47', '~IG82gat', '0'], ['.', '.', '~n46']]), LUT(name=n48, fanin={'n50', 'n49', 'n51'}, num_product_terms=1, size=[4, 2], level=2, expr=(n49 & n50 & n51), row=[0, 1], col=[3, 4, 5, 6, 62], fanlevel=3, term_products = [['n49', 'n50', 'n51', '0'], ['.', '.', '.', '~n48']]), LUT(name=OG223gat, fanin={'n46', 'n48'}, num_product_terms=1, size=[3, 2], level=3, expr=~((n46 & n48)), row=[0, 1], col=[0, 1, 2, 61], fanlevel=4, term_products = [['n46', 'n48', '0'], ['.', '.', '~OG223gat']]), LUT(name=n61, fanin={'IG17gat', 'n46', 'n48', 'IG11gat'}, num_product_terms=2, size=[4, 3], level=3, expr=(~IG11gat & IG17gat) | (n48 & n46 & IG17gat), row=[2, 3, 4], col=[3, 4, 5, 6, 62], fanlevel=7, term_products = [['~IG11gat', 'IG17gat', '0', '0'], ['n48', 'IG17gat', 'n46', '0'], ['.', '.', '.', '~n61']]), LUT(name=n66, fanin={'n46', 'IG108gat', 'IG102gat', 'n48'}, num_product_terms=2, size=[4, 3], level=3, expr=(~IG102gat & IG108gat) | (n48 & n46 & IG108gat), row=[5, 6, 7], col=[3, 4, 5, 6, 63], fanlevel=6, term_products = [['~IG102gat', 'IG108gat', '0', '0'], ['n48', 'IG108gat', 'n46', '0'], ['.', '.', '.', '~n66']]), LUT(name=n67, fanin={'IG95gat', 'IG89gat', 'n48', 'n46'}, num_product_terms=2, size=[4, 3], level=3, expr=(~IG89gat & IG95gat) | (n48 & n46 & IG95gat), row=[8, 9, 10], col=[3, 4, 5, 6, 63], fanlevel=7, term_products = [['~IG89gat', 'IG95gat', '0', '0'], ['n48', 'IG95gat', 'n46', '0'], ['.', '.', '.', '~n67']]), LUT(name=n62, fanin={'n64', 'n63', 'n48', 'n46'}, num_product_terms=3, size=[5, 4], level=3, expr=(~n48 & n63 & n64) | (~n46 & n63 & n64) | (n46 & n48 & ~n63 & n64), row=[11, 12, 13, 14], col=[7, 8, 9, 10, 11, 63], fanlevel=6, term_products = [['~n48', '0', 'n63', 'n64', '0'], ['0', '~n46', 'n63', 'n64', '0'], ['n48', 'n46', '~n63', 'n64', '0'], ['.', '.', '.', '.', '~n62']]), LUT(name=n79, fanin={'IG99gat', 'n67'}, num_product_terms=1, size=[3, 2], level=4, expr=(~IG99gat & n67), row=[0, 1], col=[0, 1, 2, 59], fanlevel=6, term_products = [['~IG99gat', 'n67', '0'], ['.', '.', '~n79']]), LUT(name=n80, fanin={'IG105gat', 'n67'}, num_product_terms=1, size=[3, 2], level=4, expr=(~IG105gat & n67), row=[0, 1], col=[3, 4, 5, 60], fanlevel=6, term_products = [['n67', '~IG105gat', '0'], ['.', '.', '~n80']]), LUT(name=n54, fanin={'OG223gat', 'IG76gat', 'IG82gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG82gat) | (~IG76gat & IG82gat), row=[2, 3, 4], col=[0, 1, 2, 58], fanlevel=7, term_products = [['~OG223gat', 'IG82gat', '0'], ['~IG76gat', 'IG82gat', '0'], ['.', '.', '~n54']]), LUT(name=n60, fanin={'n62', 'n61', 'IG21gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~n61 & ~n62) | (IG21gat & ~n62), row=[5, 6, 7], col=[0, 1, 2, 60], fanlevel=5, term_products = [['~n61', '~n62', '0'], ['IG21gat', '~n62', '0'], ['.', '.', '~n60']]), LUT(name=n65, fanin={'IG99gat', 'n66', 'IG112gat', 'n67'}, num_product_terms=2, size=[3, 3], level=4, expr=~((~IG112gat & n66) | (~IG99gat & n67)), row=[8, 9, 10], col=[0, 1, 2, 60], fanlevel=5, term_products = [['n66', '~IG112gat', '0'], ['~IG99gat', 'n67', '0'], ['.', '.', '~n65']]), LUT(name=n72, fanin={'IG30gat', 'OG223gat', 'IG24gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG30gat) | (~IG24gat & IG30gat), row=[11, 12, 13], col=[0, 1, 2, 61], fanlevel=7, term_products = [['~OG223gat', 'IG30gat', '0'], ['~IG24gat', 'IG30gat', '0'], ['.', '.', '~n72']]), LUT(name=n74, fanin={'IG1gat', 'OG223gat', 'IG4gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG4gat) | (~IG1gat & IG4gat), row=[2, 3, 4], col=[3, 4, 5, 59], fanlevel=7, term_products = [['~OG223gat', 'IG4gat', '0'], ['~IG1gat', 'IG4gat', '0'], ['.', '.', '~n74']]), LUT(name=n83, fanin={'IG43gat', 'IG37gat', 'OG223gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG43gat) | (~IG37gat & IG43gat), row=[5, 6, 7], col=[3, 4, 5, 61], fanlevel=6, term_products = [['~OG223gat', 'IG43gat', '0'], ['~IG37gat', 'IG43gat', '0'], ['.', '.', '~n83']]), LUT(name=n89, fanin={'IG63gat', 'OG223gat', 'IG69gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG69gat) | (~IG63gat & IG69gat), row=[8, 9, 10], col=[3, 4, 5, 61], fanlevel=7, term_products = [['~OG223gat', 'IG69gat', '0'], ['~IG63gat', 'IG69gat', '0'], ['.', '.', '~n89']]), LUT(name=n96, fanin={'IG50gat', 'OG223gat', 'IG56gat'}, num_product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG56gat) | (~IG50gat & IG56gat), row=[11, 12, 13], col=[3, 4, 5, 62], fanlevel=7, term_products = [['~OG223gat', 'IG56gat', '0'], ['~IG50gat', 'IG56gat', '0'], ['.', '.', '~n96']]), LUT(name=n55, fanin={'IG43gat', 'IG47gat', 'IG37gat', 'OG223gat'}, num_product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG47gat & IG43gat) | (~IG37gat & ~IG47gat & IG43gat), row=[2, 3, 4], col=[6, 7, 8, 9, 60], fanlevel=6, term_products = [['~OG223gat', '~IG47gat', 'IG43gat', '0'], ['~IG37gat', '~IG47gat', 'IG43gat', '0'], ['.', '.', '.', '~n55']]), LUT(name=n56, fanin={'IG63gat', 'OG223gat', 'IG73gat', 'IG69gat'}, num_product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG73gat & IG69gat) | (~IG63gat & ~IG73gat & IG69gat), row=[5, 6, 7], col=[6, 7, 8, 9, 62], fanlevel=5, term_products = [['~OG223gat', '~IG73gat', 'IG69gat', '0'], ['~IG63gat', '~IG73gat', 'IG69gat', '0'], ['.', '.', '.', '~n56']]), LUT(name=n58, fanin={'IG8gat', 'OG223gat', 'IG4gat', 'IG1gat'}, num_product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG8gat & IG4gat) | (~IG1gat & ~IG8gat & IG4gat), row=[8, 9, 10], col=[6, 7, 8, 9, 62], fanlevel=5, term_products = [['~OG223gat', '~IG8gat', 'IG4gat', '0'], ['~IG1gat', '~IG8gat', 'IG4gat', '0'], ['.', '.', '.', '~n58']]), LUT(name=n59, fanin={'IG30gat', 'OG223gat', 'IG24gat', 'IG34gat'}, num_product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG34gat & IG30gat) | (~IG24gat & ~IG34gat & IG30gat), row=[11, 12, 13], col=[6, 7, 8, 9, 63], fanlevel=5, term_products = [['~OG223gat', '~IG34gat', 'IG30gat', '0'], ['~IG24gat', '~IG34gat', 'IG30gat', '0'], ['.', '.', '.', '~n59']]), LUT(name=n86, fanin={'IG66gat', 'IG50gat', 'OG223gat', 'IG56gat'}, num_product_terms=2, size=[5, 3], level=4, expr=(~IG66gat & ~OG223gat & IG50gat & IG56gat) | (~IG66gat & OG223gat & ~IG50gat & IG56gat), row=[2, 3, 4], col=[14, 15, 16, 17, 18, 61], fanlevel=6, term_products = [['~OG223gat', '~IG66gat', 'IG50gat', 'IG56gat', '0'], ['OG223gat', '~IG66gat', '~IG50gat', 'IG56gat', '0'], ['.', '.', '.', '.', '~n86']]), LUT(name=n53, fanin={'n56', 'n54', 'n55', 'IG86gat'}, num_product_terms=2, size=[4, 3], level=5, expr=(~n54 & ~n56 & ~n55) | (IG86gat & ~n56 & ~n55), row=[2, 3, 4], col=[0, 1, 2, 3, 57], fanlevel=6, term_products = [['~n54', '~n56', '~n55', '0'], ['IG86gat', '~n56', '~n55', '0'], ['.', '.', '.', '~n53']]), LUT(name=n57, fanin={'n58', 'n59', 'n60', 'n65'}, num_product_terms=1, size=[5, 2], level=5, expr=(~n58 & ~n59 & n60 & n65), row=[0, 1], col=[4, 5, 6, 7, 8, 58], fanlevel=6, term_products = [['n65', '~n58', '~n59', 'n60', '0'], ['.', '.', '.', '.', '~n57']]), LUT(name=OG329gat, fanin={'n53', 'n57'}, num_product_terms=1, size=[3, 2], level=6, expr=~((n53 & n57)), row=[0, 1], col=[0, 1, 2, 56], fanlevel=7, term_products = [['n53', 'n57', '0'], ['.', '.', '~OG329gat']]), LUT(name=n84, fanin={'n53', 'n57', 'n55'}, num_product_terms=1, size=[4, 2], level=6, expr=(n53 & n57 & n55), row=[0, 1], col=[3, 4, 5, 6, 57], fanlevel=7, term_products = [['n53', 'n57', 'n55', '0'], ['.', '.', '.', '~n84']]), LUT(name=n77, fanin={'n53', 'n66', 'n57', 'IG112gat'}, num_product_terms=2, size=[4, 3], level=6, expr=(~IG112gat & n66) | (n57 & n53 & n66), row=[5, 6, 7], col=[3, 4, 5, 6, 59], fanlevel=10, term_products = [['~IG112gat', '0', 'n66', '0'], ['n53', 'n57', 'n66', '0'], ['.', '.', '.', '~n77']]), LUT(name=n82, fanin={'n83', 'n53', 'IG47gat', 'n57'}, num_product_terms=2, size=[4, 3], level=6, expr=(~IG47gat & n83) | (n57 & n53 & n83), row=[2, 3, 4], col=[3, 4, 5, 6, 56], fanlevel=9, term_products = [['~IG47gat', '0', 'n83', '0'], ['n53', 'n57', 'n83', '0'], ['.', '.', '.', '~n82']]), LUT(name=n78, fanin={'n80', 'n53', 'n57', 'n79'}, num_product_terms=3, size=[5, 4], level=6, expr=(~n57 & n79 & n80) | (~n53 & n79 & n80) | (n53 & n57 & ~n79 & n80), row=[8, 9, 10, 11], col=[7, 8, 9, 10, 11, 63], fanlevel=7, term_products = [['0', '~n57', 'n79', 'n80', '0'], ['~n53', '0', 'n79', 'n80', '0'], ['n53', 'n57', '~n79', 'n80', '0'], ['.', '.', '.', '.', '~n78']]), LUT(name=n85, fanin={'n53', 'n57', 'n62', 'n86'}, num_product_terms=3, size=[5, 4], level=6, expr=(~n57 & n62 & n86) | (~n53 & n62 & n86) | (n53 & n57 & ~n62 & n86), row=[12, 13, 14, 15], col=[7, 8, 9, 10, 11, 63], fanlevel=7, term_products = [['0', '~n57', 'n62', 'n86', '0'], ['~n53', '0', 'n62', 'n86', '0'], ['n53', 'n57', '~n62', 'n86', '0'], ['.', '.', '.', '.', '~n85']]), LUT(name=n70, fanin={'OG329gat', 'n61', 'IG21gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n61) | (~IG21gat & n61), row=[0, 1, 2], col=[3, 4, 5, 62], fanlevel=9, term_products = [['n61', '~OG329gat', '0'], ['n61', '~IG21gat', '0'], ['.', '.', '~n70']]), LUT(name=n76, fanin={'IG115gat', 'n78', 'n77'}, num_product_terms=2, size=[3, 3], level=7, expr=(~n77 & ~n78) | (IG115gat & ~n78), row=[3, 4, 5], col=[3, 4, 5, 62], fanlevel=8, term_products = [['~n78', '~n77', '0'], ['~n78', 'IG115gat', '0'], ['.', '.', '~n76']]), LUT(name=n92, fanin={'IG8gat', 'OG329gat', 'n74'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n74) | (~IG8gat & n74), row=[0, 1, 2], col=[0, 1, 2, 61], fanlevel=10, term_products = [['n74', '~OG329gat', '0'], ['n74', '~IG8gat', '0'], ['.', '.', '~n92']]), LUT(name=n95, fanin={'n96', 'IG60gat', 'OG329gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n96) | (~IG60gat & n96), row=[6, 7, 8], col=[0, 1, 2, 61], fanlevel=9, term_products = [['n96', '~OG329gat', '0'], ['n96', '~IG60gat', '0'], ['.', '.', '~n95']]), LUT(name=n100, fanin={'n72', 'IG34gat', 'OG329gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n72) | (~IG34gat & n72), row=[6, 7, 8], col=[3, 4, 5, 62], fanlevel=9, term_products = [['n72', '~OG329gat', '0'], ['n72', '~IG34gat', '0'], ['.', '.', '~n100']]), LUT(name=n103, fanin={'n54', 'OG329gat', 'IG86gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n54) | (~IG86gat & n54), row=[3, 4, 5], col=[0, 1, 2, 61], fanlevel=9, term_products = [['n54', '~OG329gat', '0'], ['n54', '~IG86gat', '0'], ['.', '.', '~n103']]), LUT(name=n104, fanin={'n67', 'OG329gat', 'IG99gat'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n67) | (~IG99gat & n67), row=[9, 10, 11], col=[0, 1, 2, 59], fanlevel=10, term_products = [['n67', '~OG329gat', '0'], ['n67', '~IG99gat', '0'], ['.', '.', '~n104']]), LUT(name=n107, fanin={'OG329gat', 'IG73gat', 'n89'}, num_product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n89) | (~IG73gat & n89), row=[9, 10, 11], col=[3, 4, 5, 60], fanlevel=9, term_products = [['n89', '~OG329gat', '0'], ['n89', '~IG73gat', '0'], ['.', '.', '~n107']]), LUT(name=n71, fanin={'n72', 'IG40gat', 'IG34gat', 'OG329gat'}, num_product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG40gat & n72) | (~IG34gat & ~IG40gat & n72), row=[6, 7, 8], col=[10, 11, 12, 13, 63], fanlevel=8, term_products = [['~IG40gat', 'n72', '~OG329gat', '0'], ['~IG34gat', 'n72', '~IG40gat', '0'], ['.', '.', '.', '~n71']]), LUT(name=n73, fanin={'IG8gat', 'IG14gat', 'OG329gat', 'n74'}, num_product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG14gat & n74) | (~IG8gat & ~IG14gat & n74), row=[0, 1, 2], col=[10, 11, 12, 13, 63], fanlevel=8, term_products = [['n74', '~IG14gat', '~OG329gat', '0'], ['n74', '~IG8gat', '~IG14gat', '0'], ['.', '.', '.', '~n73']]), LUT(name=n81, fanin={'n85', 'n82', 'n84', 'IG53gat'}, num_product_terms=2, size=[4, 3], level=7, expr=~((n85) | (~n84 & ~IG53gat & n82)), row=[9, 10, 11], col=[10, 11, 12, 13, 61], fanlevel=8, term_products = [['0', 'n85', '0', '0'], ['n82', '~n84', '~IG53gat', '0'], ['.', '.', '.', '~n81']]), LUT(name=n87, fanin={'IG92gat', 'n54', 'OG329gat', 'IG86gat'}, num_product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG92gat & n54) | (~IG86gat & ~IG92gat & n54), row=[3, 4, 5], col=[10, 11, 12, 13, 63], fanlevel=8, term_products = [['n54', '~IG92gat', '~OG329gat', '0'], ['n54', '~IG86gat', '~IG92gat', '0'], ['.', '.', '.', '~n87']]), LUT(name=n88, fanin={'IG79gat', 'IG73gat', 'n89', 'OG329gat'}, num_product_terms=2, size=[5, 3], level=7, expr=(~IG79gat & ~OG329gat & IG73gat & n89) | (~IG79gat & OG329gat & ~IG73gat & n89), row=[9, 10, 11], col=[14, 15, 16, 17, 18, 62], fanlevel=8, term_products = [['n89', '~IG79gat', 'IG73gat', '~OG329gat', '0'], ['n89', '~IG79gat', '~IG73gat', 'OG329gat', '0'], ['.', '.', '.', '.', '~n88']]), LUT(name=n69, fanin={'IG27gat', 'n70', 'n73', 'n71'}, num_product_terms=2, size=[4, 3], level=8, expr=(~n70 & ~n73 & ~n71) | (IG27gat & ~n73 & ~n71), row=[2, 3, 4], col=[0, 1, 2, 3, 63], fanlevel=9, term_products = [['~n70', '~n73', '~n71', '0'], ['IG27gat', '~n73', '~n71', '0'], ['.', '.', '.', '~n69']]), LUT(name=n75, fanin={'n88', 'n81', 'n87', 'n76'}, num_product_terms=1, size=[5, 2], level=8, expr=(~n87 & ~n88 & n76 & n81), row=[0, 1], col=[4, 5, 6, 7, 8, 63], fanlevel=9, term_products = [['n81', '~n87', '~n88', 'n76', '0'], ['.', '.', '.', '.', '~n75']]), LUT(name=OG370gat, fanin={'n75', 'n69'}, num_product_terms=1, size=[3, 2], level=9, expr=~((n69 & n75)), row=[0, 1], col=[0, 1, 2, 62], fanlevel=10, term_products = [['n69', 'n75', '0'], ['.', '.', '~OG370gat']]), LUT(name=n94, fanin={'IG66gat', 'n69', 'n95', 'n75'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG66gat & n95) | (n75 & n69 & n95), row=[2, 3, 4], col=[3, 4, 5, 6, 60], fanlevel=10, term_products = [['~IG66gat', '0', 'n95', '0'], ['n69', 'n75', 'n95', '0'], ['.', '.', '.', '~n94']]), LUT(name=n97, fanin={'n75', 'n69', 'n82', 'IG53gat'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG53gat & n82) | (n75 & n69 & n82), row=[5, 6, 7], col=[3, 4, 5, 6, 61], fanlevel=10, term_products = [['~IG53gat', '0', 'n82', '0'], ['n69', 'n75', 'n82', '0'], ['.', '.', '.', '~n97']]), LUT(name=n98, fanin={'n75', 'IG27gat', 'n69', 'n70'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG27gat & n70) | (n75 & n69 & n70), row=[2, 3, 4], col=[7, 8, 9, 10, 61], fanlevel=10, term_products = [['~IG27gat', '0', 'n70', '0'], ['n69', 'n75', 'n70', '0'], ['.', '.', '.', '~n98']]), LUT(name=n99, fanin={'n75', 'IG40gat', 'n69', 'n100'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG40gat & n100) | (n75 & n69 & n100), row=[5, 6, 7], col=[7, 8, 9, 10, 62], fanlevel=10, term_products = [['~IG40gat', '0', 'n100', '0'], ['n69', 'n75', 'n100', '0'], ['.', '.', '.', '~n99']]), LUT(name=n102, fanin={'IG92gat', 'n69', 'n103', 'n75'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG92gat & n103) | (n75 & n69 & n103), row=[2, 3, 4], col=[11, 12, 13, 14, 62], fanlevel=11, term_products = [['~IG92gat', '0', 'n103', '0'], ['n69', 'n75', 'n103', '0'], ['.', '.', '.', '~n102']]), LUT(name=n106, fanin={'n75', 'n69', 'n107', 'IG79gat'}, num_product_terms=2, size=[4, 3], level=9, expr=(~IG79gat & n107) | (n75 & n69 & n107), row=[5, 6, 7], col=[11, 12, 13, 14, 63], fanlevel=10, term_products = [['~IG79gat', '0', 'n107', '0'], ['n69', 'n75', 'n107', '0'], ['.', '.', '.', '~n106']]), LUT(name=n109, fanin={'n94', 'n97'}, num_product_terms=1, size=[3, 2], level=10, expr=(~n94 & ~n97), row=[2, 3], col=[0, 1, 2, 63], fanlevel=11, term_products = [['~n97', '~n94', '0'], ['.', '.', '~n109']]), LUT(name=n110, fanin={'n98', 'n99'}, num_product_terms=1, size=[3, 2], level=10, expr=(~n98 & ~n99), row=[0, 1], col=[0, 1, 2, 60], fanlevel=11, term_products = [['~n99', '~n98', '0'], ['.', '.', '~n110']]), LUT(name=n113, fanin={'n99', 'n97'}, num_product_terms=1, size=[3, 2], level=10, expr=(~n97 & ~n99), row=[4, 5], col=[0, 1, 2, 59], fanlevel=11, term_products = [['~n97', '~n99', '0'], ['.', '.', '~n113']]), LUT(name=n91, fanin={'n92', 'OG370gat', 'IG14gat'}, num_product_terms=2, size=[3, 3], level=10, expr=(~OG370gat & n92) | (~IG14gat & n92), row=[6, 7, 8], col=[0, 1, 2, 59], fanlevel=11, term_products = [['~OG370gat', 'n92', '0'], ['~IG14gat', 'n92', '0'], ['.', '.', '~n91']]), LUT(name=n115, fanin={'n98', 'n99', 'n97'}, num_product_terms=2, size=[3, 3], level=10, expr=(~n97 & ~n98) | (n99 & ~n98), row=[9, 10, 11], col=[0, 1, 2, 58], fanlevel=11, term_products = [['~n97', '~n98', '0'], ['n99', '~n98', '0'], ['.', '.', '~n115']]), LUT(name=n101, fanin={'OG370gat', 'n104', 'n102', 'IG105gat'}, num_product_terms=2, size=[4, 3], level=10, expr=(~n104 & ~n102) | (OG370gat & IG105gat & ~n102), row=[12, 13, 14], col=[3, 4, 5, 6, 63], fanlevel=11, term_products = [['~n104', '~n102', '0', '0'], ['IG105gat', '~n102', 'OG370gat', '0'], ['.', '.', '.', '~n101']]), LUT(name=n105, fanin={'OG370gat', 'IG115gat', 'n77', 'n106'}, num_product_terms=2, size=[4, 3], level=10, expr=(~n77 & ~n106) | (OG370gat & IG115gat & ~n106), row=[6, 7, 8], col=[3, 4, 5, 6, 60], fanlevel=11, term_products = [['~n106', '0', '~n77', '0'], ['~n106', 'IG115gat', 'OG370gat', '0'], ['.', '.', '.', '~n105']]), LUT(name=n114, fanin={'OG370gat', 'n104', 'n102', 'IG105gat'}, num_product_terms=2, size=[4, 3], level=10, expr=(~OG370gat & ~n102 & n104) | (~IG105gat & ~n102 & n104), row=[9, 10, 11], col=[3, 4, 5, 6, 63], fanlevel=11, term_products = [['n104', '~n102', '~OG370gat', '0'], ['n104', '~n102', '~IG105gat', '0'], ['.', '.', '.', '~n114']]), LUT(name=OG430gat, fanin={'n94', 'n99', 'n98', 'n97'}, num_product_terms=1, size=[5, 2], level=10, expr=~((~n94 & ~n97 & ~n98 & ~n99)), row=[0, 1], col=[7, 8, 9, 10, 11, 61], fanlevel=11, term_products = [['~n97', '~n94', '~n99', '~n98', '0'], ['.', '.', '.', '.', '~OG430gat']]), LUT(name=n111, fanin={'n94', 'n99', 'n106', 'n97'}, num_product_terms=1, size=[5, 2], level=10, expr=(~n94 & ~n97 & ~n99 & n106), row=[4, 5], col=[7, 8, 9, 10, 11, 60], fanlevel=11, term_products = [['~n97', '~n94', '~n99', 'n106', '0'], ['.', '.', '.', '.', '~n111']]), LUT(name=OG421gat, fanin={'n105', 'OG430gat', 'n101', 'n91'}, num_product_terms=2, size=[4, 3], level=11, expr=~((n91) | (~OG430gat & n101 & n105)), row=[0, 1, 2], col=[0, 1, 2, 3], fanlevel=0, term_products = [['0', 'n91', '0', '0'], ['n105', '~OG430gat', 'n101', '0'], ['.', '.', '.', '~OG421gat']]), LUT(name=OG431gat, fanin={'n111', 'n110', 'n102', 'n109'}, num_product_terms=2, size=[4, 3], level=11, expr=~((~n109 & ~n111 & n110) | (~n102 & ~n111 & n110)), row=[3, 4, 5], col=[0, 1, 2, 3], fanlevel=0, term_products = [['~n109', '~n111', 'n110', '0'], ['~n102', '~n111', 'n110', '0'], ['.', '.', '.', '~OG431gat']]), LUT(name=OG432gat, fanin={'n111', 'n114', 'n113', 'n115'}, num_product_terms=2, size=[4, 3], level=11, expr=~((~n113 & ~n111 & n115) | (~n114 & ~n111 & n115)), row=[6, 7, 8], col=[0, 1, 2, 3], fanlevel=0, term_products = [['~n113', '~n111', 'n115', '0'], ['~n114', '~n111', 'n115', '0'], ['.', '.', '.', '~OG432gat']])]
+

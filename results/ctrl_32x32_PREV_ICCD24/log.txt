@@ -1,0 +1,352 @@
+Parsing result: [('Oselregdst0', '(n36) | (~n38 & n39)'), ('n36', '(Iopcode0 & ~Iopcode2 & n37) | (Iopcode1 & ~Iopcode2 & n37)'), ('n37', '(Iopcode3 & Iopcode4)'), ('n38', '(~Iopcode3 & Iopcode4)'), ('n39', '(Iopcode4 & Iopcode2) | (~Iopcode3 & Iopcode1 & Iopcode2)'), ('Oselregdst1', '(n41 & ~Iopcode2) | (n43 & Iopcode1 & Iopcode2)'), ('n41', '(n38 & Iopcode1) | (n42 & ~Iopcode1)'), ('n42', '(~Iopcode0 & Iopcode3 & Iopcode4)'), ('n43', '(~Iopcode3 & ~Iopcode4)'), ('OselaluopB0', '(n42 & ~Iopcode2 & ~Iopcode1) | (n45 & ~Iopcode2 & Iopcode1)'), ('n45', '(Iopcode3 & ~Iopcode4) | (~Iopcode0 & ~Iopcode3 & Iopcode4)'), ('OselaluopB1', '(n38 & ~n47) | (~Iopcode1 & ~Iopcode2 & ~n47)'), ('n47', '(~Iopcode3 & ~Iopcode4 & n48) | (Iopcode0 & Iopcode3 & Iopcode4 & n48)'), ('n48', '(~Iopcode1 & ~Iopcode2)'), ('Oaluop0', '(n50 & ~Iopcode2) | (n38 & Iopcode0 & Iopcode2)'), ('n50', '(n52 & Iopcode1) | (~n51 & Iopcode0 & Iopcode1)'), ('n51', '~((~Iopcode4 & Iopcode3) | (Iop_ext0 & Iop_ext1 & Iopcode3))'), ('n52', '(~Iopcode0 & Iopcode3 & Iopcode4 & Iop_ext0)'), ('Oaluop1', '(~n54 & ~n55 & Iopcode1)'), ('n54', '(~n38 & Iopcode2)'), ('n55', '(~Iopcode3 & ~Iopcode2) | (~Iop_ext1 & Iopcode4 & ~Iopcode2)'), ('Oaluop2', '(~Iopcode2 & ~Iopcode3 & Iopcode4) | (~Iopcode2 & Iopcode3 & ~Iopcode4) | (Iopcode2 & Iopcode3 & Iopcode4) | (n57 & Iopcode3 & Iopcode4)'), ('n57', '(Iopcode0 & Iopcode1)'), ('Oaluopext0', '(n59) | (~n60 & n54)'), ('n59', '(~Iopcode0 & n48 & n37)'), ('n60', '~((Iopcode0 & Iopcode4) | (~Iopcode3 & Iopcode1))'), ('Oaluopext1', '(Iopcode2 & n63) | (~Iopcode0 & n62 & n63)'), ('n62', '(~Iopcode3 & Iopcode4)'), ('n63', '(~Iopcode3 & ~Iopcode4 & Iopcode1) | (Iopcode3 & Iopcode4 & Iopcode1) | (~Iopcode2 & Iopcode1)'), ('Oaluopext2', '(n65 & ~Iopcode2) | (n43 & Iopcode1 & Iopcode2)'), ('n65', '(Iopcode3 & ~Iopcode1 & Iopcode4) | (~Iopcode0 & ~Iopcode3 & Iopcode1 & Iopcode4)'), ('Oaluopext3', '(~n68 & ~n54) | (~n67 & Iopcode1 & ~n54)'), ('n67', '(~Iopcode0 & ~Iopcode3) | (~Iopcode4 & ~Iopcode3)'), ('n68', '(~Iopcode3 & ~Iopcode4 & ~Iopcode2) | (Iopcode3 & Iopcode4 & ~Iopcode2) | (Iopcode1 & ~Iopcode2)'), ('Ohalt', '(~Iopcode0 & ~Iopcode3 & ~Iopcode4 & n48)'), ('Oregwrite', '~((~n71 & ~n39) | (~Iopcode1 & n67 & ~n39))'), ('n71', '(~n43 & ~Iopcode2) | (~Iopcode1 & ~Iopcode2)'), ('OselpcopA', '(n43 & Iopcode0 & Iopcode2)'), ('OselpcopB', '(n43 & n74)'), ('n74', '(~Iopcode0 & Iopcode2)'), ('Obeqz', '(~Iopcode1 & ~Iopcode4 & Iopcode3 & n74)'), ('Obnez', '(n77 & Iopcode2)'), ('n77', '(~Iopcode1 & ~Iopcode4 & Iopcode3 & Iopcode0)'), ('Obgez', '(n79 & Iopcode0 & Iopcode2)'), ('n79', '(~Iopcode4 & Iopcode3 & Iopcode1)'), ('Obltz', '(n74 & n79)'), ('Ojump', '(~Iopcode3 & ~Iopcode4 & Iopcode2)'), ('OCin', '~((~n83 & Iopcode2) | (~n84 & ~n77 & ~Iopcode2))'), ('n83', '(~n57 & n37)'), ('n84', '(~Iopcode4 & n57 & Iopcode3) | (Iop_ext0 & n57 & Iopcode3)'), ('OinvA', '(n77 & ~Iopcode2) | (n37 & n86 & ~Iopcode2)'), ('n86', '(~Iop_ext1 & Iop_ext0 & n57)'), ('OinvB', '(n37 & Iopcode2 & ~n57) | (~n51 & ~Iopcode2 & n57)'), ('Omemwrite', '(~Iopcode2 & ~Iopcode0 & ~Iopcode1 & n62) | (~Iopcode2 & Iopcode0 & Iopcode1 & n62)'), ('Oselwb', '(n48 & n62 & Iopcode0)')]
+File saved: results/ctrl_32x32_PREV_ICCD24/instructions.txt
+{'Oselregdst0': LUT(name=Oselregdst0, fanin={'n38', 'n39', 'n36'}, product_terms=2, size=[3, 3], level=3, expr=(n36) | (~n38 & n39), row=[99], col=[99], fanlevel=0), 'n36': LUT(name=n36, fanin={'Iopcode0', 'n37', 'Iopcode1', 'Iopcode2'}, product_terms=2, size=[4, 3], level=2, expr=(Iopcode0 & ~Iopcode2 & n37) | (Iopcode1 & ~Iopcode2 & n37), row=[99], col=[99], fanlevel=3), 'n37': LUT(name=n37, fanin={'Iopcode3', 'Iopcode4'}, product_terms=1, size=[3, 2], level=1, expr=(Iopcode3 & Iopcode4), row=[99], col=[99], fanlevel=3), 'n38': LUT(name=n38, fanin={'Iopcode3', 'Iopcode4'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode3 & Iopcode4), row=[99], col=[99], fanlevel=3), 'n39': LUT(name=n39, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode2'}, product_terms=2, size=[4, 3], level=1, expr=(Iopcode4 & Iopcode2) | (~Iopcode3 & Iopcode1 & Iopcode2), row=[99], col=[99], fanlevel=3), 'Oselregdst1': LUT(name=Oselregdst1, fanin={'n43', 'Iopcode1', 'n41', 'Iopcode2'}, product_terms=2, size=[4, 3], level=3, expr=(n41 & ~Iopcode2) | (n43 & Iopcode1 & Iopcode2), row=[99], col=[99], fanlevel=0), 'n41': LUT(name=n41, fanin={'n38', 'n42', 'Iopcode1'}, product_terms=2, size=[3, 3], level=2, expr=(n38 & Iopcode1) | (n42 & ~Iopcode1), row=[99], col=[99], fanlevel=3), 'n42': LUT(name=n42, fanin={'Iopcode0', 'Iopcode3', 'Iopcode4'}, product_terms=1, size=[4, 2], level=1, expr=(~Iopcode0 & Iopcode3 & Iopcode4), row=[99], col=[99], fanlevel=2), 'n43': LUT(name=n43, fanin={'Iopcode3', 'Iopcode4'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode3 & ~Iopcode4), row=[99], col=[99], fanlevel=3), 'OselaluopB0': LUT(name=OselaluopB0, fanin={'n42', 'Iopcode1', 'n45', 'Iopcode2'}, product_terms=2, size=[4, 3], level=2, expr=(n42 & ~Iopcode2 & ~Iopcode1) | (n45 & ~Iopcode2 & Iopcode1), row=[99], col=[99], fanlevel=0), 'n45': LUT(name=n45, fanin={'Iopcode3', 'Iopcode4', 'Iopcode0'}, product_terms=2, size=[4, 3], level=1, expr=(Iopcode3 & ~Iopcode4) | (~Iopcode0 & ~Iopcode3 & Iopcode4), row=[99], col=[99], fanlevel=2), 'OselaluopB1': LUT(name=OselaluopB1, fanin={'n38', 'n47', 'Iopcode1', 'Iopcode2'}, product_terms=2, size=[4, 3], level=3, expr=(n38 & ~n47) | (~Iopcode1 & ~Iopcode2 & ~n47), row=[99], col=[99], fanlevel=0), 'n47': LUT(name=n47, fanin={'Iopcode3', 'Iopcode4', 'Iopcode0', 'n48'}, product_terms=2, size=[5, 3], level=2, expr=(~Iopcode3 & ~Iopcode4 & n48) | (Iopcode0 & Iopcode3 & Iopcode4 & n48), row=[99], col=[99], fanlevel=3), 'n48': LUT(name=n48, fanin={'Iopcode1', 'Iopcode2'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode1 & ~Iopcode2), row=[99], col=[99], fanlevel=2), 'Oaluop0': LUT(name=Oaluop0, fanin={'n38', 'n50', 'Iopcode0', 'Iopcode2'}, product_terms=2, size=[4, 3], level=3, expr=(n50 & ~Iopcode2) | (n38 & Iopcode0 & Iopcode2), row=[99], col=[99], fanlevel=0), 'n50': LUT(name=n50, fanin={'Iopcode0', 'Iopcode1', 'n52', 'n51'}, product_terms=2, size=[4, 3], level=2, expr=(n52 & Iopcode1) | (~n51 & Iopcode0 & Iopcode1), row=[99], col=[99], fanlevel=3), 'n51': LUT(name=n51, fanin={'Iopcode3', 'Iop_ext0', 'Iopcode4', 'Iop_ext1'}, product_terms=2, size=[4, 3], level=1, expr=~((~Iopcode4 & Iopcode3) | (Iop_ext0 & Iop_ext1 & Iopcode3)), row=[99], col=[99], fanlevel=2), 'n52': LUT(name=n52, fanin={'Iopcode0', 'Iop_ext0', 'Iopcode3', 'Iopcode4'}, product_terms=1, size=[5, 2], level=1, expr=(~Iopcode0 & Iopcode3 & Iopcode4 & Iop_ext0), row=[99], col=[99], fanlevel=2), 'Oaluop1': LUT(name=Oaluop1, fanin={'Iopcode1', 'n55', 'n54'}, product_terms=1, size=[4, 2], level=3, expr=(~n54 & ~n55 & Iopcode1), row=[99], col=[99], fanlevel=0), 'n54': LUT(name=n54, fanin={'n38', 'Iopcode2'}, product_terms=1, size=[3, 2], level=2, expr=(~n38 & Iopcode2), row=[99], col=[99], fanlevel=3), 'n55': LUT(name=n55, fanin={'Iopcode3', 'Iop_ext1', 'Iopcode4', 'Iopcode2'}, product_terms=2, size=[4, 3], level=1, expr=(~Iopcode3 & ~Iopcode2) | (~Iop_ext1 & Iopcode4 & ~Iopcode2), row=[99], col=[99], fanlevel=3), 'Oaluop2': LUT(name=Oaluop2, fanin={'Iopcode3', 'Iopcode4', 'n57', 'Iopcode2'}, product_terms=4, size=[4, 5], level=2, expr=(~Iopcode2 & ~Iopcode3 & Iopcode4) | (~Iopcode2 & Iopcode3 & ~Iopcode4) | (Iopcode2 & Iopcode3 & Iopcode4) | (n57 & Iopcode3 & Iopcode4), row=[99], col=[99], fanlevel=0), 'n57': LUT(name=n57, fanin={'Iopcode0', 'Iopcode1'}, product_terms=1, size=[3, 2], level=1, expr=(Iopcode0 & Iopcode1), row=[99], col=[99], fanlevel=2), 'Oaluopext0': LUT(name=Oaluopext0, fanin={'n59', 'n60', 'n54'}, product_terms=2, size=[3, 3], level=3, expr=(n59) | (~n60 & n54), row=[99], col=[99], fanlevel=0), 'n59': LUT(name=n59, fanin={'Iopcode0', 'n37', 'n48'}, product_terms=1, size=[4, 2], level=2, expr=(~Iopcode0 & n48 & n37), row=[99], col=[99], fanlevel=3), 'n60': LUT(name=n60, fanin={'Iopcode0', 'Iopcode3', 'Iopcode4', 'Iopcode1'}, product_terms=2, size=[3, 3], level=1, expr=~((Iopcode0 & Iopcode4) | (~Iopcode3 & Iopcode1)), row=[99], col=[99], fanlevel=3), 'Oaluopext1': LUT(name=Oaluopext1, fanin={'Iopcode0', 'Iopcode2', 'n62', 'n63'}, product_terms=2, size=[4, 3], level=2, expr=(Iopcode2 & n63) | (~Iopcode0 & n62 & n63), row=[99], col=[99], fanlevel=0), 'n62': LUT(name=n62, fanin={'Iopcode3', 'Iopcode4'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode3 & Iopcode4), row=[99], col=[99], fanlevel=2), 'n63': LUT(name=n63, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode2'}, product_terms=3, size=[4, 4], level=1, expr=(~Iopcode3 & ~Iopcode4 & Iopcode1) | (Iopcode3 & Iopcode4 & Iopcode1) | (~Iopcode2 & Iopcode1), row=[99], col=[99], fanlevel=2), 'Oaluopext2': LUT(name=Oaluopext2, fanin={'n43', 'Iopcode1', 'n65', 'Iopcode2'}, product_terms=2, size=[4, 3], level=2, expr=(n65 & ~Iopcode2) | (n43 & Iopcode1 & Iopcode2), row=[99], col=[99], fanlevel=0), 'n65': LUT(name=n65, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode0'}, product_terms=2, size=[5, 3], level=1, expr=(Iopcode3 & ~Iopcode1 & Iopcode4) | (~Iopcode0 & ~Iopcode3 & Iopcode1 & Iopcode4), row=[99], col=[99], fanlevel=2), 'Oaluopext3': LUT(name=Oaluopext3, fanin={'n67', 'Iopcode1', 'n68', 'n54'}, product_terms=2, size=[4, 3], level=3, expr=(~n68 & ~n54) | (~n67 & Iopcode1 & ~n54), row=[99], col=[99], fanlevel=0), 'n67': LUT(name=n67, fanin={'Iopcode0', 'Iopcode3', 'Iopcode4'}, product_terms=2, size=[3, 3], level=1, expr=(~Iopcode0 & ~Iopcode3) | (~Iopcode4 & ~Iopcode3), row=[99], col=[99], fanlevel=3), 'n68': LUT(name=n68, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode2'}, product_terms=3, size=[4, 4], level=1, expr=(~Iopcode3 & ~Iopcode4 & ~Iopcode2) | (Iopcode3 & Iopcode4 & ~Iopcode2) | (Iopcode1 & ~Iopcode2), row=[99], col=[99], fanlevel=3), 'Ohalt': LUT(name=Ohalt, fanin={'Iopcode0', 'Iopcode3', 'Iopcode4', 'n48'}, product_terms=1, size=[5, 2], level=2, expr=(~Iopcode0 & ~Iopcode3 & ~Iopcode4 & n48), row=[99], col=[99], fanlevel=0), 'Oregwrite': LUT(name=Oregwrite, fanin={'n67', 'n39', 'n71', 'Iopcode1'}, product_terms=2, size=[4, 3], level=3, expr=~((~n71 & ~n39) | (~Iopcode1 & n67 & ~n39)), row=[99], col=[99], fanlevel=0), 'n71': LUT(name=n71, fanin={'n43', 'Iopcode1', 'Iopcode2'}, product_terms=2, size=[3, 3], level=2, expr=(~n43 & ~Iopcode2) | (~Iopcode1 & ~Iopcode2), row=[99], col=[99], fanlevel=3), 'OselpcopA': LUT(name=OselpcopA, fanin={'Iopcode0', 'n43', 'Iopcode2'}, product_terms=1, size=[4, 2], level=2, expr=(n43 & Iopcode0 & Iopcode2), row=[99], col=[99], fanlevel=0), 'OselpcopB': LUT(name=OselpcopB, fanin={'n43', 'n74'}, product_terms=1, size=[3, 2], level=2, expr=(n43 & n74), row=[99], col=[99], fanlevel=0), 'n74': LUT(name=n74, fanin={'Iopcode0', 'Iopcode2'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode0 & Iopcode2), row=[99], col=[99], fanlevel=2), 'Obeqz': LUT(name=Obeqz, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'n74'}, product_terms=1, size=[5, 2], level=2, expr=(~Iopcode1 & ~Iopcode4 & Iopcode3 & n74), row=[99], col=[99], fanlevel=0), 'Obnez': LUT(name=Obnez, fanin={'n77', 'Iopcode2'}, product_terms=1, size=[3, 2], level=2, expr=(n77 & Iopcode2), row=[99], col=[99], fanlevel=0), 'n77': LUT(name=n77, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode0'}, product_terms=1, size=[5, 2], level=1, expr=(~Iopcode1 & ~Iopcode4 & Iopcode3 & Iopcode0), row=[99], col=[99], fanlevel=3), 'Obgez': LUT(name=Obgez, fanin={'Iopcode0', 'n79', 'Iopcode2'}, product_terms=1, size=[4, 2], level=2, expr=(n79 & Iopcode0 & Iopcode2), row=[99], col=[99], fanlevel=0), 'n79': LUT(name=n79, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1'}, product_terms=1, size=[4, 2], level=1, expr=(~Iopcode4 & Iopcode3 & Iopcode1), row=[99], col=[99], fanlevel=2), 'Obltz': LUT(name=Obltz, fanin={'n79', 'n74'}, product_terms=1, size=[3, 2], level=2, expr=(n74 & n79), row=[99], col=[99], fanlevel=0), 'Ojump': LUT(name=Ojump, fanin={'Iopcode3', 'Iopcode4', 'Iopcode2'}, product_terms=1, size=[4, 2], level=1, expr=(~Iopcode3 & ~Iopcode4 & Iopcode2), row=[99], col=[99], fanlevel=0), 'OCin': LUT(name=OCin, fanin={'Iopcode2', 'n83', 'n84', 'n77'}, product_terms=2, size=[4, 3], level=3, expr=~((~n83 & Iopcode2) | (~n84 & ~n77 & ~Iopcode2)), row=[99], col=[99], fanlevel=0), 'n83': LUT(name=n83, fanin={'n37', 'n57'}, product_terms=1, size=[3, 2], level=2, expr=(~n57 & n37), row=[99], col=[99], fanlevel=3), 'n84': LUT(name=n84, fanin={'Iopcode3', 'Iop_ext0', 'Iopcode4', 'n57'}, product_terms=2, size=[4, 3], level=2, expr=(~Iopcode4 & n57 & Iopcode3) | (Iop_ext0 & n57 & Iopcode3), row=[99], col=[99], fanlevel=3), 'OinvA': LUT(name=OinvA, fanin={'n37', 'n77', 'n86', 'Iopcode2'}, product_terms=2, size=[4, 3], level=3, expr=(n77 & ~Iopcode2) | (n37 & n86 & ~Iopcode2), row=[99], col=[99], fanlevel=0), 'n86': LUT(name=n86, fanin={'Iop_ext0', 'Iop_ext1', 'n57'}, product_terms=1, size=[4, 2], level=2, expr=(~Iop_ext1 & Iop_ext0 & n57), row=[99], col=[99], fanlevel=3), 'OinvB': LUT(name=OinvB, fanin={'n37', 'Iopcode2', 'n57', 'n51'}, product_terms=2, size=[4, 3], level=2, expr=(n37 & Iopcode2 & ~n57) | (~n51 & ~Iopcode2 & n57), row=[99], col=[99], fanlevel=0), 'Omemwrite': LUT(name=Omemwrite, fanin={'Iopcode0', 'Iopcode1', 'n62', 'Iopcode2'}, product_terms=2, size=[5, 3], level=2, expr=(~Iopcode2 & ~Iopcode0 & ~Iopcode1 & n62) | (~Iopcode2 & Iopcode0 & Iopcode1 & n62), row=[99], col=[99], fanlevel=0), 'Oselwb': LUT(name=Oselwb, fanin={'Iopcode0', 'n62', 'n48'}, product_terms=1, size=[4, 2], level=2, expr=(n48 & n62 & Iopcode0), row=[99], col=[99], fanlevel=0)}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{(3, 2): 7, (4, 2): 3, (5, 2): 2, (3, 3): 2, (4, 3): 4, (5, 3): 1, (4, 4): 2}
+{(3, 2): 4, (4, 2): 3, (5, 2): 2, (3, 3): 1, (4, 3): 4, (5, 3): 1, (4, 4): 2}
+{(3, 2): 4, (4, 2): 2, (5, 2): 2, (3, 3): 1, (4, 3): 2, (5, 3): 1, (4, 4): 1}
+{(3, 2): 3, (4, 2): 2, (5, 2): 2, (3, 3): 1, (4, 3): 2, (5, 3): 1, (4, 4): 1}
+{(3, 2): 3, (4, 2): 1, (5, 2): 2, (3, 3): 1, (4, 3): 2, (5, 3): 1, (4, 4): 1}
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4'} and expression (Iopcode3 & Iopcode4)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4'} and expression (~Iopcode3 & Iopcode4)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4'} and expression (~Iopcode3 & ~Iopcode4)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode1', 'Iopcode2'} and expression (~Iopcode1 & ~Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode0', 'Iopcode1'} and expression (Iopcode0 & Iopcode1)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4'} and expression (~Iopcode3 & Iopcode4)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode0', 'Iopcode2'} and expression (~Iopcode0 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode0', 'Iopcode3', 'Iopcode4'} and expression (~Iopcode0 & ~Iopcode3) | (~Iopcode4 & ~Iopcode3)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 1 with fanin {'Iopcode0', 'Iopcode3', 'Iopcode4', 'Iopcode1'} and expression ~((Iopcode0 & Iopcode4) | (~Iopcode3 & Iopcode1))
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 1 with fanin {'Iopcode0', 'Iopcode3', 'Iopcode4'} and expression (~Iopcode0 & Iopcode3 & Iopcode4)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode1'} and expression (~Iopcode4 & Iopcode3 & Iopcode1)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode2'} and expression (~Iopcode3 & ~Iopcode4 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode0'} and expression (Iopcode3 & ~Iopcode4) | (~Iopcode0 & ~Iopcode3 & Iopcode4)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode2'} and expression (Iopcode4 & Iopcode2) | (~Iopcode3 & Iopcode1 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iop_ext0', 'Iopcode4', 'Iop_ext1'} and expression ~((~Iopcode4 & Iopcode3) | (Iop_ext0 & Iop_ext1 & Iopcode3))
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iop_ext1', 'Iopcode4', 'Iopcode2'} and expression (~Iopcode3 & ~Iopcode2) | (~Iop_ext1 & Iopcode4 & ~Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode2'} and expression (~Iopcode3 & ~Iopcode4 & Iopcode1) | (Iopcode3 & Iopcode4 & Iopcode1) | (~Iopcode2 & Iopcode1)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 3
+Number of terms: 3
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode2'} and expression (~Iopcode3 & ~Iopcode4 & ~Iopcode2) | (Iopcode3 & Iopcode4 & ~Iopcode2) | (Iopcode1 & ~Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 3
+Number of terms: 3
+Trying to map LUT at level 1 with fanin {'Iopcode0', 'Iop_ext0', 'Iopcode3', 'Iopcode4'} and expression (~Iopcode0 & Iopcode3 & Iopcode4 & Iop_ext0)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode0'} and expression (~Iopcode1 & ~Iopcode4 & Iopcode3 & Iopcode0)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode0'} and expression (Iopcode3 & ~Iopcode1 & Iopcode4) | (~Iopcode0 & ~Iopcode3 & Iopcode1 & Iopcode4)
+Trying to use area: {'H2': 0, 'H3': 9, 'H4': 12, 'H5': 5, 'V2': 6, 'V3': 6, 'V4': 4, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+
+Finished mapping level: 1
+
+
+
+
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.010262 s
+
+map_lut calls 21 | total 0.003548 s | avg 0.000168961 s
+execute_Copy calls 1 | total 0.000597 s | avg 0.000597392 s
+cal_V_temp calls 6 | total 0.000316 s | avg 0.000052600 s
+compute_reduce_space calls 6 | total 0.000036 s | avg 0.000005946 s
+Blocking calls 1 | total 0.000773 s | avg 0.000772794 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 1 | total 0.000916 s | avg 0.000916168 s
+map_lut_with_reset calls 21 | total 0.004077 s | avg 0.000194120 s
+
+[ Section runtime summary ]
+{(3, 2): 5, (4, 2): 5, (5, 2): 2, (3, 3): 2, (4, 3): 7, (5, 3): 2, (4, 5): 1}
+{(3, 2): 5, (4, 2): 3, (5, 2): 2, (3, 3): 2, (4, 3): 4, (5, 3): 2, (4, 5): 1}
+{'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Trying to map LUT at level 2 with fanin {'n38', 'Iopcode2'} and expression (~n38 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'n43', 'n74'} and expression (n43 & n74)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'n77', 'Iopcode2'} and expression (n77 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'n79', 'n74'} and expression (n74 & n79)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'n37', 'n57'} and expression (~n57 & n37)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'n38', 'n42', 'Iopcode1'} and expression (n38 & Iopcode1) | (n42 & ~Iopcode1)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'n43', 'Iopcode1', 'Iopcode2'} and expression (~n43 & ~Iopcode2) | (~Iopcode1 & ~Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'Iopcode0', 'n37', 'n48'} and expression (~Iopcode0 & n48 & n37)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'Iopcode0', 'n43', 'Iopcode2'} and expression (n43 & Iopcode0 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'Iopcode0', 'n79', 'Iopcode2'} and expression (n79 & Iopcode0 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'Iop_ext0', 'Iop_ext1', 'n57'} and expression (~Iop_ext1 & Iop_ext0 & n57)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'Iopcode0', 'n62', 'n48'} and expression (n48 & n62 & Iopcode0)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'Iopcode0', 'n37', 'Iopcode1', 'Iopcode2'} and expression (Iopcode0 & ~Iopcode2 & n37) | (Iopcode1 & ~Iopcode2 & n37)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'n42', 'Iopcode1', 'n45', 'Iopcode2'} and expression (n42 & ~Iopcode2 & ~Iopcode1) | (n45 & ~Iopcode2 & Iopcode1)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'Iopcode0', 'Iopcode1', 'n52', 'n51'} and expression (n52 & Iopcode1) | (~n51 & Iopcode0 & Iopcode1)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'Iopcode0', 'Iopcode2', 'n62', 'n63'} and expression (Iopcode2 & n63) | (~Iopcode0 & n62 & n63)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'n43', 'Iopcode1', 'n65', 'Iopcode2'} and expression (n65 & ~Iopcode2) | (n43 & Iopcode1 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'Iopcode3', 'Iop_ext0', 'Iopcode4', 'n57'} and expression (~Iopcode4 & n57 & Iopcode3) | (Iop_ext0 & n57 & Iopcode3)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'n37', 'Iopcode2', 'n57', 'n51'} and expression (n37 & Iopcode2 & ~n57) | (~n51 & ~Iopcode2 & n57)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'Iopcode3', 'Iopcode4', 'n57', 'Iopcode2'} and expression (~Iopcode2 & ~Iopcode3 & Iopcode4) | (~Iopcode2 & Iopcode3 & ~Iopcode4) | (Iopcode2 & Iopcode3 & Iopcode4) | (n57 & Iopcode3 & Iopcode4)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 4
+Number of terms: 4
+Trying to map LUT at level 2 with fanin {'Iopcode0', 'Iopcode3', 'Iopcode4', 'n48'} and expression (~Iopcode0 & ~Iopcode3 & ~Iopcode4 & n48)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode1', 'n74'} and expression (~Iopcode1 & ~Iopcode4 & Iopcode3 & n74)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 2 with fanin {'Iopcode3', 'Iopcode4', 'Iopcode0', 'n48'} and expression (~Iopcode3 & ~Iopcode4 & n48) | (Iopcode0 & Iopcode3 & Iopcode4 & n48)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'Iopcode0', 'Iopcode1', 'n62', 'Iopcode2'} and expression (~Iopcode2 & ~Iopcode0 & ~Iopcode1 & n62) | (~Iopcode2 & Iopcode0 & Iopcode1 & n62)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 8, 'H5': 5, 'V2': 10, 'V3': 12, 'V4': 0, 'V5': 5}
+Product terms: 2
+Number of terms: 2
+
+Finished mapping level: 2
+
+
+
+
+~n38
+~n57
+~n43
+~n57
+~n51
+~n51
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.074029 s
+
+map_lut calls 45 | total 0.007580 s | avg 0.000168436 s
+execute_Copy calls 2 | total 0.054238 s | avg 0.027118768 s
+cal_V_temp calls 9 | total 0.000475 s | avg 0.000052748 s
+compute_reduce_space calls 9 | total 0.000055 s | avg 0.000006159 s
+Blocking calls 2 | total 0.001171 s | avg 0.000585618 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 2 | total 0.001812 s | avg 0.000906224 s
+map_lut_with_reset calls 45 | total 0.008698 s | avg 0.000193296 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 176 | total 0.000053 s | avg 0.000000303 s
+A_star_search::section2-1 | calls 3781 | total 0.002489 s | avg 0.000000658 s
+A_star_search::section6 | calls 3605 | total 0.018939 s | avg 0.000005253 s
+{(4, 2): 1, (3, 3): 2, (4, 3): 7}
+{(4, 2): 1, (3, 3): 2, (4, 3): 4}
+{(4, 2): 1, (3, 3): 2, (4, 3): 3}
+{'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Trying to map LUT at level 3 with fanin {'n38', 'n39', 'n36'} and expression (n36) | (~n38 & n39)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'n59', 'n60', 'n54'} and expression (n59) | (~n60 & n54)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'Iopcode1', 'n55', 'n54'} and expression (~n54 & ~n55 & Iopcode1)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 3 with fanin {'n43', 'Iopcode1', 'n41', 'Iopcode2'} and expression (n41 & ~Iopcode2) | (n43 & Iopcode1 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'n38', 'n47', 'Iopcode1', 'Iopcode2'} and expression (n38 & ~n47) | (~Iopcode1 & ~Iopcode2 & ~n47)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'n38', 'n50', 'Iopcode0', 'Iopcode2'} and expression (n50 & ~Iopcode2) | (n38 & Iopcode0 & Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'n67', 'Iopcode1', 'n68', 'n54'} and expression (~n68 & ~n54) | (~n67 & Iopcode1 & ~n54)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'n67', 'n39', 'n71', 'Iopcode1'} and expression ~((~n71 & ~n39) | (~Iopcode1 & n67 & ~n39))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'Iopcode2', 'n83', 'n84', 'n77'} and expression ~((~n83 & Iopcode2) | (~n84 & ~n77 & ~Iopcode2))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'n37', 'n77', 'n86', 'Iopcode2'} and expression (n77 & ~Iopcode2) | (n37 & n86 & ~Iopcode2)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 9, 'V4': 0, 'V5': 0}
+Product terms: 2
+Number of terms: 2
+
+Finished mapping the last level
+
+~n54
+~n55
+~n68
+~n54
+~n38
+~n67
+~n54
+~n47
+~n71
+~n39
+~n60
+~n47
+~n39
+~n83
+~n84
+~n77
+[]
+all luts mapping successfully
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.105716 s
+
+map_lut calls 55 | total 0.009594 s | avg 0.000174444 s
+execute_Copy calls 3 | total 0.080975 s | avg 0.026991808 s
+cal_V_temp calls 13 | total 0.000639 s | avg 0.000049143 s
+compute_reduce_space calls 13 | total 0.000076 s | avg 0.000005837 s
+Blocking calls 3 | total 0.001649 s | avg 0.000549677 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 2 | total 0.001812 s | avg 0.000906224 s
+map_lut_with_reset calls 55 | total 0.010970 s | avg 0.000199451 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 236 | total 0.000075 s | avg 0.000000316 s
+A_star_search::section2-1 | calls 4739 | total 0.003521 s | avg 0.000000743 s
+A_star_search::section6 | calls 4503 | total 0.025993 s | avg 0.000005772 s
+
+
+
+
+--------------------------------
+@@@@@@@@LUTS sorted by level
+[LUT(name=n37, fanin={'Iopcode3', 'Iopcode4'}, product_terms=1, size=[3, 2], level=1, expr=(Iopcode3 & Iopcode4), row=[0, 1], col=[0, 1, 2, 28], fanlevel=3), LUT(name=n38, fanin={'Iopcode3', 'Iopcode4'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode3 & Iopcode4), row=[2, 3], col=[0, 1, 2, 29], fanlevel=3), LUT(name=n43, fanin={'Iopcode3', 'Iopcode4'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode3 & ~Iopcode4), row=[4, 5], col=[0, 1, 2, 30], fanlevel=3), LUT(name=n48, fanin={'Iopcode1', 'Iopcode2'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode1 & ~Iopcode2), row=[0, 1], col=[3, 4, 5, 29], fanlevel=2), LUT(name=n57, fanin={'Iopcode0', 'Iopcode1'}, product_terms=1, size=[3, 2], level=1, expr=(Iopcode0 & Iopcode1), row=[2, 3], col=[3, 4, 5, 30], fanlevel=2), LUT(name=n62, fanin={'Iopcode3', 'Iopcode4'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode3 & Iopcode4), row=[4, 5], col=[3, 4, 5, 31], fanlevel=2), LUT(name=n74, fanin={'Iopcode0', 'Iopcode2'}, product_terms=1, size=[3, 2], level=1, expr=(~Iopcode0 & Iopcode2), row=[0, 1], col=[6, 7, 8, 30], fanlevel=2), LUT(name=n67, fanin={'Iopcode0', 'Iopcode3', 'Iopcode4'}, product_terms=2, size=[3, 3], level=1, expr=(~Iopcode0 & ~Iopcode3) | (~Iopcode4 & ~Iopcode3), row=[6, 7, 8], col=[0, 1, 2, 29], fanlevel=3), LUT(name=n60, fanin={'Iopcode0', 'Iopcode3', 'Iopcode4', 'Iopcode1'}, product_terms=2, size=[3, 3], level=1, expr=~((Iopcode0 & Iopcode4) | (~Iopcode3 & Iopcode1)), row=[9, 10, 11], col=[0, 1, 2, 29], fanlevel=3), LUT(name=n42, fanin={'Iopcode0', 'Iopcode3', 'Iopcode4'}, product_terms=1, size=[4, 2], level=1, expr=(~Iopcode0 & Iopcode3 & Iopcode4), row=[0, 1], col=[9, 10, 11, 12, 31], fanlevel=2), LUT(name=n79, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1'}, product_terms=1, size=[4, 2], level=1, expr=(~Iopcode4 & Iopcode3 & Iopcode1), row=[2, 3], col=[9, 10, 11, 12, 31], fanlevel=2), LUT(name=Ojump, fanin={'Iopcode3', 'Iopcode4', 'Iopcode2'}, product_terms=1, size=[4, 2], level=1, expr=(~Iopcode3 & ~Iopcode4 & Iopcode2), row=[4, 5], col=[9, 10, 11, 12], fanlevel=0), LUT(name=n45, fanin={'Iopcode3', 'Iopcode4', 'Iopcode0'}, product_terms=2, size=[4, 3], level=1, expr=(Iopcode3 & ~Iopcode4) | (~Iopcode0 & ~Iopcode3 & Iopcode4), row=[6, 7, 8], col=[9, 10, 11, 12, 30], fanlevel=2), LUT(name=n39, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode2'}, product_terms=2, size=[4, 3], level=1, expr=(Iopcode4 & Iopcode2) | (~Iopcode3 & Iopcode1 & Iopcode2), row=[9, 10, 11], col=[9, 10, 11, 12, 30], fanlevel=3), LUT(name=n51, fanin={'Iopcode3', 'Iop_ext0', 'Iopcode4', 'Iop_ext1'}, product_terms=2, size=[4, 3], level=1, expr=~((~Iopcode4 & Iopcode3) | (Iop_ext0 & Iop_ext1 & Iopcode3)), row=[6, 7, 8], col=[13, 14, 15, 16, 31], fanlevel=2), LUT(name=n55, fanin={'Iopcode3', 'Iop_ext1', 'Iopcode4', 'Iopcode2'}, product_terms=2, size=[4, 3], level=1, expr=(~Iopcode3 & ~Iopcode2) | (~Iop_ext1 & Iopcode4 & ~Iopcode2), row=[9, 10, 11], col=[13, 14, 15, 16, 31], fanlevel=3), LUT(name=n63, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode2'}, product_terms=3, size=[4, 4], level=1, expr=(~Iopcode3 & ~Iopcode4 & Iopcode1) | (Iopcode3 & Iopcode4 & Iopcode1) | (~Iopcode2 & Iopcode1), row=[12, 13, 14, 15], col=[9, 10, 11, 12, 30], fanlevel=2), LUT(name=n68, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode2'}, product_terms=3, size=[4, 4], level=1, expr=(~Iopcode3 & ~Iopcode4 & ~Iopcode2) | (Iopcode3 & Iopcode4 & ~Iopcode2) | (Iopcode1 & ~Iopcode2), row=[12, 13, 14, 15], col=[13, 14, 15, 16, 31], fanlevel=3), LUT(name=n52, fanin={'Iopcode0', 'Iop_ext0', 'Iopcode3', 'Iopcode4'}, product_terms=1, size=[5, 2], level=1, expr=(~Iopcode0 & Iopcode3 & Iopcode4 & Iop_ext0), row=[0, 1], col=[21, 22, 23, 24, 25], fanlevel=2), LUT(name=n77, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode0'}, product_terms=1, size=[5, 2], level=1, expr=(~Iopcode1 & ~Iopcode4 & Iopcode3 & Iopcode0), row=[2, 3], col=[21, 22, 23, 24, 25], fanlevel=3), LUT(name=n65, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'Iopcode0'}, product_terms=2, size=[5, 3], level=1, expr=(Iopcode3 & ~Iopcode1 & Iopcode4) | (~Iopcode0 & ~Iopcode3 & Iopcode1 & Iopcode4), row=[6, 7, 8], col=[21, 22, 23, 24, 25], fanlevel=2), LUT(name=n54, fanin={'n38', 'Iopcode2'}, product_terms=1, size=[3, 2], level=2, expr=(~n38 & Iopcode2), row=[0, 1], col=[0, 1, 2, 26], fanlevel=3), LUT(name=OselpcopB, fanin={'n43', 'n74'}, product_terms=1, size=[3, 2], level=2, expr=(n43 & n74), row=[2, 3], col=[0, 1, 2], fanlevel=0), LUT(name=Obnez, fanin={'n77', 'Iopcode2'}, product_terms=1, size=[3, 2], level=2, expr=(n77 & Iopcode2), row=[4, 5], col=[0, 1, 2], fanlevel=0), LUT(name=Obltz, fanin={'n79', 'n74'}, product_terms=1, size=[3, 2], level=2, expr=(n74 & n79), row=[6, 7], col=[0, 1, 2], fanlevel=0), LUT(name=n83, fanin={'n37', 'n57'}, product_terms=1, size=[3, 2], level=2, expr=(~n57 & n37), row=[8, 9], col=[0, 1, 2, 31], fanlevel=3), LUT(name=n41, fanin={'n38', 'n42', 'Iopcode1'}, product_terms=2, size=[3, 3], level=2, expr=(n38 & Iopcode1) | (n42 & ~Iopcode1), row=[10, 11, 12], col=[0, 1, 2, 29], fanlevel=3), LUT(name=n71, fanin={'n43', 'Iopcode1', 'Iopcode2'}, product_terms=2, size=[3, 3], level=2, expr=(~n43 & ~Iopcode2) | (~Iopcode1 & ~Iopcode2), row=[13, 14, 15], col=[0, 1, 2, 28], fanlevel=3), LUT(name=n59, fanin={'Iopcode0', 'n37', 'n48'}, product_terms=1, size=[4, 2], level=2, expr=(~Iopcode0 & n48 & n37), row=[0, 1], col=[3, 4, 5, 6, 27], fanlevel=3), LUT(name=OselpcopA, fanin={'Iopcode0', 'n43', 'Iopcode2'}, product_terms=1, size=[4, 2], level=2, expr=(n43 & Iopcode0 & Iopcode2), row=[2, 3], col=[3, 4, 5, 6], fanlevel=0), LUT(name=Obgez, fanin={'Iopcode0', 'n79', 'Iopcode2'}, product_terms=1, size=[4, 2], level=2, expr=(n79 & Iopcode0 & Iopcode2), row=[4, 5], col=[3, 4, 5, 6], fanlevel=0), LUT(name=n86, fanin={'Iop_ext0', 'Iop_ext1', 'n57'}, product_terms=1, size=[4, 2], level=2, expr=(~Iop_ext1 & Iop_ext0 & n57), row=[6, 7], col=[3, 4, 5, 6, 31], fanlevel=3), LUT(name=Oselwb, fanin={'Iopcode0', 'n62', 'n48'}, product_terms=1, size=[4, 2], level=2, expr=(n48 & n62 & Iopcode0), row=[8, 9], col=[3, 4, 5, 6], fanlevel=0), LUT(name=n36, fanin={'Iopcode0', 'n37', 'Iopcode1', 'Iopcode2'}, product_terms=2, size=[4, 3], level=2, expr=(Iopcode0 & ~Iopcode2 & n37) | (Iopcode1 & ~Iopcode2 & n37), row=[10, 11, 12], col=[3, 4, 5, 6, 30], fanlevel=3), LUT(name=OselaluopB0, fanin={'n42', 'Iopcode1', 'n45', 'Iopcode2'}, product_terms=2, size=[4, 3], level=2, expr=(n42 & ~Iopcode2 & ~Iopcode1) | (n45 & ~Iopcode2 & Iopcode1), row=[13, 14, 15], col=[3, 4, 5, 6], fanlevel=0), LUT(name=n50, fanin={'Iopcode0', 'Iopcode1', 'n52', 'n51'}, product_terms=2, size=[4, 3], level=2, expr=(n52 & Iopcode1) | (~n51 & Iopcode0 & Iopcode1), row=[16, 17, 18], col=[3, 4, 5, 6, 31], fanlevel=3), LUT(name=Oaluopext1, fanin={'Iopcode0', 'Iopcode2', 'n62', 'n63'}, product_terms=2, size=[4, 3], level=2, expr=(Iopcode2 & n63) | (~Iopcode0 & n62 & n63), row=[19, 20, 21], col=[3, 4, 5, 6], fanlevel=0), LUT(name=Oaluopext2, fanin={'n43', 'Iopcode1', 'n65', 'Iopcode2'}, product_terms=2, size=[4, 3], level=2, expr=(n65 & ~Iopcode2) | (n43 & Iopcode1 & Iopcode2), row=[10, 11, 12], col=[7, 8, 9, 10], fanlevel=0), LUT(name=n84, fanin={'Iopcode3', 'Iop_ext0', 'Iopcode4', 'n57'}, product_terms=2, size=[4, 3], level=2, expr=(~Iopcode4 & n57 & Iopcode3) | (Iop_ext0 & n57 & Iopcode3), row=[13, 14, 15], col=[7, 8, 9, 10, 29], fanlevel=3), LUT(name=OinvB, fanin={'n37', 'Iopcode2', 'n57', 'n51'}, product_terms=2, size=[4, 3], level=2, expr=(n37 & Iopcode2 & ~n57) | (~n51 & ~Iopcode2 & n57), row=[16, 17, 18], col=[7, 8, 9, 10], fanlevel=0), LUT(name=Oaluop2, fanin={'Iopcode3', 'Iopcode4', 'n57', 'Iopcode2'}, product_terms=4, size=[4, 5], level=2, expr=(~Iopcode2 & ~Iopcode3 & Iopcode4) | (~Iopcode2 & Iopcode3 & ~Iopcode4) | (Iopcode2 & Iopcode3 & Iopcode4) | (n57 & Iopcode3 & Iopcode4), row=[22, 23, 24, 25, 26], col=[3, 4, 5, 6], fanlevel=0), LUT(name=Ohalt, fanin={'Iopcode0', 'Iopcode3', 'Iopcode4', 'n48'}, product_terms=1, size=[5, 2], level=2, expr=(~Iopcode0 & ~Iopcode3 & ~Iopcode4 & n48), row=[0, 1], col=[11, 12, 13, 14, 15], fanlevel=0), LUT(name=Obeqz, fanin={'Iopcode3', 'Iopcode4', 'Iopcode1', 'n74'}, product_terms=1, size=[5, 2], level=2, expr=(~Iopcode1 & ~Iopcode4 & Iopcode3 & n74), row=[2, 3], col=[11, 12, 13, 14, 15], fanlevel=0), LUT(name=n47, fanin={'Iopcode3', 'Iopcode4', 'Iopcode0', 'n48'}, product_terms=2, size=[5, 3], level=2, expr=(~Iopcode3 & ~Iopcode4 & n48) | (Iopcode0 & Iopcode3 & Iopcode4 & n48), row=[10, 11, 12], col=[11, 12, 13, 14, 15, 31], fanlevel=3), LUT(name=Omemwrite, fanin={'Iopcode0', 'Iopcode1', 'n62', 'Iopcode2'}, product_terms=2, size=[5, 3], level=2, expr=(~Iopcode2 & ~Iopcode0 & ~Iopcode1 & n62) | (~Iopcode2 & Iopcode0 & Iopcode1 & n62), row=[13, 14, 15], col=[11, 12, 13, 14, 15], fanlevel=0), LUT(name=Oselregdst0, fanin={'n38', 'n39', 'n36'}, product_terms=2, size=[3, 3], level=3, expr=(n36) | (~n38 & n39), row=[2, 3, 4], col=[0, 1, 2], fanlevel=0), LUT(name=Oaluopext0, fanin={'n59', 'n60', 'n54'}, product_terms=2, size=[3, 3], level=3, expr=(n59) | (~n60 & n54), row=[5, 6, 7], col=[0, 1, 2], fanlevel=0), LUT(name=Oaluop1, fanin={'Iopcode1', 'n55', 'n54'}, product_terms=1, size=[4, 2], level=3, expr=(~n54 & ~n55 & Iopcode1), row=[0, 1], col=[3, 4, 5, 6], fanlevel=0), LUT(name=Oselregdst1, fanin={'n43', 'Iopcode1', 'n41', 'Iopcode2'}, product_terms=2, size=[4, 3], level=3, expr=(n41 & ~Iopcode2) | (n43 & Iopcode1 & Iopcode2), row=[2, 3, 4], col=[3, 4, 5, 6], fanlevel=0), LUT(name=OselaluopB1, fanin={'n38', 'n47', 'Iopcode1', 'Iopcode2'}, product_terms=2, size=[4, 3], level=3, expr=(n38 & ~n47) | (~Iopcode1 & ~Iopcode2 & ~n47), row=[5, 6, 7], col=[3, 4, 5, 6], fanlevel=0), LUT(name=Oaluop0, fanin={'n38', 'n50', 'Iopcode0', 'Iopcode2'}, product_terms=2, size=[4, 3], level=3, expr=(n50 & ~Iopcode2) | (n38 & Iopcode0 & Iopcode2), row=[8, 9, 10], col=[3, 4, 5, 6], fanlevel=0), LUT(name=Oaluopext3, fanin={'n67', 'Iopcode1', 'n68', 'n54'}, product_terms=2, size=[4, 3], level=3, expr=(~n68 & ~n54) | (~n67 & Iopcode1 & ~n54), row=[2, 3, 4], col=[7, 8, 9, 10], fanlevel=0), LUT(name=Oregwrite, fanin={'n67', 'n39', 'n71', 'Iopcode1'}, product_terms=2, size=[4, 3], level=3, expr=~((~n71 & ~n39) | (~Iopcode1 & n67 & ~n39)), row=[5, 6, 7], col=[7, 8, 9, 10], fanlevel=0), LUT(name=OCin, fanin={'Iopcode2', 'n83', 'n84', 'n77'}, product_terms=2, size=[4, 3], level=3, expr=~((~n83 & Iopcode2) | (~n84 & ~n77 & ~Iopcode2)), row=[8, 9, 10], col=[7, 8, 9, 10], fanlevel=0), LUT(name=OinvA, fanin={'n37', 'n77', 'n86', 'Iopcode2'}, product_terms=2, size=[4, 3], level=3, expr=(n77 & ~Iopcode2) | (n37 & n86 & ~Iopcode2), row=[2, 3, 4], col=[11, 12, 13, 14], fanlevel=0)]
+

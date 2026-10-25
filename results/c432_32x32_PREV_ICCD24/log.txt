@@ -1,0 +1,751 @@
+Parsing result: [('OG223gat', '~((n46 & n48))'), ('n46', '(IG76gat & n47) | (~IG82gat & n47)'), ('n47', '~((~IG37gat & IG43gat) | (~IG63gat & IG69gat))'), ('n48', '(n49 & n50 & n51)'), ('n49', '~((~IG1gat & IG4gat) | (~IG11gat & IG17gat))'), ('n50', '~((~IG24gat & IG30gat) | (~IG102gat & IG108gat))'), ('n51', '~((~IG50gat & IG56gat) | (~IG89gat & IG95gat))'), ('OG329gat', '~((n53 & n57))'), ('n53', '(~n54 & ~n56 & ~n55) | (IG86gat & ~n56 & ~n55)'), ('n54', '(~OG223gat & IG82gat) | (~IG76gat & IG82gat)'), ('n55', '(~OG223gat & ~IG47gat & IG43gat) | (~IG37gat & ~IG47gat & IG43gat)'), ('n56', '(~OG223gat & ~IG73gat & IG69gat) | (~IG63gat & ~IG73gat & IG69gat)'), ('n57', '(~n58 & ~n59 & n60 & n65)'), ('n58', '(~OG223gat & ~IG8gat & IG4gat) | (~IG1gat & ~IG8gat & IG4gat)'), ('n59', '(~OG223gat & ~IG34gat & IG30gat) | (~IG24gat & ~IG34gat & IG30gat)'), ('n60', '(~n61 & ~n62) | (IG21gat & ~n62)'), ('n61', '(~IG11gat & IG17gat) | (n48 & n46 & IG17gat)'), ('n62', '(~n48 & n63 & n64) | (~n46 & n63 & n64) | (n46 & n48 & ~n63 & n64)'), ('n63', '(~IG50gat & IG56gat)'), ('n64', '(~IG60gat & IG56gat)'), ('n65', '~((~IG112gat & n66) | (~IG99gat & n67))'), ('n66', '(~IG102gat & IG108gat) | (n48 & n46 & IG108gat)'), ('n67', '(~IG89gat & IG95gat) | (n48 & n46 & IG95gat)'), ('OG370gat', '~((n69 & n75))'), ('n69', '(~n70 & ~n73 & ~n71) | (IG27gat & ~n73 & ~n71)'), ('n70', '(~OG329gat & n61) | (~IG21gat & n61)'), ('n71', '(~OG329gat & ~IG40gat & n72) | (~IG34gat & ~IG40gat & n72)'), ('n72', '(~OG223gat & IG30gat) | (~IG24gat & IG30gat)'), ('n73', '(~OG329gat & ~IG14gat & n74) | (~IG8gat & ~IG14gat & n74)'), ('n74', '(~OG223gat & IG4gat) | (~IG1gat & IG4gat)'), ('n75', '(~n87 & ~n88 & n76 & n81)'), ('n76', '(~n77 & ~n78) | (IG115gat & ~n78)'), ('n77', '(~IG112gat & n66) | (n57 & n53 & n66)'), ('n78', '(~n57 & n79 & n80) | (~n53 & n79 & n80) | (n53 & n57 & ~n79 & n80)'), ('n79', '(~IG99gat & n67)'), ('n80', '(~IG105gat & n67)'), ('n81', '~((n85) | (~n84 & ~IG53gat & n82))'), ('n82', '(~IG47gat & n83) | (n57 & n53 & n83)'), ('n83', '(~OG223gat & IG43gat) | (~IG37gat & IG43gat)'), ('n84', '(n53 & n57 & n55)'), ('n85', '(~n57 & n62 & n86) | (~n53 & n62 & n86) | (n53 & n57 & ~n62 & n86)'), ('n86', '(~IG66gat & ~OG223gat & IG50gat & IG56gat) | (~IG66gat & OG223gat & ~IG50gat & IG56gat)'), ('n87', '(~OG329gat & ~IG92gat & n54) | (~IG86gat & ~IG92gat & n54)'), ('n88', '(~IG79gat & ~OG329gat & IG73gat & n89) | (~IG79gat & OG329gat & ~IG73gat & n89)'), ('n89', '(~OG223gat & IG69gat) | (~IG63gat & IG69gat)'), ('OG421gat', '~((n91) | (~OG430gat & n101 & n105))'), ('n91', '(~OG370gat & n92) | (~IG14gat & n92)'), ('n92', '(~OG329gat & n74) | (~IG8gat & n74)'), ('OG430gat', '~((~n94 & ~n97 & ~n98 & ~n99))'), ('n94', '(~IG66gat & n95) | (n75 & n69 & n95)'), ('n95', '(~OG329gat & n96) | (~IG60gat & n96)'), ('n96', '(~OG223gat & IG56gat) | (~IG50gat & IG56gat)'), ('n97', '(~IG53gat & n82) | (n75 & n69 & n82)'), ('n98', '(~IG27gat & n70) | (n75 & n69 & n70)'), ('n99', '(~IG40gat & n100) | (n75 & n69 & n100)'), ('n100', '(~OG329gat & n72) | (~IG34gat & n72)'), ('n101', '(~n104 & ~n102) | (OG370gat & IG105gat & ~n102)'), ('n102', '(~IG92gat & n103) | (n75 & n69 & n103)'), ('n103', '(~OG329gat & n54) | (~IG86gat & n54)'), ('n104', '(~OG329gat & n67) | (~IG99gat & n67)'), ('n105', '(~n77 & ~n106) | (OG370gat & IG115gat & ~n106)'), ('n106', '(~IG79gat & n107) | (n75 & n69 & n107)'), ('n107', '(~OG329gat & n89) | (~IG73gat & n89)'), ('OG431gat', '~((~n109 & ~n111 & n110) | (~n102 & ~n111 & n110))'), ('n109', '(~n94 & ~n97)'), ('n110', '(~n98 & ~n99)'), ('n111', '(~n94 & ~n97 & ~n99 & n106)'), ('OG432gat', '~((~n113 & ~n111 & n115) | (~n114 & ~n111 & n115))'), ('n113', '(~n97 & ~n99)'), ('n114', '(~OG370gat & ~n102 & n104) | (~IG105gat & ~n102 & n104)'), ('n115', '(~n97 & ~n98) | (n99 & ~n98)')]
+File saved: results/c432_32x32_PREV_ICCD24/instructions.txt
+{'OG223gat': LUT(name=OG223gat, fanin={'n46', 'n48'}, product_terms=1, size=[3, 2], level=3, expr=~((n46 & n48)), row=[99], col=[99], fanlevel=4), 'n46': LUT(name=n46, fanin={'IG76gat', 'n47', 'IG82gat'}, product_terms=2, size=[3, 3], level=2, expr=(IG76gat & n47) | (~IG82gat & n47), row=[99], col=[99], fanlevel=3), 'n47': LUT(name=n47, fanin={'IG63gat', 'IG43gat', 'IG69gat', 'IG37gat'}, product_terms=2, size=[3, 3], level=1, expr=~((~IG37gat & IG43gat) | (~IG63gat & IG69gat)), row=[99], col=[99], fanlevel=2), 'n48': LUT(name=n48, fanin={'n50', 'n51', 'n49'}, product_terms=1, size=[4, 2], level=2, expr=(n49 & n50 & n51), row=[99], col=[99], fanlevel=3), 'n49': LUT(name=n49, fanin={'IG11gat', 'IG4gat', 'IG1gat', 'IG17gat'}, product_terms=2, size=[3, 3], level=1, expr=~((~IG1gat & IG4gat) | (~IG11gat & IG17gat)), row=[99], col=[99], fanlevel=2), 'n50': LUT(name=n50, fanin={'IG30gat', 'IG102gat', 'IG108gat', 'IG24gat'}, product_terms=2, size=[3, 3], level=1, expr=~((~IG24gat & IG30gat) | (~IG102gat & IG108gat)), row=[99], col=[99], fanlevel=2), 'n51': LUT(name=n51, fanin={'IG89gat', 'IG95gat', 'IG50gat', 'IG56gat'}, product_terms=2, size=[3, 3], level=1, expr=~((~IG50gat & IG56gat) | (~IG89gat & IG95gat)), row=[99], col=[99], fanlevel=2), 'OG329gat': LUT(name=OG329gat, fanin={'n53', 'n57'}, product_terms=1, size=[3, 2], level=6, expr=~((n53 & n57)), row=[99], col=[99], fanlevel=7), 'n53': LUT(name=n53, fanin={'n56', 'n54', 'n55', 'IG86gat'}, product_terms=2, size=[4, 3], level=5, expr=(~n54 & ~n56 & ~n55) | (IG86gat & ~n56 & ~n55), row=[99], col=[99], fanlevel=6), 'n54': LUT(name=n54, fanin={'IG76gat', 'OG223gat', 'IG82gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG82gat) | (~IG76gat & IG82gat), row=[99], col=[99], fanlevel=7), 'n55': LUT(name=n55, fanin={'OG223gat', 'IG43gat', 'IG47gat', 'IG37gat'}, product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG47gat & IG43gat) | (~IG37gat & ~IG47gat & IG43gat), row=[99], col=[99], fanlevel=6), 'n56': LUT(name=n56, fanin={'IG63gat', 'OG223gat', 'IG69gat', 'IG73gat'}, product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG73gat & IG69gat) | (~IG63gat & ~IG73gat & IG69gat), row=[99], col=[99], fanlevel=5), 'n57': LUT(name=n57, fanin={'n60', 'n58', 'n65', 'n59'}, product_terms=1, size=[5, 2], level=5, expr=(~n58 & ~n59 & n60 & n65), row=[99], col=[99], fanlevel=6), 'n58': LUT(name=n58, fanin={'OG223gat', 'IG4gat', 'IG8gat', 'IG1gat'}, product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG8gat & IG4gat) | (~IG1gat & ~IG8gat & IG4gat), row=[99], col=[99], fanlevel=5), 'n59': LUT(name=n59, fanin={'IG30gat', 'OG223gat', 'IG34gat', 'IG24gat'}, product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG34gat & IG30gat) | (~IG24gat & ~IG34gat & IG30gat), row=[99], col=[99], fanlevel=5), 'n60': LUT(name=n60, fanin={'n62', 'IG21gat', 'n61'}, product_terms=2, size=[3, 3], level=4, expr=(~n61 & ~n62) | (IG21gat & ~n62), row=[99], col=[99], fanlevel=5), 'n61': LUT(name=n61, fanin={'IG11gat', 'IG17gat', 'n46', 'n48'}, product_terms=2, size=[4, 3], level=3, expr=(~IG11gat & IG17gat) | (n48 & n46 & IG17gat), row=[99], col=[99], fanlevel=7), 'n62': LUT(name=n62, fanin={'n63', 'n64', 'n46', 'n48'}, product_terms=3, size=[5, 4], level=3, expr=(~n48 & n63 & n64) | (~n46 & n63 & n64) | (n46 & n48 & ~n63 & n64), row=[99], col=[99], fanlevel=6), 'n63': LUT(name=n63, fanin={'IG50gat', 'IG56gat'}, product_terms=1, size=[3, 2], level=1, expr=(~IG50gat & IG56gat), row=[99], col=[99], fanlevel=3), 'n64': LUT(name=n64, fanin={'IG56gat', 'IG60gat'}, product_terms=1, size=[3, 2], level=1, expr=(~IG60gat & IG56gat), row=[99], col=[99], fanlevel=3), 'n65': LUT(name=n65, fanin={'IG99gat', 'n66', 'IG112gat', 'n67'}, product_terms=2, size=[3, 3], level=4, expr=~((~IG112gat & n66) | (~IG99gat & n67)), row=[99], col=[99], fanlevel=5), 'n66': LUT(name=n66, fanin={'IG102gat', 'IG108gat', 'n46', 'n48'}, product_terms=2, size=[4, 3], level=3, expr=(~IG102gat & IG108gat) | (n48 & n46 & IG108gat), row=[99], col=[99], fanlevel=6), 'n67': LUT(name=n67, fanin={'IG89gat', 'IG95gat', 'n46', 'n48'}, product_terms=2, size=[4, 3], level=3, expr=(~IG89gat & IG95gat) | (n48 & n46 & IG95gat), row=[99], col=[99], fanlevel=7), 'OG370gat': LUT(name=OG370gat, fanin={'n69', 'n75'}, product_terms=1, size=[3, 2], level=9, expr=~((n69 & n75)), row=[99], col=[99], fanlevel=10), 'n69': LUT(name=n69, fanin={'n70', 'n73', 'IG27gat', 'n71'}, product_terms=2, size=[4, 3], level=8, expr=(~n70 & ~n73 & ~n71) | (IG27gat & ~n73 & ~n71), row=[99], col=[99], fanlevel=9), 'n70': LUT(name=n70, fanin={'IG21gat', 'OG329gat', 'n61'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n61) | (~IG21gat & n61), row=[99], col=[99], fanlevel=9), 'n71': LUT(name=n71, fanin={'OG329gat', 'IG40gat', 'IG34gat', 'n72'}, product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG40gat & n72) | (~IG34gat & ~IG40gat & n72), row=[99], col=[99], fanlevel=8), 'n72': LUT(name=n72, fanin={'IG30gat', 'OG223gat', 'IG24gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG30gat) | (~IG24gat & IG30gat), row=[99], col=[99], fanlevel=7), 'n73': LUT(name=n73, fanin={'IG14gat', 'OG329gat', 'IG8gat', 'n74'}, product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG14gat & n74) | (~IG8gat & ~IG14gat & n74), row=[99], col=[99], fanlevel=8), 'n74': LUT(name=n74, fanin={'OG223gat', 'IG4gat', 'IG1gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG4gat) | (~IG1gat & IG4gat), row=[99], col=[99], fanlevel=7), 'n75': LUT(name=n75, fanin={'n76', 'n87', 'n88', 'n81'}, product_terms=1, size=[5, 2], level=8, expr=(~n87 & ~n88 & n76 & n81), row=[99], col=[99], fanlevel=9), 'n76': LUT(name=n76, fanin={'n77', 'n78', 'IG115gat'}, product_terms=2, size=[3, 3], level=7, expr=(~n77 & ~n78) | (IG115gat & ~n78), row=[99], col=[99], fanlevel=8), 'n77': LUT(name=n77, fanin={'n66', 'IG112gat', 'n53', 'n57'}, product_terms=2, size=[4, 3], level=6, expr=(~IG112gat & n66) | (n57 & n53 & n66), row=[99], col=[99], fanlevel=10), 'n78': LUT(name=n78, fanin={'n57', 'n79', 'n53', 'n80'}, product_terms=3, size=[5, 4], level=6, expr=(~n57 & n79 & n80) | (~n53 & n79 & n80) | (n53 & n57 & ~n79 & n80), row=[99], col=[99], fanlevel=7), 'n79': LUT(name=n79, fanin={'IG99gat', 'n67'}, product_terms=1, size=[3, 2], level=4, expr=(~IG99gat & n67), row=[99], col=[99], fanlevel=6), 'n80': LUT(name=n80, fanin={'IG105gat', 'n67'}, product_terms=1, size=[3, 2], level=4, expr=(~IG105gat & n67), row=[99], col=[99], fanlevel=6), 'n81': LUT(name=n81, fanin={'n82', 'IG53gat', 'n84', 'n85'}, product_terms=2, size=[4, 3], level=7, expr=~((n85) | (~n84 & ~IG53gat & n82)), row=[99], col=[99], fanlevel=8), 'n82': LUT(name=n82, fanin={'n83', 'IG47gat', 'n53', 'n57'}, product_terms=2, size=[4, 3], level=6, expr=(~IG47gat & n83) | (n57 & n53 & n83), row=[99], col=[99], fanlevel=9), 'n83': LUT(name=n83, fanin={'OG223gat', 'IG43gat', 'IG37gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG43gat) | (~IG37gat & IG43gat), row=[99], col=[99], fanlevel=6), 'n84': LUT(name=n84, fanin={'n55', 'n53', 'n57'}, product_terms=1, size=[4, 2], level=6, expr=(n53 & n57 & n55), row=[99], col=[99], fanlevel=7), 'n85': LUT(name=n85, fanin={'n62', 'n86', 'n53', 'n57'}, product_terms=3, size=[5, 4], level=6, expr=(~n57 & n62 & n86) | (~n53 & n62 & n86) | (n53 & n57 & ~n62 & n86), row=[99], col=[99], fanlevel=7), 'n86': LUT(name=n86, fanin={'OG223gat', 'IG66gat', 'IG50gat', 'IG56gat'}, product_terms=2, size=[5, 3], level=4, expr=(~IG66gat & ~OG223gat & IG50gat & IG56gat) | (~IG66gat & OG223gat & ~IG50gat & IG56gat), row=[99], col=[99], fanlevel=6), 'n87': LUT(name=n87, fanin={'OG329gat', 'n54', 'IG86gat', 'IG92gat'}, product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG92gat & n54) | (~IG86gat & ~IG92gat & n54), row=[99], col=[99], fanlevel=8), 'n88': LUT(name=n88, fanin={'OG329gat', 'n89', 'IG73gat', 'IG79gat'}, product_terms=2, size=[5, 3], level=7, expr=(~IG79gat & ~OG329gat & IG73gat & n89) | (~IG79gat & OG329gat & ~IG73gat & n89), row=[99], col=[99], fanlevel=8), 'n89': LUT(name=n89, fanin={'IG63gat', 'OG223gat', 'IG69gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG69gat) | (~IG63gat & IG69gat), row=[99], col=[99], fanlevel=7), 'OG421gat': LUT(name=OG421gat, fanin={'n105', 'n101', 'n91', 'OG430gat'}, product_terms=2, size=[4, 3], level=11, expr=~((n91) | (~OG430gat & n101 & n105)), row=[99], col=[99], fanlevel=0), 'n91': LUT(name=n91, fanin={'IG14gat', 'OG370gat', 'n92'}, product_terms=2, size=[3, 3], level=10, expr=(~OG370gat & n92) | (~IG14gat & n92), row=[99], col=[99], fanlevel=11), 'n92': LUT(name=n92, fanin={'OG329gat', 'IG8gat', 'n74'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n74) | (~IG8gat & n74), row=[99], col=[99], fanlevel=10), 'OG430gat': LUT(name=OG430gat, fanin={'n97', 'n99', 'n98', 'n94'}, product_terms=1, size=[5, 2], level=10, expr=~((~n94 & ~n97 & ~n98 & ~n99)), row=[99], col=[99], fanlevel=11), 'n94': LUT(name=n94, fanin={'n75', 'n95', 'IG66gat', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG66gat & n95) | (n75 & n69 & n95), row=[99], col=[99], fanlevel=10), 'n95': LUT(name=n95, fanin={'n96', 'OG329gat', 'IG60gat'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n96) | (~IG60gat & n96), row=[99], col=[99], fanlevel=9), 'n96': LUT(name=n96, fanin={'OG223gat', 'IG50gat', 'IG56gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG56gat) | (~IG50gat & IG56gat), row=[99], col=[99], fanlevel=7), 'n97': LUT(name=n97, fanin={'n82', 'n75', 'IG53gat', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG53gat & n82) | (n75 & n69 & n82), row=[99], col=[99], fanlevel=10), 'n98': LUT(name=n98, fanin={'n75', 'n70', 'IG27gat', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG27gat & n70) | (n75 & n69 & n70), row=[99], col=[99], fanlevel=10), 'n99': LUT(name=n99, fanin={'n75', 'n100', 'IG40gat', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG40gat & n100) | (n75 & n69 & n100), row=[99], col=[99], fanlevel=10), 'n100': LUT(name=n100, fanin={'OG329gat', 'IG34gat', 'n72'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n72) | (~IG34gat & n72), row=[99], col=[99], fanlevel=9), 'n101': LUT(name=n101, fanin={'n102', 'n104', 'OG370gat', 'IG105gat'}, product_terms=2, size=[4, 3], level=10, expr=(~n104 & ~n102) | (OG370gat & IG105gat & ~n102), row=[99], col=[99], fanlevel=11), 'n102': LUT(name=n102, fanin={'n75', 'n103', 'n69', 'IG92gat'}, product_terms=2, size=[4, 3], level=9, expr=(~IG92gat & n103) | (n75 & n69 & n103), row=[99], col=[99], fanlevel=11), 'n103': LUT(name=n103, fanin={'OG329gat', 'n54', 'IG86gat'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n54) | (~IG86gat & n54), row=[99], col=[99], fanlevel=9), 'n104': LUT(name=n104, fanin={'IG99gat', 'OG329gat', 'n67'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n67) | (~IG99gat & n67), row=[99], col=[99], fanlevel=10), 'n105': LUT(name=n105, fanin={'n77', 'IG115gat', 'OG370gat', 'n106'}, product_terms=2, size=[4, 3], level=10, expr=(~n77 & ~n106) | (OG370gat & IG115gat & ~n106), row=[99], col=[99], fanlevel=11), 'n106': LUT(name=n106, fanin={'n75', 'IG79gat', 'n107', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG79gat & n107) | (n75 & n69 & n107), row=[99], col=[99], fanlevel=10), 'n107': LUT(name=n107, fanin={'OG329gat', 'n89', 'IG73gat'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n89) | (~IG73gat & n89), row=[99], col=[99], fanlevel=9), 'OG431gat': LUT(name=OG431gat, fanin={'n109', 'n111', 'n110', 'n102'}, product_terms=2, size=[4, 3], level=11, expr=~((~n109 & ~n111 & n110) | (~n102 & ~n111 & n110)), row=[99], col=[99], fanlevel=0), 'n109': LUT(name=n109, fanin={'n97', 'n94'}, product_terms=1, size=[3, 2], level=10, expr=(~n94 & ~n97), row=[99], col=[99], fanlevel=11), 'n110': LUT(name=n110, fanin={'n99', 'n98'}, product_terms=1, size=[3, 2], level=10, expr=(~n98 & ~n99), row=[99], col=[99], fanlevel=11), 'n111': LUT(name=n111, fanin={'n97', 'n99', 'n94', 'n106'}, product_terms=1, size=[5, 2], level=10, expr=(~n94 & ~n97 & ~n99 & n106), row=[99], col=[99], fanlevel=11), 'OG432gat': LUT(name=OG432gat, fanin={'n114', 'n115', 'n113', 'n111'}, product_terms=2, size=[4, 3], level=11, expr=~((~n113 & ~n111 & n115) | (~n114 & ~n111 & n115)), row=[99], col=[99], fanlevel=0), 'n113': LUT(name=n113, fanin={'n97', 'n99'}, product_terms=1, size=[3, 2], level=10, expr=(~n97 & ~n99), row=[99], col=[99], fanlevel=11), 'n114': LUT(name=n114, fanin={'OG370gat', 'n104', 'n102', 'IG105gat'}, product_terms=2, size=[4, 3], level=10, expr=(~OG370gat & ~n102 & n104) | (~IG105gat & ~n102 & n104), row=[99], col=[99], fanlevel=11), 'n115': LUT(name=n115, fanin={'n97', 'n99', 'n98'}, product_terms=2, size=[3, 3], level=10, expr=(~n97 & ~n98) | (n99 & ~n98), row=[99], col=[99], fanlevel=11)}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{(3, 2): 2, (3, 3): 4}
+Trying to map LUT at level 1 with fanin {'IG50gat', 'IG56gat'} and expression (~IG50gat & IG56gat)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 0, 'H5': 0, 'V2': 4, 'V3': 12, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'IG56gat', 'IG60gat'} and expression (~IG60gat & IG56gat)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 0, 'H5': 0, 'V2': 4, 'V3': 12, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 1 with fanin {'IG63gat', 'IG43gat', 'IG69gat', 'IG37gat'} and expression ~((~IG37gat & IG43gat) | (~IG63gat & IG69gat))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 0, 'H5': 0, 'V2': 4, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 1 with fanin {'IG11gat', 'IG4gat', 'IG1gat', 'IG17gat'} and expression ~((~IG1gat & IG4gat) | (~IG11gat & IG17gat))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 0, 'H5': 0, 'V2': 4, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 1 with fanin {'IG30gat', 'IG102gat', 'IG108gat', 'IG24gat'} and expression ~((~IG24gat & IG30gat) | (~IG102gat & IG108gat))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 0, 'H5': 0, 'V2': 4, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 1 with fanin {'IG89gat', 'IG95gat', 'IG50gat', 'IG56gat'} and expression ~((~IG50gat & IG56gat) | (~IG89gat & IG95gat))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 0, 'H5': 0, 'V2': 4, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+
+Finished mapping level: 1
+
+
+
+
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.004581 s
+
+map_lut calls 6 | total 0.001422 s | avg 0.000237061 s
+execute_Copy calls 1 | total 0.000680 s | avg 0.000680192 s
+cal_V_temp calls 1 | total 0.000049 s | avg 0.000049360 s
+compute_reduce_space calls 1 | total 0.000004 s | avg 0.000004459 s
+Blocking calls 1 | total 0.000228 s | avg 0.000228069 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 1 | total 0.000548 s | avg 0.000548124 s
+map_lut_with_reset calls 6 | total 0.001648 s | avg 0.000274658 s
+
+[ Section runtime summary ]
+{(4, 2): 1, (3, 3): 1}
+{'H2': 0, 'H3': 3, 'H4': 4, 'H5': 0, 'V2': 2, 'V3': 3, 'V4': 0}
+Trying to map LUT at level 2 with fanin {'IG76gat', 'n47', 'IG82gat'} and expression (IG76gat & n47) | (~IG82gat & n47)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 0, 'V2': 2, 'V3': 3, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 2 with fanin {'n50', 'n51', 'n49'} and expression (n49 & n50 & n51)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 0, 'V2': 2, 'V3': 3, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+
+Finished mapping level: 2
+
+
+
+
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.009847 s
+
+map_lut calls 8 | total 0.001805 s | avg 0.000225594 s
+execute_Copy calls 2 | total 0.004478 s | avg 0.002238818 s
+cal_V_temp calls 2 | total 0.000096 s | avg 0.000047841 s
+compute_reduce_space calls 2 | total 0.000014 s | avg 0.000007246 s
+Blocking calls 2 | total 0.000447 s | avg 0.000223606 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 2 | total 0.000909 s | avg 0.000454457 s
+map_lut_with_reset calls 8 | total 0.002099 s | avg 0.000262337 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 6 | total 0.000004 s | avg 0.000000676 s
+A_star_search::section2-1 | calls 131 | total 0.000102 s | avg 0.000000781 s
+A_star_search::section6 | calls 125 | total 0.000765 s | avg 0.000006119 s
+{(3, 2): 1, (4, 3): 3, (5, 4): 1}
+{'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 9, 'V4': 4}
+Trying to map LUT at level 3 with fanin {'n46', 'n48'} and expression ~((n46 & n48))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 9, 'V4': 4}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 3 with fanin {'IG11gat', 'IG17gat', 'n46', 'n48'} and expression (~IG11gat & IG17gat) | (n48 & n46 & IG17gat)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 9, 'V4': 4}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'IG102gat', 'IG108gat', 'n46', 'n48'} and expression (~IG102gat & IG108gat) | (n48 & n46 & IG108gat)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 9, 'V4': 4}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'IG89gat', 'IG95gat', 'n46', 'n48'} and expression (~IG89gat & IG95gat) | (n48 & n46 & IG95gat)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 9, 'V4': 4}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 3 with fanin {'n63', 'n64', 'n46', 'n48'} and expression (~n48 & n63 & n64) | (~n46 & n63 & n64) | (n46 & n48 & ~n63 & n64)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 9, 'V4': 4}
+Product terms: 3
+Number of terms: 3
+
+Finished mapping level: 3
+
+
+
+
+~n48
+~n46
+~n63
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.031700 s
+
+map_lut calls 13 | total 0.003008 s | avg 0.000231391 s
+execute_Copy calls 3 | total 0.022812 s | avg 0.007603891 s
+cal_V_temp calls 3 | total 0.000152 s | avg 0.000050771 s
+compute_reduce_space calls 3 | total 0.000026 s | avg 0.000008719 s
+Blocking calls 3 | total 0.000693 s | avg 0.000230933 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 3 | total 0.001541 s | avg 0.000513673 s
+map_lut_with_reset calls 13 | total 0.003468 s | avg 0.000266749 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 101 | total 0.000032 s | avg 0.000000319 s
+A_star_search::section2-1 | calls 1101 | total 0.000775 s | avg 0.000000704 s
+A_star_search::section6 | calls 1000 | total 0.005960 s | avg 0.000005960 s
+{(3, 2): 2, (3, 3): 8, (4, 3): 4, (5, 3): 1}
+{(3, 2): 1, (3, 3): 4, (4, 3): 4, (5, 3): 1}
+{(3, 2): 1, (3, 3): 4, (4, 3): 2, (5, 3): 1}
+{'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Trying to map LUT at level 4 with fanin {'IG99gat', 'n67'} and expression (~IG99gat & n67)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 4 with fanin {'IG105gat', 'n67'} and expression (~IG105gat & n67)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 4 with fanin {'IG76gat', 'OG223gat', 'IG82gat'} and expression (~OG223gat & IG82gat) | (~IG76gat & IG82gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'n62', 'IG21gat', 'n61'} and expression (~n61 & ~n62) | (IG21gat & ~n62)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'IG30gat', 'OG223gat', 'IG24gat'} and expression (~OG223gat & IG30gat) | (~IG24gat & IG30gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'OG223gat', 'IG4gat', 'IG1gat'} and expression (~OG223gat & IG4gat) | (~IG1gat & IG4gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'OG223gat', 'IG43gat', 'IG37gat'} and expression (~OG223gat & IG43gat) | (~IG37gat & IG43gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'IG63gat', 'OG223gat', 'IG69gat'} and expression (~OG223gat & IG69gat) | (~IG63gat & IG69gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'OG223gat', 'IG50gat', 'IG56gat'} and expression (~OG223gat & IG56gat) | (~IG50gat & IG56gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'IG99gat', 'n66', 'IG112gat', 'n67'} and expression ~((~IG112gat & n66) | (~IG99gat & n67))
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'OG223gat', 'IG43gat', 'IG47gat', 'IG37gat'} and expression (~OG223gat & ~IG47gat & IG43gat) | (~IG37gat & ~IG47gat & IG43gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'IG63gat', 'OG223gat', 'IG69gat', 'IG73gat'} and expression (~OG223gat & ~IG73gat & IG69gat) | (~IG63gat & ~IG73gat & IG69gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'OG223gat', 'IG4gat', 'IG8gat', 'IG1gat'} and expression (~OG223gat & ~IG8gat & IG4gat) | (~IG1gat & ~IG8gat & IG4gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'IG30gat', 'OG223gat', 'IG34gat', 'IG24gat'} and expression (~OG223gat & ~IG34gat & IG30gat) | (~IG24gat & ~IG34gat & IG30gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 4 with fanin {'OG223gat', 'IG66gat', 'IG50gat', 'IG56gat'} and expression (~IG66gat & ~OG223gat & IG50gat & IG56gat) | (~IG66gat & OG223gat & ~IG50gat & IG56gat)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 8, 'H5': 5, 'V2': 2, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+
+Finished mapping level: 4
+
+
+
+
+~OG223gat
+~OG223gat
+~OG223gat
+~OG223gat
+~n61
+~n62
+~OG223gat
+~OG223gat
+~n62
+~OG223gat
+~OG223gat
+~OG223gat
+~OG223gat
+~OG223gat
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.082011 s
+
+map_lut calls 28 | total 0.006772 s | avg 0.000241842 s
+execute_Copy calls 4 | total 0.063037 s | avg 0.015759336 s
+cal_V_temp calls 7 | total 0.000356 s | avg 0.000050801 s
+compute_reduce_space calls 7 | total 0.000051 s | avg 0.000007280 s
+Blocking calls 4 | total 0.001270 s | avg 0.000317412 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 4 | total 0.002770 s | avg 0.000692375 s
+map_lut_with_reset calls 28 | total 0.007756 s | avg 0.000277015 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 231 | total 0.000076 s | avg 0.000000327 s
+A_star_search::section2-1 | calls 4203 | total 0.003029 s | avg 0.000000721 s
+A_star_search::section6 | calls 3972 | total 0.023207 s | avg 0.000005843 s
+{(5, 2): 1, (4, 3): 1}
+{'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Trying to map LUT at level 5 with fanin {'n56', 'n54', 'n55', 'IG86gat'} and expression (~n54 & ~n56 & ~n55) | (IG86gat & ~n56 & ~n55)
+Trying to use area: {'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 5 with fanin {'n60', 'n58', 'n65', 'n59'} and expression (~n58 & ~n59 & n60 & n65)
+Trying to use area: {'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+
+Finished mapping level: 5
+
+
+
+
+~n58
+~n59
+~n54
+~n56
+~n55
+~n56
+~n55
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.089228 s
+
+map_lut calls 30 | total 0.007227 s | avg 0.000240899 s
+execute_Copy calls 5 | total 0.068517 s | avg 0.013703336 s
+cal_V_temp calls 8 | total 0.000406 s | avg 0.000050794 s
+compute_reduce_space calls 8 | total 0.000060 s | avg 0.000007468 s
+Blocking calls 5 | total 0.001524 s | avg 0.000304790 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 5 | total 0.003209 s | avg 0.000641834 s
+map_lut_with_reset calls 30 | total 0.008285 s | avg 0.000276160 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 242 | total 0.000082 s | avg 0.000000337 s
+A_star_search::section2-1 | calls 4325 | total 0.003122 s | avg 0.000000722 s
+A_star_search::section6 | calls 4083 | total 0.023901 s | avg 0.000005854 s
+{(3, 2): 1, (4, 2): 1, (4, 3): 2, (5, 4): 2}
+{'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 6, 'V4': 8}
+Trying to map LUT at level 6 with fanin {'n53', 'n57'} and expression ~((n53 & n57))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 6, 'V4': 8}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 6 with fanin {'n55', 'n53', 'n57'} and expression (n53 & n57 & n55)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 6, 'V4': 8}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 6 with fanin {'n66', 'IG112gat', 'n53', 'n57'} and expression (~IG112gat & n66) | (n57 & n53 & n66)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 6, 'V4': 8}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 6 with fanin {'n83', 'IG47gat', 'n53', 'n57'} and expression (~IG47gat & n83) | (n57 & n53 & n83)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 6, 'V4': 8}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 6 with fanin {'n57', 'n79', 'n53', 'n80'} and expression (~n57 & n79 & n80) | (~n53 & n79 & n80) | (n53 & n57 & ~n79 & n80)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 6, 'V4': 8}
+Product terms: 3
+Number of terms: 3
+Trying to map LUT at level 6 with fanin {'n62', 'n86', 'n53', 'n57'} and expression (~n57 & n62 & n86) | (~n53 & n62 & n86) | (n53 & n57 & ~n62 & n86)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 6, 'V4': 8}
+Product terms: 3
+Number of terms: 3
+
+Finished mapping level: 6
+
+
+
+
+~n57
+~n53
+~n79
+~n57
+~n53
+~n62
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.133035 s
+
+map_lut calls 36 | total 0.008625 s | avg 0.000239596 s
+execute_Copy calls 6 | total 0.107944 s | avg 0.017990666 s
+cal_V_temp calls 9 | total 0.000542 s | avg 0.000060199 s
+compute_reduce_space calls 9 | total 0.000070 s | avg 0.000007826 s
+Blocking calls 6 | total 0.001871 s | avg 0.000311763 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 6 | total 0.004097 s | avg 0.000682856 s
+map_lut_with_reset calls 36 | total 0.009886 s | avg 0.000274598 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 423 | total 0.000136 s | avg 0.000000321 s
+A_star_search::section2-1 | calls 6691 | total 0.004754 s | avg 0.000000710 s
+A_star_search::section6 | calls 6268 | total 0.036637 s | avg 0.000005845 s
+{(3, 3): 8, (4, 3): 4, (5, 3): 1}
+{(3, 3): 4, (4, 3): 4, (5, 3): 1}
+{'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Trying to map LUT at level 7 with fanin {'IG21gat', 'OG329gat', 'n61'} and expression (~OG329gat & n61) | (~IG21gat & n61)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'n77', 'n78', 'IG115gat'} and expression (~n77 & ~n78) | (IG115gat & ~n78)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'OG329gat', 'IG8gat', 'n74'} and expression (~OG329gat & n74) | (~IG8gat & n74)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'n96', 'OG329gat', 'IG60gat'} and expression (~OG329gat & n96) | (~IG60gat & n96)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'OG329gat', 'IG34gat', 'n72'} and expression (~OG329gat & n72) | (~IG34gat & n72)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'OG329gat', 'n54', 'IG86gat'} and expression (~OG329gat & n54) | (~IG86gat & n54)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'IG99gat', 'OG329gat', 'n67'} and expression (~OG329gat & n67) | (~IG99gat & n67)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'OG329gat', 'n89', 'IG73gat'} and expression (~OG329gat & n89) | (~IG73gat & n89)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'OG329gat', 'IG40gat', 'IG34gat', 'n72'} and expression (~OG329gat & ~IG40gat & n72) | (~IG34gat & ~IG40gat & n72)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'IG14gat', 'OG329gat', 'IG8gat', 'n74'} and expression (~OG329gat & ~IG14gat & n74) | (~IG8gat & ~IG14gat & n74)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'n82', 'IG53gat', 'n84', 'n85'} and expression ~((n85) | (~n84 & ~IG53gat & n82))
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'OG329gat', 'n54', 'IG86gat', 'IG92gat'} and expression (~OG329gat & ~IG92gat & n54) | (~IG86gat & ~IG92gat & n54)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 7 with fanin {'OG329gat', 'n89', 'IG73gat', 'IG79gat'} and expression (~IG79gat & ~OG329gat & IG73gat & n89) | (~IG79gat & OG329gat & ~IG73gat & n89)
+Trying to use area: {'H2': 0, 'H3': 6, 'H4': 4, 'H5': 5, 'V2': 0, 'V3': 12, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+
+Finished mapping level: 7
+
+
+
+
+~OG329gat
+~OG329gat
+~OG329gat
+~OG329gat
+~n77
+~n78
+~OG329gat
+~OG329gat
+~n78
+~OG329gat
+~OG329gat
+~n84
+~OG329gat
+~OG329gat
+~OG329gat
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.244306 s
+
+map_lut calls 49 | total 0.011938 s | avg 0.000243626 s
+execute_Copy calls 7 | total 0.210148 s | avg 0.030021125 s
+cal_V_temp calls 12 | total 0.000676 s | avg 0.000056333 s
+compute_reduce_space calls 12 | total 0.000087 s | avg 0.000007265 s
+Blocking calls 7 | total 0.002320 s | avg 0.000331458 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 7 | total 0.005488 s | avg 0.000783999 s
+map_lut_with_reset calls 49 | total 0.013649 s | avg 0.000278545 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 622 | total 0.000222 s | avg 0.000000356 s
+A_star_search::section2-1 | calls 13084 | total 0.010439 s | avg 0.000000798 s
+A_star_search::section6 | calls 12462 | total 0.088143 s | avg 0.000007073 s
+{(5, 2): 1, (4, 3): 1}
+{'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Trying to map LUT at level 8 with fanin {'n70', 'n73', 'IG27gat', 'n71'} and expression (~n70 & ~n73 & ~n71) | (IG27gat & ~n73 & ~n71)
+Trying to use area: {'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 8 with fanin {'n76', 'n87', 'n88', 'n81'} and expression (~n87 & ~n88 & n76 & n81)
+Trying to use area: {'H2': 0, 'H3': 0, 'H4': 4, 'H5': 5, 'V2': 2, 'V3': 3, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+
+Finished mapping level: 8
+
+
+
+
+~n87
+~n88
+~n70
+~n73
+~n71
+~n73
+~n71
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.252564 s
+
+map_lut calls 51 | total 0.012493 s | avg 0.000244963 s
+execute_Copy calls 8 | total 0.216217 s | avg 0.027027133 s
+cal_V_temp calls 13 | total 0.000731 s | avg 0.000056210 s
+compute_reduce_space calls 13 | total 0.000098 s | avg 0.000007549 s
+Blocking calls 8 | total 0.002614 s | avg 0.000326799 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 8 | total 0.006127 s | avg 0.000765884 s
+map_lut_with_reset calls 51 | total 0.014284 s | avg 0.000280070 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 633 | total 0.000230 s | avg 0.000000363 s
+A_star_search::section2-1 | calls 13209 | total 0.010540 s | avg 0.000000798 s
+A_star_search::section6 | calls 12576 | total 0.088944 s | avg 0.000007072 s
+{(3, 2): 1, (4, 3): 6}
+{(3, 2): 1, (4, 3): 3}
+{(3, 2): 1, (4, 3): 2}
+{'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Trying to map LUT at level 9 with fanin {'n69', 'n75'} and expression ~((n69 & n75))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 9 with fanin {'n75', 'n95', 'IG66gat', 'n69'} and expression (~IG66gat & n95) | (n75 & n69 & n95)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 9 with fanin {'n82', 'n75', 'IG53gat', 'n69'} and expression (~IG53gat & n82) | (n75 & n69 & n82)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 9 with fanin {'n75', 'n70', 'IG27gat', 'n69'} and expression (~IG27gat & n70) | (n75 & n69 & n70)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 9 with fanin {'n75', 'n100', 'IG40gat', 'n69'} and expression (~IG40gat & n100) | (n75 & n69 & n100)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 9 with fanin {'n75', 'n103', 'n69', 'IG92gat'} and expression (~IG92gat & n103) | (n75 & n69 & n103)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 9 with fanin {'n75', 'IG79gat', 'n107', 'n69'} and expression (~IG79gat & n107) | (n75 & n69 & n107)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 12, 'H5': 0, 'V2': 2, 'V3': 6, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+
+Finished mapping level: 9
+
+
+
+
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.291932 s
+
+map_lut calls 58 | total 0.014435 s | avg 0.000248880 s
+execute_Copy calls 9 | total 0.249702 s | avg 0.027744680 s
+cal_V_temp calls 17 | total 0.000919 s | avg 0.000054040 s
+compute_reduce_space calls 17 | total 0.000125 s | avg 0.000007373 s
+Blocking calls 9 | total 0.003208 s | avg 0.000356462 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 9 | total 0.007052 s | avg 0.000783595 s
+map_lut_with_reset calls 58 | total 0.016490 s | avg 0.000284309 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 761 | total 0.000273 s | avg 0.000000358 s
+A_star_search::section2-1 | calls 15137 | total 0.011930 s | avg 0.000000788 s
+A_star_search::section6 | calls 14376 | total 0.100071 s | avg 0.000006961 s
+{(3, 2): 3, (5, 2): 2, (3, 3): 2, (4, 3): 3}
+{'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Trying to map LUT at level 10 with fanin {'n97', 'n94'} and expression (~n94 & ~n97)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 10 with fanin {'n99', 'n98'} and expression (~n98 & ~n99)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 10 with fanin {'n97', 'n99'} and expression (~n97 & ~n99)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 10 with fanin {'IG14gat', 'OG370gat', 'n92'} and expression (~OG370gat & n92) | (~IG14gat & n92)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 10 with fanin {'n97', 'n99', 'n98'} and expression (~n97 & ~n98) | (n99 & ~n98)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 10 with fanin {'n102', 'n104', 'OG370gat', 'IG105gat'} and expression (~n104 & ~n102) | (OG370gat & IG105gat & ~n102)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 10 with fanin {'n77', 'IG115gat', 'OG370gat', 'n106'} and expression (~n77 & ~n106) | (OG370gat & IG115gat & ~n106)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 10 with fanin {'OG370gat', 'n104', 'n102', 'IG105gat'} and expression (~OG370gat & ~n102 & n104) | (~IG105gat & ~n102 & n104)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 10 with fanin {'n97', 'n99', 'n98', 'n94'} and expression ~((~n94 & ~n97 & ~n98 & ~n99))
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+Trying to map LUT at level 10 with fanin {'n97', 'n99', 'n94', 'n106'} and expression (~n94 & ~n97 & ~n99 & n106)
+Trying to use area: {'H2': 0, 'H3': 3, 'H4': 4, 'H5': 5, 'V2': 6, 'V3': 9, 'V4': 0}
+Product terms: 1
+Number of terms: 1
+
+Finished mapping level: 10
+
+
+
+
+~n94
+~n97
+~n94
+~n97
+~n98
+~n99
+~n98
+~n99
+~n94
+~n97
+~n99
+~n97
+~n99
+~OG370gat
+~n104
+~n102
+~n102
+~n97
+~n98
+~n77
+~n106
+~n98
+~n106
+~OG370gat
+~n102
+~n102
+
+
+
+
+
+
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.340621 s
+
+map_lut calls 68 | total 0.016627 s | avg 0.000244517 s
+execute_Copy calls 10 | total 0.292385 s | avg 0.029238547 s
+cal_V_temp calls 18 | total 0.000978 s | avg 0.000054333 s
+compute_reduce_space calls 18 | total 0.000136 s | avg 0.000007555 s
+Blocking calls 10 | total 0.003509 s | avg 0.000350859 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 10 | total 0.007915 s | avg 0.000791489 s
+map_lut_with_reset calls 68 | total 0.019071 s | avg 0.000280449 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 873 | total 0.000319 s | avg 0.000000366 s
+A_star_search::section2-1 | calls 17277 | total 0.013618 s | avg 0.000000788 s
+A_star_search::section6 | calls 16404 | total 0.112771 s | avg 0.000006875 s
+{(4, 3): 3}
+{'H2': 0, 'H3': 0, 'H4': 4, 'H5': 0, 'V2': 0, 'V3': 9, 'V4': 0}
+Trying to map LUT at level 11 with fanin {'n105', 'n101', 'n91', 'OG430gat'} and expression ~((n91) | (~OG430gat & n101 & n105))
+Trying to use area: {'H2': 0, 'H3': 0, 'H4': 4, 'H5': 0, 'V2': 0, 'V3': 9, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 11 with fanin {'n109', 'n111', 'n110', 'n102'} and expression ~((~n109 & ~n111 & n110) | (~n102 & ~n111 & n110))
+Trying to use area: {'H2': 0, 'H3': 0, 'H4': 4, 'H5': 0, 'V2': 0, 'V3': 9, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+Trying to map LUT at level 11 with fanin {'n114', 'n115', 'n113', 'n111'} and expression ~((~n113 & ~n111 & n115) | (~n114 & ~n111 & n115))
+Trying to use area: {'H2': 0, 'H3': 0, 'H4': 4, 'H5': 0, 'V2': 0, 'V3': 9, 'V4': 0}
+Product terms: 2
+Number of terms: 2
+
+Finished mapping the last level
+
+~OG430gat
+~n109
+~n111
+~n102
+~n111
+~n113
+~n111
+~n114
+~n111
+[]
+all luts mapping successfully
+
+[ Function runtime summary ]
+Total cumulative runtime: 0.351865 s
+
+map_lut calls 71 | total 0.017314 s | avg 0.000243856 s
+execute_Copy calls 11 | total 0.301918 s | avg 0.027447051 s
+cal_V_temp calls 19 | total 0.001011 s | avg 0.000053198 s
+compute_reduce_space calls 19 | total 0.000140 s | avg 0.000007363 s
+Blocking calls 11 | total 0.003722 s | avg 0.000338403 s
+max_luts_in_one_V calls 0 | total 0.000000 s | avg 0.000000000 s
+levelup_luts calls 0 | total 0.000000 s | avg 0.000000000 s
+update_mapping_info calls 0 | total 0.000000 s | avg 0.000000000 s
+map_to_crossbar calls 0 | total 0.000000 s | avg 0.000000000 s
+reset_crossbar_except_last_col calls 10 | total 0.007915 s | avg 0.000791489 s
+map_lut_with_reset calls 71 | total 0.019845 s | avg 0.000279511 s
+
+[ Section runtime summary ]
+A_star_search::section1 init | calls 899 | total 0.000328 s | avg 0.000000365 s
+A_star_search::section2-1 | calls 17823 | total 0.013927 s | avg 0.000000781 s
+A_star_search::section6 | calls 16924 | total 0.115052 s | avg 0.000006798 s
+
+
+
+
+--------------------------------
+@@@@@@@@LUTS sorted by level
+[LUT(name=n63, fanin={'IG50gat', 'IG56gat'}, product_terms=1, size=[3, 2], level=1, expr=(~IG50gat & IG56gat), row=[0, 1], col=[0, 1, 2, 31], fanlevel=3), LUT(name=n64, fanin={'IG56gat', 'IG60gat'}, product_terms=1, size=[3, 2], level=1, expr=(~IG60gat & IG56gat), row=[2, 3], col=[0, 1, 2, 31], fanlevel=3), LUT(name=n47, fanin={'IG63gat', 'IG43gat', 'IG69gat', 'IG37gat'}, product_terms=2, size=[3, 3], level=1, expr=~((~IG37gat & IG43gat) | (~IG63gat & IG69gat)), row=[4, 5, 6], col=[0, 1, 2, 31], fanlevel=2), LUT(name=n49, fanin={'IG11gat', 'IG4gat', 'IG1gat', 'IG17gat'}, product_terms=2, size=[3, 3], level=1, expr=~((~IG1gat & IG4gat) | (~IG11gat & IG17gat)), row=[7, 8, 9], col=[0, 1, 2, 31], fanlevel=2), LUT(name=n50, fanin={'IG30gat', 'IG102gat', 'IG108gat', 'IG24gat'}, product_terms=2, size=[3, 3], level=1, expr=~((~IG24gat & IG30gat) | (~IG102gat & IG108gat)), row=[10, 11, 12], col=[0, 1, 2, 31], fanlevel=2), LUT(name=n51, fanin={'IG89gat', 'IG95gat', 'IG50gat', 'IG56gat'}, product_terms=2, size=[3, 3], level=1, expr=~((~IG50gat & IG56gat) | (~IG89gat & IG95gat)), row=[13, 14, 15], col=[0, 1, 2, 31], fanlevel=2), LUT(name=n46, fanin={'IG76gat', 'n47', 'IG82gat'}, product_terms=2, size=[3, 3], level=2, expr=(IG76gat & n47) | (~IG82gat & n47), row=[2, 3, 4], col=[0, 1, 2, 31], fanlevel=3), LUT(name=n48, fanin={'n50', 'n51', 'n49'}, product_terms=1, size=[4, 2], level=2, expr=(n49 & n50 & n51), row=[0, 1], col=[3, 4, 5, 6, 30], fanlevel=3), LUT(name=OG223gat, fanin={'n46', 'n48'}, product_terms=1, size=[3, 2], level=3, expr=~((n46 & n48)), row=[0, 1], col=[0, 1, 2, 29], fanlevel=4), LUT(name=n61, fanin={'IG11gat', 'IG17gat', 'n46', 'n48'}, product_terms=2, size=[4, 3], level=3, expr=(~IG11gat & IG17gat) | (n48 & n46 & IG17gat), row=[2, 3, 4], col=[3, 4, 5, 6, 30], fanlevel=7), LUT(name=n66, fanin={'IG102gat', 'IG108gat', 'n46', 'n48'}, product_terms=2, size=[4, 3], level=3, expr=(~IG102gat & IG108gat) | (n48 & n46 & IG108gat), row=[5, 6, 7], col=[3, 4, 5, 6, 31], fanlevel=6), LUT(name=n67, fanin={'IG89gat', 'IG95gat', 'n46', 'n48'}, product_terms=2, size=[4, 3], level=3, expr=(~IG89gat & IG95gat) | (n48 & n46 & IG95gat), row=[8, 9, 10], col=[3, 4, 5, 6, 31], fanlevel=7), LUT(name=n62, fanin={'n63', 'n64', 'n46', 'n48'}, product_terms=3, size=[5, 4], level=3, expr=(~n48 & n63 & n64) | (~n46 & n63 & n64) | (n46 & n48 & ~n63 & n64), row=[11, 12, 13, 14], col=[7, 8, 9, 10, 11, 31], fanlevel=6), LUT(name=n79, fanin={'IG99gat', 'n67'}, product_terms=1, size=[3, 2], level=4, expr=(~IG99gat & n67), row=[0, 1], col=[0, 1, 2, 27], fanlevel=6), LUT(name=n80, fanin={'IG105gat', 'n67'}, product_terms=1, size=[3, 2], level=4, expr=(~IG105gat & n67), row=[0, 1], col=[3, 4, 5, 28], fanlevel=6), LUT(name=n54, fanin={'IG76gat', 'OG223gat', 'IG82gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG82gat) | (~IG76gat & IG82gat), row=[2, 3, 4], col=[0, 1, 2, 26], fanlevel=7), LUT(name=n60, fanin={'n62', 'IG21gat', 'n61'}, product_terms=2, size=[3, 3], level=4, expr=(~n61 & ~n62) | (IG21gat & ~n62), row=[5, 6, 7], col=[0, 1, 2, 28], fanlevel=5), LUT(name=n72, fanin={'IG30gat', 'OG223gat', 'IG24gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG30gat) | (~IG24gat & IG30gat), row=[8, 9, 10], col=[0, 1, 2, 28], fanlevel=7), LUT(name=n74, fanin={'OG223gat', 'IG4gat', 'IG1gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG4gat) | (~IG1gat & IG4gat), row=[11, 12, 13], col=[0, 1, 2, 29], fanlevel=7), LUT(name=n83, fanin={'OG223gat', 'IG43gat', 'IG37gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG43gat) | (~IG37gat & IG43gat), row=[2, 3, 4], col=[3, 4, 5, 27], fanlevel=6), LUT(name=n89, fanin={'IG63gat', 'OG223gat', 'IG69gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG69gat) | (~IG63gat & IG69gat), row=[5, 6, 7], col=[3, 4, 5, 29], fanlevel=7), LUT(name=n96, fanin={'OG223gat', 'IG50gat', 'IG56gat'}, product_terms=2, size=[3, 3], level=4, expr=(~OG223gat & IG56gat) | (~IG50gat & IG56gat), row=[8, 9, 10], col=[3, 4, 5, 29], fanlevel=7), LUT(name=n65, fanin={'IG99gat', 'n66', 'IG112gat', 'n67'}, product_terms=2, size=[3, 3], level=4, expr=~((~IG112gat & n66) | (~IG99gat & n67)), row=[11, 12, 13], col=[3, 4, 5, 30], fanlevel=5), LUT(name=n55, fanin={'OG223gat', 'IG43gat', 'IG47gat', 'IG37gat'}, product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG47gat & IG43gat) | (~IG37gat & ~IG47gat & IG43gat), row=[2, 3, 4], col=[6, 7, 8, 9, 28], fanlevel=6), LUT(name=n56, fanin={'IG63gat', 'OG223gat', 'IG69gat', 'IG73gat'}, product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG73gat & IG69gat) | (~IG63gat & ~IG73gat & IG69gat), row=[5, 6, 7], col=[6, 7, 8, 9, 30], fanlevel=5), LUT(name=n58, fanin={'OG223gat', 'IG4gat', 'IG8gat', 'IG1gat'}, product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG8gat & IG4gat) | (~IG1gat & ~IG8gat & IG4gat), row=[8, 9, 10], col=[6, 7, 8, 9, 30], fanlevel=5), LUT(name=n59, fanin={'IG30gat', 'OG223gat', 'IG34gat', 'IG24gat'}, product_terms=2, size=[4, 3], level=4, expr=(~OG223gat & ~IG34gat & IG30gat) | (~IG24gat & ~IG34gat & IG30gat), row=[11, 12, 13], col=[6, 7, 8, 9, 31], fanlevel=5), LUT(name=n86, fanin={'OG223gat', 'IG66gat', 'IG50gat', 'IG56gat'}, product_terms=2, size=[5, 3], level=4, expr=(~IG66gat & ~OG223gat & IG50gat & IG56gat) | (~IG66gat & OG223gat & ~IG50gat & IG56gat), row=[2, 3, 4], col=[14, 15, 16, 17, 18, 29], fanlevel=6), LUT(name=n53, fanin={'n56', 'n54', 'n55', 'IG86gat'}, product_terms=2, size=[4, 3], level=5, expr=(~n54 & ~n56 & ~n55) | (IG86gat & ~n56 & ~n55), row=[2, 3, 4], col=[0, 1, 2, 3, 25], fanlevel=6), LUT(name=n57, fanin={'n60', 'n58', 'n65', 'n59'}, product_terms=1, size=[5, 2], level=5, expr=(~n58 & ~n59 & n60 & n65), row=[0, 1], col=[4, 5, 6, 7, 8, 26], fanlevel=6), LUT(name=OG329gat, fanin={'n53', 'n57'}, product_terms=1, size=[3, 2], level=6, expr=~((n53 & n57)), row=[0, 1], col=[0, 1, 2, 31], fanlevel=7), LUT(name=n84, fanin={'n55', 'n53', 'n57'}, product_terms=1, size=[4, 2], level=6, expr=(n53 & n57 & n55), row=[0, 1], col=[3, 4, 5, 6, 25], fanlevel=7), LUT(name=n77, fanin={'n66', 'IG112gat', 'n53', 'n57'}, product_terms=2, size=[4, 3], level=6, expr=(~IG112gat & n66) | (n57 & n53 & n66), row=[2, 3, 4], col=[3, 4, 5, 6, 31], fanlevel=10), LUT(name=n82, fanin={'n83', 'IG47gat', 'n53', 'n57'}, product_terms=2, size=[4, 3], level=6, expr=(~IG47gat & n83) | (n57 & n53 & n83), row=[5, 6, 7], col=[3, 4, 5, 6, 27], fanlevel=9), LUT(name=n78, fanin={'n57', 'n79', 'n53', 'n80'}, product_terms=3, size=[5, 4], level=6, expr=(~n57 & n79 & n80) | (~n53 & n79 & n80) | (n53 & n57 & ~n79 & n80), row=[8, 9, 10, 11], col=[7, 8, 9, 10, 11, 31], fanlevel=7), LUT(name=n85, fanin={'n62', 'n86', 'n53', 'n57'}, product_terms=3, size=[5, 4], level=6, expr=(~n57 & n62 & n86) | (~n53 & n62 & n86) | (n53 & n57 & ~n62 & n86), row=[12, 13, 14, 15], col=[7, 8, 9, 10, 11, 31], fanlevel=7), LUT(name=n70, fanin={'IG21gat', 'OG329gat', 'n61'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n61) | (~IG21gat & n61), row=[0, 1, 2], col=[0, 1, 2, 28], fanlevel=9), LUT(name=n76, fanin={'n77', 'n78', 'IG115gat'}, product_terms=2, size=[3, 3], level=7, expr=(~n77 & ~n78) | (IG115gat & ~n78), row=[3, 4, 5], col=[0, 1, 2, 29], fanlevel=8), LUT(name=n92, fanin={'OG329gat', 'IG8gat', 'n74'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n74) | (~IG8gat & n74), row=[6, 7, 8], col=[0, 1, 2, 29], fanlevel=10), LUT(name=n95, fanin={'n96', 'OG329gat', 'IG60gat'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n96) | (~IG60gat & n96), row=[9, 10, 11], col=[0, 1, 2, 28], fanlevel=9), LUT(name=n100, fanin={'OG329gat', 'IG34gat', 'n72'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n72) | (~IG34gat & n72), row=[0, 1, 2], col=[3, 4, 5, 29], fanlevel=9), LUT(name=n103, fanin={'OG329gat', 'n54', 'IG86gat'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n54) | (~IG86gat & n54), row=[3, 4, 5], col=[3, 4, 5, 30], fanlevel=9), LUT(name=n104, fanin={'IG99gat', 'OG329gat', 'n67'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n67) | (~IG99gat & n67), row=[6, 7, 8], col=[3, 4, 5, 30], fanlevel=10), LUT(name=n107, fanin={'OG329gat', 'n89', 'IG73gat'}, product_terms=2, size=[3, 3], level=7, expr=(~OG329gat & n89) | (~IG73gat & n89), row=[9, 10, 11], col=[3, 4, 5, 29], fanlevel=9), LUT(name=n71, fanin={'OG329gat', 'IG40gat', 'IG34gat', 'n72'}, product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG40gat & n72) | (~IG34gat & ~IG40gat & n72), row=[0, 1, 2], col=[6, 7, 8, 9, 30], fanlevel=8), LUT(name=n73, fanin={'IG14gat', 'OG329gat', 'IG8gat', 'n74'}, product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG14gat & n74) | (~IG8gat & ~IG14gat & n74), row=[3, 4, 5], col=[6, 7, 8, 9, 31], fanlevel=8), LUT(name=n81, fanin={'n82', 'IG53gat', 'n84', 'n85'}, product_terms=2, size=[4, 3], level=7, expr=~((n85) | (~n84 & ~IG53gat & n82)), row=[6, 7, 8], col=[6, 7, 8, 9, 31], fanlevel=8), LUT(name=n87, fanin={'OG329gat', 'n54', 'IG86gat', 'IG92gat'}, product_terms=2, size=[4, 3], level=7, expr=(~OG329gat & ~IG92gat & n54) | (~IG86gat & ~IG92gat & n54), row=[9, 10, 11], col=[6, 7, 8, 9, 30], fanlevel=8), LUT(name=n88, fanin={'OG329gat', 'n89', 'IG73gat', 'IG79gat'}, product_terms=2, size=[5, 3], level=7, expr=(~IG79gat & ~OG329gat & IG73gat & n89) | (~IG79gat & OG329gat & ~IG73gat & n89), row=[0, 1, 2], col=[10, 11, 12, 13, 14, 31], fanlevel=8), LUT(name=n69, fanin={'n70', 'n73', 'IG27gat', 'n71'}, product_terms=2, size=[4, 3], level=8, expr=(~n70 & ~n73 & ~n71) | (IG27gat & ~n73 & ~n71), row=[2, 3, 4], col=[0, 1, 2, 3, 31], fanlevel=9), LUT(name=n75, fanin={'n76', 'n87', 'n88', 'n81'}, product_terms=1, size=[5, 2], level=8, expr=(~n87 & ~n88 & n76 & n81), row=[0, 1], col=[4, 5, 6, 7, 8, 30], fanlevel=9), LUT(name=OG370gat, fanin={'n69', 'n75'}, product_terms=1, size=[3, 2], level=9, expr=~((n69 & n75)), row=[0, 1], col=[0, 1, 2, 31], fanlevel=10), LUT(name=n94, fanin={'n75', 'n95', 'IG66gat', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG66gat & n95) | (n75 & n69 & n95), row=[2, 3, 4], col=[3, 4, 5, 6, 31], fanlevel=10), LUT(name=n97, fanin={'n82', 'n75', 'IG53gat', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG53gat & n82) | (n75 & n69 & n82), row=[5, 6, 7], col=[3, 4, 5, 6, 29], fanlevel=10), LUT(name=n98, fanin={'n75', 'n70', 'IG27gat', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG27gat & n70) | (n75 & n69 & n70), row=[2, 3, 4], col=[7, 8, 9, 10, 28], fanlevel=10), LUT(name=n99, fanin={'n75', 'n100', 'IG40gat', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG40gat & n100) | (n75 & n69 & n100), row=[5, 6, 7], col=[7, 8, 9, 10, 30], fanlevel=10), LUT(name=n102, fanin={'n75', 'n103', 'n69', 'IG92gat'}, product_terms=2, size=[4, 3], level=9, expr=(~IG92gat & n103) | (n75 & n69 & n103), row=[2, 3, 4], col=[11, 12, 13, 14, 29], fanlevel=11), LUT(name=n106, fanin={'n75', 'IG79gat', 'n107', 'n69'}, product_terms=2, size=[4, 3], level=9, expr=(~IG79gat & n107) | (n75 & n69 & n107), row=[5, 6, 7], col=[11, 12, 13, 14, 31], fanlevel=10), LUT(name=n109, fanin={'n97', 'n94'}, product_terms=1, size=[3, 2], level=10, expr=(~n94 & ~n97), row=[0, 1], col=[0, 1, 2, 28], fanlevel=11), LUT(name=n110, fanin={'n99', 'n98'}, product_terms=1, size=[3, 2], level=10, expr=(~n98 & ~n99), row=[2, 3], col=[0, 1, 2, 29], fanlevel=11), LUT(name=n113, fanin={'n97', 'n99'}, product_terms=1, size=[3, 2], level=10, expr=(~n97 & ~n99), row=[4, 5], col=[0, 1, 2, 28], fanlevel=11), LUT(name=n91, fanin={'IG14gat', 'OG370gat', 'n92'}, product_terms=2, size=[3, 3], level=10, expr=(~OG370gat & n92) | (~IG14gat & n92), row=[6, 7, 8], col=[0, 1, 2, 27], fanlevel=11), LUT(name=n115, fanin={'n97', 'n99', 'n98'}, product_terms=2, size=[3, 3], level=10, expr=(~n97 & ~n98) | (n99 & ~n98), row=[9, 10, 11], col=[0, 1, 2, 27], fanlevel=11), LUT(name=n101, fanin={'n102', 'n104', 'OG370gat', 'IG105gat'}, product_terms=2, size=[4, 3], level=10, expr=(~n104 & ~n102) | (OG370gat & IG105gat & ~n102), row=[6, 7, 8], col=[3, 4, 5, 6, 28], fanlevel=11), LUT(name=n105, fanin={'n77', 'IG115gat', 'OG370gat', 'n106'}, product_terms=2, size=[4, 3], level=10, expr=(~n77 & ~n106) | (OG370gat & IG115gat & ~n106), row=[9, 10, 11], col=[3, 4, 5, 6, 31], fanlevel=11), LUT(name=n114, fanin={'OG370gat', 'n104', 'n102', 'IG105gat'}, product_terms=2, size=[4, 3], level=10, expr=(~OG370gat & ~n102 & n104) | (~IG105gat & ~n102 & n104), row=[12, 13, 14], col=[3, 4, 5, 6, 31], fanlevel=11), LUT(name=OG430gat, fanin={'n97', 'n99', 'n98', 'n94'}, product_terms=1, size=[5, 2], level=10, expr=~((~n94 & ~n97 & ~n98 & ~n99)), row=[0, 1], col=[7, 8, 9, 10, 11, 29], fanlevel=11), LUT(name=n111, fanin={'n97', 'n99', 'n94', 'n106'}, product_terms=1, size=[5, 2], level=10, expr=(~n94 & ~n97 & ~n99 & n106), row=[2, 3], col=[7, 8, 9, 10, 11, 30], fanlevel=11), LUT(name=OG421gat, fanin={'n105', 'n101', 'n91', 'OG430gat'}, product_terms=2, size=[4, 3], level=11, expr=~((n91) | (~OG430gat & n101 & n105)), row=[0, 1, 2], col=[0, 1, 2, 3], fanlevel=0), LUT(name=OG431gat, fanin={'n109', 'n111', 'n110', 'n102'}, product_terms=2, size=[4, 3], level=11, expr=~((~n109 & ~n111 & n110) | (~n102 & ~n111 & n110)), row=[3, 4, 5], col=[0, 1, 2, 3], fanlevel=0), LUT(name=OG432gat, fanin={'n114', 'n115', 'n113', 'n111'}, product_terms=2, size=[4, 3], level=11, expr=~((~n113 & ~n111 & n115) | (~n114 & ~n111 & n115)), row=[6, 7, 8], col=[0, 1, 2, 3], fanlevel=0)]
+

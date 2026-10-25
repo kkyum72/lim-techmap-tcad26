@@ -1,0 +1,8 @@
+# Python 3.8 or later (tested with Python 3.8.10). Everything else used by the mappers, the synthesis wrapper
+# and the verifier is in the Python standard library.
+#
+# Gurobi Optimizer (Python interface). The ILP placement of OURS_TCAD26 needs a Gurobi license
+# (free academic licenses: https://www.gurobi.com/academia/); see README "Installation".
+gurobipy==11.0.3
+#
+# Not a Python package: ABC (https://github.com/berkeley-abc/abc), needed only by synthesis/synthesize.py.

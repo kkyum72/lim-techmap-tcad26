@@ -1,0 +1,1500 @@
+Final output
+C1 Place LUTOG391gat (0, 0), (0, 2) 
+#LABELS LUTOG391gat (0, 0), (0, 2) cols 0,1,2 | IG85gat IG86gat 0
+C2 Place LUTn119 (2, 0), (2, 2) 
+#LABELS LUTn119 (2, 0), (2, 2) cols 0,1,2 | IG59gat IG156gat 0
+C3 Place LUTn179 (4, 0), (4, 2) 
+#LABELS LUTn179 (4, 0), (4, 2) cols 0,1,2 | IG17gat IG138gat 0
+C4 Place LUTn182 (6, 0), (6, 2) 
+#LABELS LUTn182 (6, 0), (6, 2) cols 0,1,2 | IG152gat IG138gat 0
+C5 Place LUTOG423gat (8, 0), (8, 2) 
+C6 Place LUTOG423gat (9, 0), (9, 2) 
+#LABELS LUTOG423gat (8, 0), (8, 2) cols 0,1,2 | IG87gat IG90gat 0
+#LABELS LUTOG423gat (9, 0), (9, 2) cols 0,1,2 | IG88gat IG90gat 0
+C7 Place LUTOG450gat (11, 0), (11, 2) 
+C8 Place LUTOG450gat (12, 0), (12, 2) 
+#LABELS LUTOG450gat (11, 0), (11, 2) cols 0,1,2 | IG87gat IG89gat 0
+#LABELS LUTOG450gat (12, 0), (12, 2) cols 0,1,2 | IG88gat IG89gat 0
+C9 Place LUTn131 (14, 0), (14, 2) 
+C10 Place LUTn131 (15, 0), (15, 2) 
+#LABELS LUTn131 (14, 0), (14, 2) cols 0,1,2 | IG121gat IG210gat 0
+#LABELS LUTn131 (15, 0), (15, 2) cols 0,1,2 | IG255gat IG267gat 0
+C11 Place LUTn157 (17, 0), (17, 2) 
+C12 Place LUTn157 (18, 0), (18, 2) 
+#LABELS LUTn157 (17, 0), (17, 2) cols 0,1,2 | IG111gat IG210gat 0
+#LABELS LUTn157 (18, 0), (18, 2) cols 0,1,2 | IG255gat IG259gat 0
+C13 Place LUTn165 (20, 0), (20, 2) 
+C14 Place LUTn165 (21, 0), (21, 2) 
+#LABELS LUTn165 (20, 0), (20, 2) cols 0,1,2 | IG116gat IG210gat 0
+#LABELS LUTn165 (21, 0), (21, 2) cols 0,1,2 | IG255gat IG260gat 0
+C15 Place LUTOG388gat (0, 3), (0, 6) 
+#LABELS LUTOG388gat (0, 3), (0, 6) cols 3,4,5,6 | IG29gat IG42gat IG75gat 0
+C16 Place LUTOG389gat (2, 3), (2, 6) 
+#LABELS LUTOG389gat (2, 3), (2, 6) cols 3,4,5,6 | IG29gat IG36gat IG80gat 0
+C17 Place LUTOG390gat (4, 3), (4, 6) 
+#LABELS LUTOG390gat (4, 3), (4, 6) cols 3,4,5,6 | IG29gat IG36gat IG42gat 0
+C18 Place LUTOG420gat (6, 3), (6, 6) 
+#LABELS LUTOG420gat (6, 3), (6, 6) cols 3,4,5,6 | IG59gat IG80gat IG75gat 0
+C19 Place LUTOG421gat (8, 3), (8, 6) 
+#LABELS LUTOG421gat (8, 3), (8, 6) cols 3,4,5,6 | IG59gat IG36gat IG80gat 0
+C20 Place LUTOG422gat (10, 3), (10, 6) 
+#LABELS LUTOG422gat (10, 3), (10, 6) cols 3,4,5,6 | IG59gat IG36gat IG42gat 0
+C21 Place LUTOG447gat (12, 3), (12, 6) 
+#LABELS LUTOG447gat (12, 3), (12, 6) cols 3,4,5,6 | IG1gat IG26gat IG51gat 0
+C22 Place LUTn125 (14, 3), (14, 6) 
+#LABELS LUTn125 (14, 3), (14, 6) cols 3,4,5,6 | IG29gat IG80gat IG75gat 0
+C23 Place LUTn130 (16, 3), (16, 6) 
+#LABELS LUTn130 (16, 3), (16, 6) cols 3,4,5,6 | IG72gat IG42gat IG73gat 0
+C24 Place LUTn107 (18, 3), (18, 6) 
+C25 Place LUTn107 (19, 3), (19, 6) 
+C26 Place LUTn107 (20, 3), (20, 6) 
+C27 Place LUTn107 (21, 3), (21, 6) 
+#LABELS LUTn107 (18, 3), (18, 6) cols 3,4,5,6 | ~IG101gat ~IG106gat IG130gat 0
+#LABELS LUTn107 (19, 3), (19, 6) cols 3,4,5,6 | ~IG101gat IG106gat ~IG130gat 0
+#LABELS LUTn107 (20, 3), (20, 6) cols 3,4,5,6 | IG101gat ~IG106gat ~IG130gat 0
+#LABELS LUTn107 (21, 3), (21, 6) cols 3,4,5,6 | IG101gat IG106gat IG130gat 0
+C28 Place LUTn111 (23, 3), (23, 6) 
+C29 Place LUTn111 (24, 3), (24, 6) 
+C30 Place LUTn111 (25, 3), (25, 6) 
+C31 Place LUTn111 (26, 3), (26, 6) 
+#LABELS LUTn111 (23, 3), (23, 6) cols 3,4,5,6 | ~IG171gat IG177gat ~IG130gat 0
+#LABELS LUTn111 (24, 3), (24, 6) cols 3,4,5,6 | IG171gat ~IG177gat ~IG130gat 0
+#LABELS LUTn111 (25, 3), (25, 6) cols 3,4,5,6 | ~IG171gat ~IG177gat IG130gat 0
+#LABELS LUTn111 (26, 3), (26, 6) cols 3,4,5,6 | IG171gat IG177gat IG130gat 0
+C32 Place LUTOG418gat (0, 7), (0, 11) 
+#LABELS LUTOG418gat (0, 7), (0, 11) cols 7,8,9,10,11 | IG1gat IG8gat IG13gat IG17gat 0
+C33 Place LUTn94 (2, 7), (2, 11) 
+#LABELS LUTn94 (2, 7), (2, 11) cols 7,8,9,10,11 | IG1gat IG26gat IG13gat IG17gat 0
+C34 Place LUTn102 (4, 7), (4, 11) 
+#LABELS LUTn102 (4, 7), (4, 11) cols 7,8,9,10,11 | IG1gat IG8gat IG13gat IG55gat 0
+C35 Place LUTn122 (6, 7), (6, 11) 
+#LABELS LUTn122 (6, 7), (6, 11) cols 7,8,9,10,11 | IG1gat IG8gat IG51gat IG17gat 0
+C36 Place LUTn108 (8, 7), (8, 11) 
+C37 Place LUTn108 (9, 7), (9, 11) 
+C38 Place LUTn108 (10, 7), (10, 11) 
+C39 Place LUTn108 (11, 7), (11, 11) 
+C40 Place LUTn108 (12, 7), (12, 11) 
+C41 Place LUTn108 (13, 7), (13, 11) 
+C42 Place LUTn108 (14, 7), (14, 11) 
+C43 Place LUTn108 (15, 7), (15, 11) 
+#LABELS LUTn108 (8, 7), (8, 11) cols 7,8,9,10,11 | ~IG91gat ~IG96gat ~IG121gat IG126gat 0
+#LABELS LUTn108 (9, 7), (9, 11) cols 7,8,9,10,11 | ~IG91gat ~IG96gat IG121gat ~IG126gat 0
+#LABELS LUTn108 (10, 7), (10, 11) cols 7,8,9,10,11 | ~IG91gat IG96gat ~IG121gat ~IG126gat 0
+#LABELS LUTn108 (11, 7), (11, 11) cols 7,8,9,10,11 | ~IG91gat IG96gat IG121gat IG126gat 0
+#LABELS LUTn108 (12, 7), (12, 11) cols 7,8,9,10,11 | IG91gat ~IG96gat ~IG121gat ~IG126gat 0
+#LABELS LUTn108 (13, 7), (13, 11) cols 7,8,9,10,11 | IG91gat ~IG96gat IG121gat IG126gat 0
+#LABELS LUTn108 (14, 7), (14, 11) cols 7,8,9,10,11 | IG91gat IG96gat ~IG121gat IG126gat 0
+#LABELS LUTn108 (15, 7), (15, 11) cols 7,8,9,10,11 | IG91gat IG96gat IG121gat ~IG126gat 0
+C44 Place LUTn112 (17, 7), (17, 11) 
+C45 Place LUTn112 (18, 7), (18, 11) 
+C46 Place LUTn112 (19, 7), (19, 11) 
+C47 Place LUTn112 (20, 7), (20, 11) 
+C48 Place LUTn112 (21, 7), (21, 11) 
+C49 Place LUTn112 (22, 7), (22, 11) 
+C50 Place LUTn112 (23, 7), (23, 11) 
+C51 Place LUTn112 (24, 7), (24, 11) 
+#LABELS LUTn112 (17, 7), (17, 11) cols 7,8,9,10,11 | ~IG159gat ~IG165gat ~IG195gat IG201gat 0
+#LABELS LUTn112 (18, 7), (18, 11) cols 7,8,9,10,11 | ~IG159gat ~IG165gat IG195gat ~IG201gat 0
+#LABELS LUTn112 (19, 7), (19, 11) cols 7,8,9,10,11 | ~IG159gat IG165gat ~IG195gat ~IG201gat 0
+#LABELS LUTn112 (20, 7), (20, 11) cols 7,8,9,10,11 | ~IG159gat IG165gat IG195gat IG201gat 0
+#LABELS LUTn112 (21, 7), (21, 11) cols 7,8,9,10,11 | IG159gat ~IG165gat ~IG195gat ~IG201gat 0
+#LABELS LUTn112 (22, 7), (22, 11) cols 7,8,9,10,11 | IG159gat ~IG165gat IG195gat IG201gat 0
+#LABELS LUTn112 (23, 7), (23, 11) cols 7,8,9,10,11 | IG159gat IG165gat ~IG195gat IG201gat 0
+#LABELS LUTn112 (24, 7), (24, 11) cols 7,8,9,10,11 | IG159gat IG165gat IG195gat ~IG201gat 0
+C52 HNOR col:[0, 1] -> 2
+C53 HNOR col:[3, 4, 5] -> 6
+C54 HNOR col:[7, 8, 9, 10] -> 11
+C55 VNOR  col:2, row:[0] -> 1
+C56 VNOR  col:2, row:[2] -> 3
+C57 VNOR  col:2, row:[4] -> 5
+C58 VNOR  col:2, row:[6] -> 7
+C59 VNOR  col:2, row:[8, 9] -> 10
+C60 VNOR  col:2, row:[11, 12] -> 13
+C61 VNOR  col:2, row:[14, 15] -> 16
+C62 VNOR  col:2, row:[17, 18] -> 19
+C63 VNOR  col:2, row:[20, 21] -> 22
+C64 VNOR  col:6, row:[0] -> 1
+C65 VNOR  col:6, row:[2] -> 3
+C66 VNOR  col:6, row:[4] -> 5
+C67 VNOR  col:6, row:[6] -> 7
+C68 VNOR  col:6, row:[8] -> 9
+C69 VNOR  col:6, row:[10] -> 11
+C70 VNOR  col:6, row:[12] -> 13
+C71 VNOR  col:6, row:[14] -> 15
+C72 VNOR  col:6, row:[16] -> 17
+C73 VNOR  col:6, row:[18, 19, 20, 21] -> 22
+C74 VNOR  col:6, row:[23, 24, 25, 26] -> 27
+C75 VNOR  col:11, row:[0] -> 1
+C76 VNOR  col:11, row:[2] -> 3
+C77 VNOR  col:11, row:[4] -> 5
+C78 VNOR  col:11, row:[6] -> 7
+C79 VNOR  col:11, row:[8, 9, 10, 11, 12, 13, 14, 15] -> 16
+C80 VNOR  col:11, row:[17, 18, 19, 20, 21, 22, 23, 24] -> 25
+C81 Reset Column: 0, 1, 3, 4, 5, 7, 8, 9, 10
+C82 Place LUTOG419gat (0, 0), (0, 3) 
+#LABELS LUTOG419gat (0, 0), (0, 3) cols 0,1,3 | ~OG390gat n94 0
+C83 Place LUTOG446gat (2, 0), (2, 3) 
+#LABELS LUTOG446gat (2, 0), (2, 3) cols 0,1,3 | OG390gat n94 0
+C84 Place LUTOG448gat (0, 4), (0, 8) 
+#LABELS LUTOG448gat (0, 4), (0, 8) cols 4,5,7,8 | n102 IG29gat IG68gat 0
+C85 Place LUTn174 (2, 4), (2, 8) 
+#LABELS LUTn174 (2, 4), (2, 8) cols 4,5,7,8 | ~n119 OG447gat IG55gat 0
+C86 Place LUTn118 (4, 4), (4, 8) 
+C87 Place LUTn118 (5, 4), (5, 8) 
+#LABELS LUTn118 (4, 4), (4, 8) cols 4,5,7,8 | ~n119 OG447gat IG17gat 0
+#LABELS LUTn118 (5, 4), (5, 8) cols 4,5,7,8 | ~IG1gat 0 0 0
+C88 Place LUTn121 (7, 4), (7, 8) 
+C89 Place LUTn121 (8, 4), (8, 8) 
+#LABELS LUTn121 (7, 4), (7, 8) cols 4,5,7,8 | IG42gat IG59gat IG75gat 0
+#LABELS LUTn121 (8, 4), (8, 8) cols 4,5,7,8 | ~n122 0 0 0
+C90 Place LUTOG449gat (0, 9), (0, 14) 
+#LABELS LUTOG449gat (0, 9), (0, 14) cols 9,10,12,13,14 | n102 IG68gat IG59gat IG74gat 0
+C91 Place LUTn124 (2, 9), (2, 14) 
+#LABELS LUTn124 (2, 9), (2, 14) cols 9,10,12,13,14 | IG55gat OG447gat ~IG268gat n125 0
+C92 Place LUTn129 (4, 9), (4, 14) 
+#LABELS LUTn129 (4, 9), (4, 14) cols 9,10,12,13,14 | n102 IG68gat IG59gat n130 0
+C93 Place LUTn173 (6, 9), (6, 14) 
+#LABELS LUTn173 (6, 9), (6, 14) cols 9,10,12,13,14 | IG17gat OG447gat ~IG268gat n125 0
+C94 Place LUTn123 (8, 9), (8, 14) 
+C95 Place LUTn123 (9, 9), (9, 14) 
+#LABELS LUTn123 (8, 9), (8, 14) cols 9,10,12,13,14 | ~IG17gat OG447gat IG42gat n119 0
+#LABELS LUTn123 (9, 9), (9, 14) cols 9,10,12,13,14 | IG17gat OG447gat ~IG42gat n119 0
+C96 Place LUTn106 (11, 9), (11, 14) 
+C97 Place LUTn106 (12, 9), (12, 14) 
+C98 Place LUTn106 (13, 9), (13, 14) 
+C99 Place LUTn106 (14, 9), (14, 14) 
+C100 Place LUTn106 (15, 9), (15, 14) 
+C101 Place LUTn106 (16, 9), (16, 14) 
+C102 Place LUTn106 (17, 9), (17, 14) 
+C103 Place LUTn106 (18, 9), (18, 14) 
+#LABELS LUTn106 (11, 9), (11, 14) cols 9,10,12,13,14 | ~n107 ~IG111gat ~IG116gat IG135gat 0
+#LABELS LUTn106 (12, 9), (12, 14) cols 9,10,12,13,14 | ~n107 ~IG111gat IG116gat ~IG135gat 0
+#LABELS LUTn106 (13, 9), (13, 14) cols 9,10,12,13,14 | ~n107 IG111gat ~IG116gat ~IG135gat 0
+#LABELS LUTn106 (14, 9), (14, 14) cols 9,10,12,13,14 | ~n107 IG111gat IG116gat IG135gat 0
+#LABELS LUTn106 (15, 9), (15, 14) cols 9,10,12,13,14 | n107 ~IG111gat ~IG116gat ~IG135gat 0
+#LABELS LUTn106 (16, 9), (16, 14) cols 9,10,12,13,14 | n107 ~IG111gat IG116gat IG135gat 0
+#LABELS LUTn106 (17, 9), (17, 14) cols 9,10,12,13,14 | n107 IG111gat ~IG116gat IG135gat 0
+#LABELS LUTn106 (18, 9), (18, 14) cols 9,10,12,13,14 | n107 IG111gat IG116gat ~IG135gat 0
+C104 Place LUTn110 (20, 9), (20, 14) 
+C105 Place LUTn110 (21, 9), (21, 14) 
+C106 Place LUTn110 (22, 9), (22, 14) 
+C107 Place LUTn110 (23, 9), (23, 14) 
+C108 Place LUTn110 (24, 9), (24, 14) 
+C109 Place LUTn110 (25, 9), (25, 14) 
+C110 Place LUTn110 (26, 9), (26, 14) 
+C111 Place LUTn110 (27, 9), (27, 14) 
+#LABELS LUTn110 (20, 9), (20, 14) cols 9,10,12,13,14 | ~n111 ~IG183gat ~IG189gat IG207gat 0
+#LABELS LUTn110 (21, 9), (21, 14) cols 9,10,12,13,14 | ~n111 ~IG183gat IG189gat ~IG207gat 0
+#LABELS LUTn110 (22, 9), (22, 14) cols 9,10,12,13,14 | ~n111 IG183gat ~IG189gat ~IG207gat 0
+#LABELS LUTn110 (23, 9), (23, 14) cols 9,10,12,13,14 | ~n111 IG183gat IG189gat IG207gat 0
+#LABELS LUTn110 (24, 9), (24, 14) cols 9,10,12,13,14 | n111 ~IG183gat ~IG189gat ~IG207gat 0
+#LABELS LUTn110 (25, 9), (25, 14) cols 9,10,12,13,14 | n111 ~IG183gat IG189gat IG207gat 0
+#LABELS LUTn110 (26, 9), (26, 14) cols 9,10,12,13,14 | n111 IG183gat ~IG189gat IG207gat 0
+#LABELS LUTn110 (27, 9), (27, 14) cols 9,10,12,13,14 | n111 IG183gat IG189gat ~IG207gat 0
+C112 Copy LUT~OG390gat (5, 6) to (5, 0)
+C113 Copy LUT~OG390gat (5, 0) to (1, 0)
+C114 Copy LUT~OG390gat (1, 0) to (0, 0)
+C115 Copy LUTn94 (3, 11) to (3, 1)
+C116 Copy LUTn94 (3, 1) to (0, 1)
+C117 Copy LUTn102 (5, 11) to (5, 16)
+C118 Copy LUTn102 (5, 16) to (0, 16)
+C119 Copy LUTn102 (0, 16) to (0, 15)
+C120 Copy LUTn102 (0, 15) to (0, 4)
+C121 Copy LUTn102 (5, 11) to (5, 9)
+C122 Copy LUTn102 (5, 9) to (0, 9)
+C123 Copy LUTOG390gat (5, 0) to (2, 0)
+C124 Copy LUTn94 (3, 1) to (2, 1)
+C125 Copy LUT~n119 (3, 2) to (3, 4)
+C126 Copy LUT~n119 (3, 4) to (1, 4)
+C127 Copy LUT~n119 (1, 4) to (2, 4)
+C128 Copy LUTOG447gat (13, 6) to (13, 5)
+C129 Copy LUTOG447gat (13, 5) to (2, 5)
+C130 Copy LUTOG447gat (13, 6) to (13, 15)
+C131 Copy LUTOG447gat (13, 15) to (1, 15)
+C132 Copy LUTOG447gat (1, 15) to (1, 10)
+C133 Copy LUTOG447gat (1, 10) to (2, 10)
+C134 Copy LUTn125 (15, 6) to (15, 16)
+C135 Copy LUTn125 (15, 16) to (1, 16)
+C136 Copy LUTn125 (1, 16) to (1, 13)
+C137 Copy LUTn125 (1, 13) to (2, 13)
+C138 Copy LUT~n119 (1, 4) to (4, 4)
+C139 Copy LUTOG447gat (13, 5) to (4, 5)
+C140 Copy LUTn102 (5, 9) to (4, 9)
+C141 Copy LUTn130 (17, 6) to (17, 0)
+C142 Copy LUTn130 (17, 0) to (3, 0)
+C143 Copy LUTn130 (3, 0) to (3, 13)
+C144 Copy LUTn130 (3, 13) to (4, 13)
+C145 Copy LUTOG447gat (1, 10) to (6, 10)
+C146 Copy LUTn125 (1, 13) to (6, 13)
+C147 Copy LUT~n122 (7, 11) to (7, 0)
+C148 Copy LUT~n122 (7, 0) to (8, 0)
+C149 Copy LUT~n122 (8, 0) to (8, 4)
+C150 Copy LUTOG447gat (1, 10) to (8, 10)
+C151 Copy LUTn119 (3, 2) to (3, 15)
+C152 Copy LUTn119 (3, 15) to (2, 15)
+C153 Copy LUTn119 (2, 15) to (8, 15)
+C154 Copy LUTn119 (8, 15) to (8, 13)
+C155 Copy LUTOG447gat (1, 10) to (9, 10)
+C156 Copy LUTn119 (3, 2) to (3, 5)
+C157 Copy LUTn119 (3, 5) to (1, 5)
+C158 Copy LUTn119 (1, 5) to (9, 5)
+C159 Copy LUTn119 (9, 5) to (9, 13)
+C160 Copy LUT~n107 (22, 6) to (22, 0)
+C161 Copy LUT~n107 (22, 0) to (11, 0)
+C162 Copy LUT~n107 (11, 0) to (11, 9)
+C163 Copy LUT~n107 (22, 6) to (22, 1)
+C164 Copy LUT~n107 (22, 1) to (12, 1)
+C165 Copy LUT~n107 (12, 1) to (12, 9)
+C166 Copy LUT~n107 (22, 6) to (22, 3)
+C167 Copy LUT~n107 (22, 3) to (13, 3)
+C168 Copy LUT~n107 (13, 3) to (13, 9)
+C169 Copy LUT~n107 (22, 6) to (22, 4)
+C170 Copy LUT~n107 (22, 4) to (14, 4)
+C171 Copy LUT~n107 (14, 4) to (14, 9)
+C172 Copy LUTn107 (22, 6) to (22, 7)
+C173 Copy LUTn107 (22, 7) to (1, 7)
+C174 Copy LUTn107 (1, 7) to (1, 9)
+C175 Copy LUTn107 (1, 9) to (15, 9)
+C176 Copy LUTn107 (1, 9) to (16, 9)
+C177 Copy LUTn107 (1, 9) to (17, 9)
+C178 Copy LUTn107 (1, 9) to (18, 9)
+C179 Copy LUT~n111 (27, 6) to (27, 0)
+C180 Copy LUT~n111 (27, 0) to (20, 0)
+C181 Copy LUT~n111 (20, 0) to (20, 9)
+C182 Copy LUT~n111 (27, 6) to (27, 1)
+C183 Copy LUT~n111 (27, 1) to (21, 1)
+C184 Copy LUT~n111 (21, 1) to (21, 9)
+C185 Copy LUT~n111 (27, 6) to (27, 5)
+C186 Copy LUT~n111 (27, 5) to (22, 5)
+C187 Copy LUT~n111 (22, 5) to (22, 9)
+C188 Copy LUT~n111 (27, 6) to (27, 2)
+C189 Copy LUT~n111 (27, 2) to (23, 2)
+C190 Copy LUT~n111 (23, 2) to (23, 9)
+C191 Copy LUTn111 (27, 6) to (27, 7)
+C192 Copy LUTn111 (27, 7) to (3, 7)
+C193 Copy LUTn111 (3, 7) to (3, 9)
+C194 Copy LUTn111 (3, 9) to (24, 9)
+C195 Copy LUTn111 (3, 9) to (25, 9)
+C196 Copy LUTn111 (3, 9) to (26, 9)
+C197 Copy LUTn111 (3, 9) to (27, 9)
+C198 HNOR col:[0, 1] -> 3
+C199 HNOR col:[4, 5, 7] -> 8
+C200 HNOR col:[9, 10, 12, 13] -> 14
+C201 VNOR  col:3, row:[0] -> 1
+C202 VNOR  col:3, row:[2] -> 3
+C203 VNOR  col:8, row:[0] -> 1
+C204 VNOR  col:8, row:[2] -> 3
+C205 VNOR  col:8, row:[4, 5] -> 6
+C206 VNOR  col:8, row:[7, 8] -> 9
+C207 VNOR  col:14, row:[0] -> 1
+C208 VNOR  col:14, row:[2] -> 3
+C209 VNOR  col:14, row:[4] -> 5
+C210 VNOR  col:14, row:[6] -> 7
+C211 VNOR  col:14, row:[8, 9] -> 10
+C212 VNOR  col:14, row:[11, 12, 13, 14, 15, 16, 17, 18] -> 19
+C213 VNOR  col:14, row:[20, 21, 22, 23, 24, 25, 26, 27] -> 28
+C214 Reset Column: 0, 1, 2, 3, 4, 5, 7, 9, 10, 12, 13, 15, 16
+C215 Place LUTn117 (0, 0), (0, 4) 
+#LABELS LUTn117 (0, 0), (0, 4) cols 0,1,4 | ~n118 IG153gat 0
+C216 Place LUTn137 (0, 5), (0, 9) 
+#LABELS LUTn137 (0, 5), (0, 9) cols 5,7,9 | ~n121 ~n123 0
+C217 Place LUTOG767gat (0, 10), (0, 13) 
+C218 Place LUTOG767gat (1, 10), (1, 13) 
+#LABELS LUTOG767gat (0, 10), (0, 13) cols 10,12,13 | ~n106 n108 0
+#LABELS LUTOG767gat (1, 10), (1, 13) cols 10,12,13 | n106 ~n108 0
+C219 Place LUTOG768gat (2, 0), (2, 4) 
+C220 Place LUTOG768gat (3, 0), (3, 4) 
+#LABELS LUTOG768gat (2, 0), (2, 4) cols 0,1,4 | ~n110 n112 0
+#LABELS LUTOG768gat (3, 0), (3, 4) cols 0,1,4 | n110 ~n112 0
+C221 Place LUTn128 (2, 5), (2, 9) 
+C222 Place LUTn128 (3, 5), (3, 9) 
+#LABELS LUTn128 (2, 5), (2, 9) cols 5,7,9 | ~n129 n131 0
+#LABELS LUTn128 (3, 5), (3, 9) cols 5,7,9 | ~IG201gat n131 0
+C223 Place LUTn138 (3, 10), (3, 13) 
+C224 Place LUTn138 (4, 10), (4, 13) 
+#LABELS LUTn138 (3, 10), (3, 13) cols 10,12,13 | n118 ~n124 0
+#LABELS LUTn138 (4, 10), (4, 13) cols 10,12,13 | ~IG143gat ~n124 0
+C225 Place LUTn142 (5, 0), (5, 4) 
+C226 Place LUTn142 (6, 0), (6, 4) 
+#LABELS LUTn142 (5, 0), (5, 4) cols 0,1,4 | n118 ~n124 0
+#LABELS LUTn142 (6, 0), (6, 4) cols 0,1,4 | ~IG146gat ~n124 0
+C227 Place LUTn144 (5, 5), (5, 9) 
+C228 Place LUTn144 (6, 5), (6, 9) 
+#LABELS LUTn144 (5, 5), (5, 9) cols 5,7,9 | n118 ~n124 0
+#LABELS LUTn144 (6, 5), (6, 9) cols 5,7,9 | ~IG149gat ~n124 0
+C229 Place LUTn149 (6, 10), (6, 13) 
+C230 Place LUTn149 (7, 10), (7, 13) 
+#LABELS LUTn149 (6, 10), (6, 13) cols 10,12,13 | n129 IG183gat 0
+#LABELS LUTn149 (7, 10), (7, 13) cols 10,12,13 | IG106gat IG210gat 0
+C231 Place LUTn156 (8, 0), (8, 4) 
+C232 Place LUTn156 (9, 0), (9, 4) 
+#LABELS LUTn156 (8, 0), (8, 4) cols 0,1,4 | ~n129 n157 0
+#LABELS LUTn156 (9, 0), (9, 4) cols 0,1,4 | ~IG189gat n157 0
+C233 Place LUTn164 (8, 5), (8, 9) 
+C234 Place LUTn164 (9, 5), (9, 9) 
+#LABELS LUTn164 (8, 5), (8, 9) cols 5,7,9 | ~n129 n165 0
+#LABELS LUTn164 (9, 5), (9, 9) cols 5,7,9 | ~IG195gat n165 0
+C235 Place LUTn172 (9, 10), (9, 13) 
+C236 Place LUTn172 (10, 10), (10, 13) 
+#LABELS LUTn172 (9, 10), (9, 13) cols 10,12,13 | ~IG51gat ~n173 0
+#LABELS LUTn172 (10, 10), (10, 13) cols 10,12,13 | ~IG138gat ~n173 0
+C237 Place LUTn187 (11, 0), (11, 4) 
+C238 Place LUTn187 (12, 0), (12, 4) 
+#LABELS LUTn187 (11, 0), (11, 4) cols 0,1,4 | ~IG8gat ~n173 0
+#LABELS LUTn187 (12, 0), (12, 4) cols 0,1,4 | ~IG138gat ~n173 0
+C239 Place LUTn192 (11, 5), (11, 9) 
+C240 Place LUTn192 (12, 5), (12, 9) 
+#LABELS LUTn192 (11, 5), (11, 9) cols 5,7,9 | n129 IG177gat 0
+#LABELS LUTn192 (12, 5), (12, 9) cols 5,7,9 | IG101gat IG210gat 0
+C241 Place LUTn199 (12, 10), (12, 13) 
+C242 Place LUTn199 (13, 10), (13, 13) 
+#LABELS LUTn199 (12, 10), (12, 13) cols 10,12,13 | n129 IG159gat 0
+#LABELS LUTn199 (13, 10), (13, 13) cols 10,12,13 | IG268gat IG210gat 0
+C243 Place LUTn206 (14, 0), (14, 4) 
+C244 Place LUTn206 (15, 0), (15, 4) 
+#LABELS LUTn206 (14, 0), (14, 4) cols 0,1,4 | n129 IG165gat 0
+#LABELS LUTn206 (15, 0), (15, 4) cols 0,1,4 | IG91gat IG210gat 0
+C245 Place LUTn212 (14, 5), (14, 9) 
+C246 Place LUTn212 (15, 5), (15, 9) 
+#LABELS LUTn212 (14, 5), (14, 9) cols 5,7,9 | n129 IG171gat 0
+#LABELS LUTn212 (15, 5), (15, 9) cols 5,7,9 | IG96gat IG210gat 0
+C247 Place LUTn120 (0, 15), (0, 18) 
+C248 Place LUTn120 (1, 15), (1, 18) 
+#LABELS LUTn120 (0, 15), (0, 18) cols 15,16,17,18 | ~n123 ~n121 ~n124 0
+#LABELS LUTn120 (1, 15), (1, 18) cols 15,16,17,18 | ~IG126gat 0 ~n124 0
+C249 Place LUTn178 (3, 15), (3, 18) 
+C250 Place LUTn178 (4, 15), (4, 18) 
+#LABELS LUTn178 (3, 15), (3, 18) cols 15,16,17,18 | ~n174 ~n179 ~n173 0
+#LABELS LUTn178 (4, 15), (4, 18) cols 15,16,17,18 | ~IG149gat ~n179 ~n173 0
+C251 Place LUTn181 (6, 15), (6, 18) 
+C252 Place LUTn181 (7, 15), (7, 18) 
+#LABELS LUTn181 (6, 15), (6, 18) cols 15,16,17,18 | ~n174 ~n182 ~n173 0
+#LABELS LUTn181 (7, 15), (7, 18) cols 15,16,17,18 | ~IG153gat ~n182 ~n173 0
+C253 Copy LUT~n118 (6, 8) to (6, 20)
+C254 Copy LUT~n118 (6, 20) to (0, 20)
+C255 Copy LUT~n118 (0, 20) to (0, 19)
+C256 Copy LUT~n118 (0, 19) to (0, 0)
+C257 Copy LUT~n121 (9, 8) to (9, 22)
+C258 Copy LUT~n121 (9, 22) to (0, 22)
+C259 Copy LUT~n121 (0, 22) to (0, 21)
+C260 Copy LUT~n121 (0, 21) to (0, 5)
+C261 Copy LUT~n123 (10, 14) to (10, 7)
+C262 Copy LUT~n123 (10, 7) to (1, 7)
+C263 Copy LUT~n123 (1, 7) to (0, 7)
+C264 Copy LUT~n106 (19, 14) to (19, 10)
+C265 Copy LUT~n106 (19, 10) to (2, 10)
+C266 Copy LUT~n106 (2, 10) to (0, 10)
+C267 Copy LUTn108 (16, 11) to (16, 12)
+C268 Copy LUTn108 (16, 12) to (0, 12)
+C269 Copy LUT~n123 (10, 14) to (10, 15)
+C270 Copy LUT~n123 (10, 15) to (2, 15)
+C271 Copy LUT~n123 (2, 15) to (0, 15)
+C272 Copy LUT~n121 (9, 8) to (9, 16)
+C273 Copy LUT~n121 (9, 16) to (0, 16)
+C274 Copy LUT~n124 (3, 14) to (3, 23)
+C275 Copy LUT~n124 (3, 23) to (0, 23)
+C276 Copy LUT~n124 (0, 23) to (0, 17)
+C277 Copy LUTn106 (19, 10) to (1, 10)
+C278 Copy LUT~n108 (16, 12) to (2, 12)
+C279 Copy LUT~n108 (2, 12) to (1, 12)
+C280 Copy LUT~n124 (3, 14) to (3, 19)
+C281 Copy LUT~n124 (3, 19) to (1, 19)
+C282 Copy LUT~n124 (1, 19) to (1, 17)
+C283 Copy LUT~n110 (28, 14) to (28, 0)
+C284 Copy LUT~n110 (28, 0) to (1, 0)
+C285 Copy LUT~n110 (1, 0) to (2, 0)
+C286 Copy LUTn112 (25, 11) to (25, 1)
+C287 Copy LUTn112 (25, 1) to (2, 1)
+C288 Copy LUT~n129 (5, 14) to (5, 16)
+C289 Copy LUT~n129 (5, 16) to (2, 16)
+C290 Copy LUT~n129 (2, 16) to (2, 5)
+C291 Copy LUTn131 (16, 2) to (16, 7)
+C292 Copy LUTn131 (16, 7) to (4, 7)
+C293 Copy LUTn131 (4, 7) to (2, 7)
+C294 Copy LUTn110 (28, 0) to (3, 0)
+C295 Copy LUT~n112 (25, 1) to (1, 1)
+C296 Copy LUT~n112 (1, 1) to (3, 1)
+C297 Copy LUTn131 (4, 7) to (3, 7)
+C298 Copy LUTn118 (6, 8) to (6, 21)
+C299 Copy LUTn118 (6, 21) to (3, 21)
+C300 Copy LUTn118 (3, 21) to (3, 10)
+C301 Copy LUT~n124 (3, 14) to (3, 22)
+C302 Copy LUT~n124 (3, 22) to (3, 20)
+C303 Copy LUT~n124 (3, 20) to (3, 12)
+C304 Copy LUT~n174 (3, 8) to (3, 25)
+C305 Copy LUT~n174 (3, 25) to (3, 24)
+C306 Copy LUT~n174 (3, 24) to (3, 15)
+C307 Copy LUT~n179 (5, 2) to (5, 26)
+C308 Copy LUT~n179 (5, 26) to (3, 26)
+C309 Copy LUT~n179 (3, 26) to (3, 16)
+C310 Copy LUT~n173 (7, 14) to (7, 27)
+C311 Copy LUT~n173 (7, 27) to (3, 27)
+C312 Copy LUT~n173 (3, 27) to (3, 17)
+C313 Copy LUT~n124 (3, 14) to (3, 28)
+C314 Copy LUT~n124 (3, 28) to (4, 28)
+C315 Copy LUT~n124 (4, 28) to (4, 12)
+C316 Copy LUT~n179 (5, 2) to (5, 3)
+C317 Copy LUT~n179 (5, 3) to (4, 3)
+C318 Copy LUT~n179 (4, 3) to (4, 16)
+C319 Copy LUT~n173 (7, 14) to (7, 0)
+C320 Copy LUT~n173 (7, 0) to (4, 0)
+C321 Copy LUT~n173 (4, 0) to (4, 17)
+C322 Copy LUTn118 (6, 8) to (6, 19)
+C323 Copy LUTn118 (6, 19) to (5, 19)
+C324 Copy LUTn118 (5, 19) to (5, 0)
+C325 Copy LUT~n124 (3, 14) to (3, 29)
+C326 Copy LUT~n124 (3, 29) to (5, 29)
+C327 Copy LUT~n124 (5, 29) to (5, 1)
+C328 Copy LUTn118 (6, 8) to (6, 22)
+C329 Copy LUTn118 (6, 22) to (5, 22)
+C330 Copy LUTn118 (5, 22) to (5, 5)
+C331 Copy LUT~n124 (3, 14) to (3, 30)
+C332 Copy LUT~n124 (3, 30) to (5, 30)
+C333 Copy LUT~n124 (5, 30) to (5, 7)
+C334 Copy LUT~n124 (3, 14) to (3, 31)
+C335 Copy LUT~n124 (3, 31) to (6, 31)
+C336 Copy LUT~n124 (6, 31) to (6, 1)
+C337 Copy LUT~n124 (3, 14) to (29, 14)
+C338 Copy LUT~n124 (29, 14) to (29, 7)
+C339 Copy LUT~n124 (29, 7) to (6, 7)
+C340 Copy LUTn129 (5, 14) to (5, 10)
+C341 Copy LUTn129 (5, 10) to (6, 10)
+C342 Copy LUT~n174 (3, 8) to (11, 8)
+C343 Copy LUT~n174 (11, 8) to (11, 15)
+C344 Copy LUT~n174 (11, 15) to (6, 15)
+C345 Copy LUT~n182 (7, 2) to (7, 3)
+C346 Copy LUT~n182 (7, 3) to (6, 3)
+C347 Copy LUT~n182 (6, 3) to (6, 16)
+C348 Copy LUT~n173 (7, 14) to (7, 23)
+C349 Copy LUT~n173 (7, 23) to (6, 23)
+C350 Copy LUT~n173 (6, 23) to (6, 17)
+C351 Copy LUT~n182 (7, 2) to (7, 5)
+C352 Copy LUT~n182 (7, 5) to (7, 1)
+C353 Copy LUT~n182 (7, 1) to (7, 16)
+C354 Copy LUT~n173 (7, 14) to (7, 19)
+C355 Copy LUT~n173 (7, 19) to (7, 7)
+C356 Copy LUT~n173 (7, 7) to (7, 17)
+C357 Copy LUT~n129 (5, 14) to (5, 12)
+C358 Copy LUT~n129 (5, 12) to (8, 12)
+C359 Copy LUT~n129 (8, 12) to (8, 0)
+C360 Copy LUTn157 (19, 2) to (19, 1)
+C361 Copy LUTn157 (19, 1) to (4, 1)
+C362 Copy LUTn157 (4, 1) to (8, 1)
+C363 Copy LUT~n129 (5, 14) to (5, 15)
+C364 Copy LUT~n129 (5, 15) to (8, 15)
+C365 Copy LUT~n129 (8, 15) to (8, 5)
+C366 Copy LUTn165 (22, 2) to (22, 7)
+C367 Copy LUTn165 (22, 7) to (13, 7)
+C368 Copy LUTn165 (13, 7) to (8, 7)
+C369 Copy LUTn157 (4, 1) to (9, 1)
+C370 Copy LUTn165 (13, 7) to (9, 7)
+C371 Copy LUT~n173 (7, 14) to (7, 20)
+C372 Copy LUT~n173 (7, 20) to (9, 20)
+C373 Copy LUT~n173 (9, 20) to (9, 12)
+C374 Copy LUT~n173 (7, 14) to (7, 21)
+C375 Copy LUT~n173 (7, 21) to (10, 21)
+C376 Copy LUT~n173 (10, 21) to (10, 12)
+C377 Copy LUT~n173 (7, 14) to (7, 22)
+C378 Copy LUT~n173 (7, 22) to (11, 22)
+C379 Copy LUT~n173 (11, 22) to (11, 1)
+C380 Copy LUTn129 (5, 14) to (5, 20)
+C381 Copy LUTn129 (5, 20) to (1, 20)
+C382 Copy LUTn129 (1, 20) to (1, 5)
+C383 Copy LUTn129 (1, 5) to (11, 5)
+C384 Copy LUT~n173 (7, 14) to (7, 24)
+C385 Copy LUT~n173 (7, 24) to (12, 24)
+C386 Copy LUT~n173 (12, 24) to (12, 1)
+C387 Copy LUTn129 (5, 10) to (12, 10)
+C388 Copy LUTn129 (5, 14) to (30, 14)
+C389 Copy LUTn129 (30, 14) to (30, 0)
+C390 Copy LUTn129 (30, 0) to (10, 0)
+C391 Copy LUTn129 (10, 0) to (14, 0)
+C392 Copy LUTn129 (1, 5) to (14, 5)
+C393 HNOR col:[0, 1] -> 4
+C394 HNOR col:[5, 7] -> 9
+C395 HNOR col:[10, 12] -> 13
+C396 HNOR col:[15, 16, 17] -> 18
+C397 VNOR  col:4, row:[0] -> 1
+C398 VNOR  col:9, row:[0] -> 1
+C399 VNOR  col:13, row:[0, 1] -> 2
+C400 VNOR  col:4, row:[2, 3] -> 4
+C401 VNOR  col:9, row:[2, 3] -> 4
+C402 VNOR  col:13, row:[3, 4] -> 5
+C403 VNOR  col:4, row:[5, 6] -> 7
+C404 VNOR  col:9, row:[5, 6] -> 7
+C405 VNOR  col:13, row:[6, 7] -> 8
+C406 VNOR  col:4, row:[8, 9] -> 10
+C407 VNOR  col:9, row:[8, 9] -> 10
+C408 VNOR  col:13, row:[9, 10] -> 11
+C409 VNOR  col:4, row:[11, 12] -> 13
+C410 VNOR  col:9, row:[11, 12] -> 13
+C411 VNOR  col:13, row:[12, 13] -> 14
+C412 VNOR  col:4, row:[14, 15] -> 16
+C413 VNOR  col:9, row:[14, 15] -> 16
+C414 VNOR  col:18, row:[0, 1] -> 2
+C415 VNOR  col:18, row:[3, 4] -> 5
+C416 VNOR  col:18, row:[6, 7] -> 8
+C417 Reset Column: 0, 1, 3, 5, 7, 8, 10, 12, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31
+C418 Place LUTn116 (0, 0), (0, 5) 
+#LABELS LUTn116 (0, 0), (0, 5) cols 0,1,5 | ~n117 n120 0
+C419 Place LUTn136 (2, 0), (2, 5) 
+C420 Place LUTn136 (3, 0), (3, 5) 
+#LABELS LUTn136 (2, 0), (2, 5) cols 0,1,5 | n137 n138 0
+#LABELS LUTn136 (3, 0), (3, 5) cols 0,1,5 | ~IG111gat n138 0
+C421 Place LUTn141 (5, 0), (5, 5) 
+C422 Place LUTn141 (6, 0), (6, 5) 
+#LABELS LUTn141 (5, 0), (5, 5) cols 0,1,5 | n137 n142 0
+#LABELS LUTn141 (6, 0), (6, 5) cols 0,1,5 | ~IG116gat n142 0
+C423 Place LUTn161 (8, 0), (8, 5) 
+C424 Place LUTn161 (9, 0), (9, 5) 
+#LABELS LUTn161 (8, 0), (8, 5) cols 0,1,5 | n137 n144 0
+#LABELS LUTn161 (9, 0), (9, 5) cols 0,1,5 | ~IG121gat n144 0
+C425 Place LUTn171 (11, 0), (11, 5) 
+C426 Place LUTn171 (12, 0), (12, 5) 
+#LABELS LUTn171 (11, 0), (11, 5) cols 0,1,5 | ~n174 n172 0
+#LABELS LUTn171 (12, 0), (12, 5) cols 0,1,5 | ~IG146gat n172 0
+C427 Place LUTn177 (14, 0), (14, 5) 
+C428 Place LUTn177 (15, 0), (15, 5) 
+#LABELS LUTn177 (14, 0), (14, 5) cols 0,1,5 | n137 n178 0
+#LABELS LUTn177 (15, 0), (15, 5) cols 0,1,5 | ~IG101gat n178 0
+C429 Place LUTn184 (17, 0), (17, 5) 
+C430 Place LUTn184 (18, 0), (18, 5) 
+#LABELS LUTn184 (17, 0), (17, 5) cols 0,1,5 | n137 n181 0
+#LABELS LUTn184 (18, 0), (18, 5) cols 0,1,5 | ~IG106gat n181 0
+C431 Place LUTn186 (20, 0), (20, 5) 
+C432 Place LUTn186 (21, 0), (21, 5) 
+#LABELS LUTn186 (20, 0), (20, 5) cols 0,1,5 | ~n174 n187 0
+#LABELS LUTn186 (21, 0), (21, 5) cols 0,1,5 | ~IG143gat n187 0
+C433 Place LUTn143 (0, 7), (0, 15) 
+C434 Place LUTn143 (1, 7), (1, 15) 
+#LABELS LUTn143 (0, 7), (0, 15) cols 7,10,12,15 | n137 ~IG195gat n144 0
+#LABELS LUTn143 (1, 7), (1, 15) cols 7,10,12,15 | ~IG121gat ~IG195gat n144 0
+C435 Place LUTn146 (3, 7), (3, 15) 
+C436 Place LUTn146 (4, 7), (4, 15) 
+#LABELS LUTn146 (3, 7), (3, 15) cols 7,10,12,15 | ~n137 IG195gat IG121gat 0
+#LABELS LUTn146 (4, 7), (4, 15) cols 7,10,12,15 | 0 IG195gat ~n144 0
+C437 Place LUTn180 (6, 7), (6, 15) 
+C438 Place LUTn180 (7, 7), (7, 15) 
+#LABELS LUTn180 (6, 7), (6, 15) cols 7,10,12,15 | ~n137 IG106gat IG177gat 0
+#LABELS LUTn180 (7, 7), (7, 15) cols 7,10,12,15 | ~n181 0 IG177gat 0
+C439 Place LUTn140 (9, 7), (9, 15) 
+C440 Place LUTn140 (10, 7), (10, 15) 
+C441 Place LUTn140 (11, 7), (11, 15) 
+#LABELS LUTn140 (9, 7), (9, 15) cols 7,10,12,15 | ~IG261gat ~n117 n120 0
+#LABELS LUTn140 (10, 7), (10, 15) cols 7,10,12,15 | ~IG201gat ~n117 n120 0
+#LABELS LUTn140 (11, 7), (11, 15) cols 7,10,12,15 | ~IG201gat ~IG261gat 0 0
+C442 Copy LUT~n117 (1, 4) to (1, 1)
+C443 Copy LUT~n117 (1, 1) to (1, 0)
+C444 Copy LUT~n117 (1, 0) to (0, 0)
+C445 Copy LUTn120 (2, 18) to (2, 17)
+C446 Copy LUTn120 (2, 17) to (0, 17)
+C447 Copy LUTn120 (0, 17) to (0, 16)
+C448 Copy LUTn120 (0, 16) to (0, 1)
+C449 Copy LUTn137 (1, 9) to (1, 20)
+C450 Copy LUTn137 (1, 20) to (0, 20)
+C451 Copy LUTn137 (0, 20) to (0, 19)
+C452 Copy LUTn137 (0, 19) to (0, 7)
+C453 Copy LUTn144 (7, 9) to (7, 22)
+C454 Copy LUTn144 (7, 22) to (0, 22)
+C455 Copy LUTn144 (0, 22) to (0, 21)
+C456 Copy LUTn144 (0, 21) to (0, 12)
+C457 Copy LUTn144 (7, 9) to (7, 17)
+C458 Copy LUTn144 (7, 17) to (1, 17)
+C459 Copy LUTn144 (1, 17) to (1, 16)
+C460 Copy LUTn144 (1, 16) to (1, 12)
+C461 Copy LUTn137 (1, 9) to (1, 19)
+C462 Copy LUTn137 (1, 19) to (2, 19)
+C463 Copy LUTn137 (2, 19) to (2, 7)
+C464 Copy LUTn137 (2, 7) to (2, 0)
+C465 Copy LUTn138 (5, 13) to (5, 12)
+C466 Copy LUTn138 (5, 12) to (2, 12)
+C467 Copy LUTn138 (2, 12) to (2, 10)
+C468 Copy LUTn138 (2, 10) to (2, 1)
+C469 Copy LUTn138 (5, 13) to (5, 17)
+C470 Copy LUTn138 (5, 17) to (3, 17)
+C471 Copy LUTn138 (3, 17) to (3, 16)
+C472 Copy LUTn138 (3, 16) to (3, 1)
+C473 Copy LUT~n137 (2, 7) to (5, 7)
+C474 Copy LUT~n137 (5, 7) to (3, 7)
+C475 Copy LUT~n144 (7, 9) to (7, 0)
+C476 Copy LUT~n144 (7, 0) to (4, 0)
+C477 Copy LUT~n144 (4, 0) to (4, 12)
+C478 Copy LUTn137 (1, 9) to (1, 21)
+C479 Copy LUTn137 (1, 21) to (2, 21)
+C480 Copy LUTn137 (2, 21) to (5, 21)
+C481 Copy LUTn137 (5, 21) to (5, 0)
+C482 Copy LUTn142 (7, 4) to (7, 1)
+C483 Copy LUTn142 (7, 1) to (5, 1)
+C484 Copy LUTn142 (7, 1) to (6, 1)
+C485 Copy LUT~n137 (5, 7) to (6, 7)
+C486 Copy LUT~n181 (8, 18) to (8, 3)
+C487 Copy LUT~n181 (8, 3) to (8, 7)
+C488 Copy LUT~n181 (8, 7) to (7, 7)
+C489 Copy LUTn137 (1, 9) to (1, 22)
+C490 Copy LUTn137 (1, 22) to (2, 22)
+C491 Copy LUTn137 (2, 22) to (8, 22)
+C492 Copy LUTn137 (8, 22) to (8, 0)
+C493 Copy LUTn144 (7, 9) to (7, 16)
+C494 Copy LUTn144 (7, 16) to (2, 16)
+C495 Copy LUTn144 (2, 16) to (8, 16)
+C496 Copy LUTn144 (8, 16) to (8, 1)
+C497 Copy LUTn144 (7, 9) to (7, 3)
+C498 Copy LUTn144 (7, 3) to (4, 3)
+C499 Copy LUTn144 (4, 3) to (4, 1)
+C500 Copy LUTn144 (4, 1) to (9, 1)
+C501 Copy LUT~n117 (1, 4) to (1, 23)
+C502 Copy LUT~n117 (1, 23) to (9, 23)
+C503 Copy LUT~n117 (9, 23) to (9, 10)
+C504 Copy LUTn120 (2, 18) to (9, 18)
+C505 Copy LUTn120 (9, 18) to (9, 12)
+C506 Copy LUT~n117 (1, 4) to (1, 24)
+C507 Copy LUT~n117 (1, 24) to (10, 24)
+C508 Copy LUT~n117 (10, 24) to (10, 10)
+C509 Copy LUTn120 (2, 18) to (10, 18)
+C510 Copy LUTn120 (10, 18) to (10, 12)
+C511 Copy LUT~n174 (3, 8) to (3, 19)
+C512 Copy LUT~n174 (3, 19) to (11, 19)
+C513 Copy LUT~n174 (11, 19) to (11, 0)
+C514 Copy LUTn172 (11, 13) to (11, 3)
+C515 Copy LUTn172 (11, 3) to (11, 1)
+C516 Copy LUTn172 (11, 13) to (11, 8)
+C517 Copy LUTn172 (11, 8) to (10, 8)
+C518 Copy LUTn172 (10, 8) to (10, 1)
+C519 Copy LUTn172 (10, 1) to (12, 1)
+C520 Copy LUTn137 (1, 9) to (19, 9)
+C521 Copy LUTn137 (19, 9) to (19, 0)
+C522 Copy LUTn137 (19, 0) to (10, 0)
+C523 Copy LUTn137 (10, 0) to (14, 0)
+C524 Copy LUTn178 (5, 18) to (5, 3)
+C525 Copy LUTn178 (5, 3) to (6, 3)
+C526 Copy LUTn178 (6, 3) to (14, 3)
+C527 Copy LUTn178 (14, 3) to (14, 1)
+C528 Copy LUTn178 (5, 18) to (5, 10)
+C529 Copy LUTn178 (5, 10) to (8, 10)
+C530 Copy LUTn178 (8, 10) to (15, 10)
+C531 Copy LUTn178 (15, 10) to (15, 1)
+C532 Copy LUTn137 (10, 0) to (17, 0)
+C533 Copy LUTn181 (8, 18) to (8, 12)
+C534 Copy LUTn181 (8, 12) to (12, 12)
+C535 Copy LUTn181 (12, 12) to (17, 12)
+C536 Copy LUTn181 (17, 12) to (17, 1)
+C537 Copy LUTn181 (8, 18) to (8, 17)
+C538 Copy LUTn181 (8, 17) to (4, 17)
+C539 Copy LUTn181 (4, 17) to (18, 17)
+C540 Copy LUTn181 (18, 17) to (18, 1)
+C541 Copy LUT~n174 (3, 8) to (3, 20)
+C542 Copy LUT~n174 (3, 20) to (20, 20)
+C543 Copy LUT~n174 (20, 20) to (20, 0)
+C544 Copy LUTn187 (13, 4) to (13, 1)
+C545 Copy LUTn187 (13, 1) to (20, 1)
+C546 Copy LUTn187 (13, 1) to (21, 1)
+C547 HNOR col:[0, 1] -> 5
+C548 HNOR col:[7, 10, 12] -> 15
+C549 VNOR  col:5, row:[0] -> 1
+C550 VNOR  col:5, row:[2, 3] -> 4
+C551 VNOR  col:5, row:[5, 6] -> 7
+C552 VNOR  col:5, row:[8, 9] -> 10
+C553 VNOR  col:5, row:[11, 12] -> 13
+C554 VNOR  col:5, row:[14, 15] -> 16
+C555 VNOR  col:5, row:[17, 18] -> 19
+C556 VNOR  col:5, row:[20, 21] -> 22
+C557 VNOR  col:15, row:[0, 1] -> 2
+C558 VNOR  col:15, row:[3, 4] -> 5
+C559 VNOR  col:15, row:[6, 7] -> 8
+C560 VNOR  col:15, row:[9, 10, 11] -> 12
+C561 Reset Column: 0, 1, 3, 7, 8, 9, 10, 12, 16, 17, 18, 19, 20, 21, 22, 23, 24
+C562 Place LUTn115 (0, 0), (0, 7) 
+#LABELS LUTn115 (0, 0), (0, 7) cols 0,1,7 | ~n116 IG201gat 0
+C563 Place LUTn127 (0, 10), (0, 16) 
+C564 Place LUTn127 (1, 10), (1, 16) 
+#LABELS LUTn127 (0, 10), (0, 16) cols 10,12,16 | n116 n128 0
+#LABELS LUTn127 (1, 10), (1, 16) cols 10,12,16 | ~IG246gat n128 0
+C565 Place LUTn135 (0, 17), (0, 20) 
+C566 Place LUTn135 (1, 17), (1, 20) 
+#LABELS LUTn135 (0, 17), (0, 20) cols 17,19,20 | ~n136 ~IG183gat 0
+#LABELS LUTn135 (1, 17), (1, 20) cols 17,19,20 | n136 IG183gat 0
+C567 Place LUTn148 (2, 0), (2, 7) 
+C568 Place LUTn148 (3, 0), (3, 7) 
+#LABELS LUTn148 (2, 0), (2, 7) cols 0,1,7 | n136 n149 0
+#LABELS LUTn148 (3, 0), (3, 7) cols 0,1,7 | ~IG246gat n149 0
+C569 Place LUTn152 (3, 10), (3, 16) 
+C570 Place LUTn152 (4, 10), (4, 16) 
+#LABELS LUTn152 (3, 10), (3, 16) cols 10,12,16 | ~n141 ~IG189gat 0
+#LABELS LUTn152 (4, 10), (4, 16) cols 10,12,16 | n141 IG189gat 0
+C571 Place LUTn153 (3, 17), (3, 20) 
+C572 Place LUTn153 (4, 17), (4, 20) 
+#LABELS LUTn153 (3, 17), (3, 20) cols 17,19,20 | n140 ~n146 0
+#LABELS LUTn153 (4, 17), (4, 20) cols 17,19,20 | n143 ~n146 0
+C573 Place LUTn155 (5, 0), (5, 7) 
+C574 Place LUTn155 (6, 0), (6, 7) 
+#LABELS LUTn155 (5, 0), (5, 7) cols 0,1,7 | n141 n156 0
+#LABELS LUTn155 (6, 0), (6, 7) cols 0,1,7 | ~IG246gat n156 0
+C575 Place LUTn160 (6, 10), (6, 16) 
+C576 Place LUTn160 (7, 10), (7, 16) 
+#LABELS LUTn160 (6, 10), (6, 16) cols 10,12,16 | ~n161 ~IG195gat 0
+#LABELS LUTn160 (7, 10), (7, 16) cols 10,12,16 | n161 IG195gat 0
+C577 Place LUTn163 (6, 17), (6, 20) 
+C578 Place LUTn163 (7, 17), (7, 20) 
+#LABELS LUTn163 (6, 17), (6, 20) cols 17,19,20 | n161 n164 0
+#LABELS LUTn163 (7, 17), (7, 20) cols 17,19,20 | ~IG246gat n164 0
+C579 Place LUTn170 (8, 0), (8, 7) 
+C580 Place LUTn170 (9, 0), (9, 7) 
+#LABELS LUTn170 (8, 0), (8, 7) cols 0,1,7 | n137 n171 0
+#LABELS LUTn170 (9, 0), (9, 7) cols 0,1,7 | ~IG96gat n171 0
+C581 Place LUTn183 (9, 10), (9, 16) 
+C582 Place LUTn183 (10, 10), (10, 16) 
+#LABELS LUTn183 (9, 10), (9, 16) cols 10,12,16 | ~IG171gat n177 0
+#LABELS LUTn183 (10, 10), (10, 16) cols 10,12,16 | ~IG177gat n184 0
+C583 Place LUTn185 (9, 17), (9, 20) 
+C584 Place LUTn185 (10, 17), (10, 20) 
+#LABELS LUTn185 (9, 17), (9, 20) cols 17,19,20 | n137 n186 0
+#LABELS LUTn185 (10, 17), (10, 20) cols 17,19,20 | ~IG91gat n186 0
+C585 Place LUTn191 (11, 0), (11, 7) 
+C586 Place LUTn191 (12, 0), (12, 7) 
+#LABELS LUTn191 (11, 0), (11, 7) cols 0,1,7 | n184 n192 0
+#LABELS LUTn191 (12, 0), (12, 7) cols 0,1,7 | ~IG246gat n192 0
+C587 Place LUTn193 (12, 10), (12, 16) 
+C588 Place LUTn193 (13, 10), (13, 16) 
+#LABELS LUTn193 (12, 10), (12, 16) cols 10,12,16 | ~IG177gat ~n184 0
+#LABELS LUTn193 (13, 10), (13, 16) cols 10,12,16 | IG177gat n184 0
+C589 Place LUTn211 (12, 17), (12, 20) 
+C590 Place LUTn211 (13, 17), (13, 20) 
+#LABELS LUTn211 (12, 17), (12, 20) cols 17,19,20 | n177 n212 0
+#LABELS LUTn211 (13, 17), (13, 20) cols 17,19,20 | ~IG246gat n212 0
+C591 Place LUTn213 (14, 0), (14, 7) 
+C592 Place LUTn213 (15, 0), (15, 7) 
+#LABELS LUTn213 (14, 0), (14, 7) cols 0,1,7 | ~n177 ~IG171gat 0
+#LABELS LUTn213 (15, 0), (15, 7) cols 0,1,7 | n177 IG171gat 0
+C593 Place LUTn145 (15, 10), (15, 16) 
+C594 Place LUTn145 (16, 10), (16, 16) 
+C595 Place LUTn145 (17, 10), (17, 16) 
+#LABELS LUTn145 (15, 10), (15, 16) cols 10,12,16 | ~n146 ~IG189gat 0
+#LABELS LUTn145 (16, 10), (16, 16) cols 10,12,16 | n141 ~IG189gat 0
+#LABELS LUTn145 (17, 10), (17, 16) cols 10,12,16 | n141 ~n146 0
+C596 Place LUTn176 (15, 17), (15, 20) 
+C597 Place LUTn176 (16, 17), (16, 20) 
+C598 Place LUTn176 (17, 17), (17, 20) 
+#LABELS LUTn176 (15, 17), (15, 20) cols 17,19,20 | ~IG171gat ~n180 0
+#LABELS LUTn176 (16, 17), (16, 20) cols 17,19,20 | n177 ~IG171gat 0
+#LABELS LUTn176 (17, 17), (17, 20) cols 17,19,20 | n177 ~n180 0
+C599 Place LUTn126 (0, 21), (0, 24) 
+C600 Place LUTn126 (1, 21), (1, 24) 
+#LABELS LUTn126 (0, 21), (0, 24) cols 21,22,23,24 | ~n116 ~IG201gat IG228gat 0
+#LABELS LUTn126 (1, 21), (1, 24) cols 21,22,23,24 | n116 IG201gat IG228gat 0
+C601 Place LUTn139 (3, 21), (3, 24) 
+C602 Place LUTn139 (4, 21), (4, 24) 
+#LABELS LUTn139 (3, 21), (3, 24) cols 21,22,23,24 | ~n141 ~n140 ~n143 0
+#LABELS LUTn139 (4, 21), (4, 24) cols 21,22,23,24 | IG189gat ~n140 ~n143 0
+C603 Place LUTn132 (0, 25), (0, 29) 
+C604 Place LUTn132 (1, 25), (1, 29) 
+C605 Place LUTn132 (2, 25), (2, 29) 
+C606 Place LUTn132 (3, 25), (3, 29) 
+#LABELS LUTn132 (0, 25), (0, 29) cols 25,26,27,28,29 | ~n116 ~IG201gat ~IG261gat IG219gat 0
+#LABELS LUTn132 (1, 25), (1, 29) cols 25,26,27,28,29 | ~n116 IG201gat IG261gat IG219gat 0
+#LABELS LUTn132 (2, 25), (2, 29) cols 25,26,27,28,29 | n116 ~IG201gat IG261gat IG219gat 0
+#LABELS LUTn132 (3, 25), (3, 29) cols 25,26,27,28,29 | n116 IG201gat ~IG261gat IG219gat 0
+C607 Copy LUT~n116 (1, 5) to (1, 1)
+C608 Copy LUT~n116 (1, 1) to (1, 0)
+C609 Copy LUT~n116 (1, 0) to (0, 0)
+C610 Copy LUTn116 (1, 5) to (1, 31)
+C611 Copy LUTn116 (1, 31) to (0, 31)
+C612 Copy LUTn116 (0, 31) to (0, 30)
+C613 Copy LUTn116 (0, 30) to (0, 10)
+C614 Copy LUTn128 (4, 9) to (4, 30)
+C615 Copy LUTn128 (4, 30) to (2, 30)
+C616 Copy LUTn128 (2, 30) to (2, 12)
+C617 Copy LUTn128 (2, 12) to (0, 12)
+C618 Copy LUT~n136 (4, 5) to (23, 5)
+C619 Copy LUT~n136 (23, 5) to (23, 17)
+C620 Copy LUT~n136 (23, 17) to (0, 17)
+C621 Copy LUT~n116 (1, 5) to (24, 5)
+C622 Copy LUT~n116 (24, 5) to (24, 21)
+C623 Copy LUT~n116 (24, 21) to (0, 21)
+C624 Copy LUT~n116 (1, 5) to (25, 5)
+C625 Copy LUT~n116 (25, 5) to (25, 25)
+C626 Copy LUT~n116 (25, 25) to (0, 25)
+C627 Copy LUTn128 (2, 12) to (1, 12)
+C628 Copy LUTn136 (23, 17) to (2, 17)
+C629 Copy LUTn136 (2, 17) to (1, 17)
+C630 Copy LUTn116 (1, 5) to (1, 30)
+C631 Copy LUTn116 (1, 30) to (1, 21)
+C632 Copy LUT~n116 (25, 25) to (1, 25)
+C633 Copy LUTn136 (4, 5) to (4, 0)
+C634 Copy LUTn136 (4, 0) to (2, 0)
+C635 Copy LUTn149 (8, 13) to (8, 10)
+C636 Copy LUTn149 (8, 10) to (2, 10)
+C637 Copy LUTn149 (2, 10) to (2, 1)
+C638 Copy LUTn116 (25, 25) to (4, 25)
+C639 Copy LUTn116 (4, 25) to (2, 25)
+C640 Copy LUTn149 (8, 13) to (8, 30)
+C641 Copy LUTn149 (8, 30) to (3, 30)
+C642 Copy LUTn149 (3, 30) to (3, 1)
+C643 Copy LUT~n141 (7, 5) to (7, 31)
+C644 Copy LUT~n141 (7, 31) to (3, 31)
+C645 Copy LUT~n141 (3, 31) to (3, 10)
+C646 Copy LUTn140 (12, 15) to (12, 3)
+C647 Copy LUTn140 (12, 3) to (5, 3)
+C648 Copy LUTn140 (5, 3) to (5, 17)
+C649 Copy LUTn140 (5, 17) to (3, 17)
+C650 Copy LUT~n146 (5, 15) to (5, 19)
+C651 Copy LUT~n146 (5, 19) to (2, 19)
+C652 Copy LUT~n146 (2, 19) to (3, 19)
+C653 Copy LUT~n141 (7, 5) to (7, 21)
+C654 Copy LUT~n141 (7, 21) to (2, 21)
+C655 Copy LUT~n141 (2, 21) to (3, 21)
+C656 Copy LUT~n140 (12, 15) to (12, 22)
+C657 Copy LUT~n140 (12, 22) to (2, 22)
+C658 Copy LUT~n140 (2, 22) to (3, 22)
+C659 Copy LUT~n143 (2, 15) to (2, 31)
+C660 Copy LUT~n143 (2, 31) to (2, 23)
+C661 Copy LUT~n143 (2, 23) to (3, 23)
+C662 Copy LUTn116 (4, 25) to (3, 25)
+C663 Copy LUTn141 (7, 5) to (7, 3)
+C664 Copy LUTn141 (7, 3) to (4, 3)
+C665 Copy LUTn141 (4, 3) to (4, 1)
+C666 Copy LUTn141 (4, 1) to (4, 10)
+C667 Copy LUTn143 (2, 15) to (14, 15)
+C668 Copy LUTn143 (14, 15) to (14, 3)
+C669 Copy LUTn143 (14, 3) to (14, 17)
+C670 Copy LUTn143 (14, 17) to (4, 17)
+C671 Copy LUT~n146 (2, 19) to (4, 19)
+C672 Copy LUT~n140 (2, 22) to (4, 22)
+C673 Copy LUT~n143 (2, 23) to (4, 23)
+C674 Copy LUTn141 (7, 5) to (7, 0)
+C675 Copy LUTn141 (7, 0) to (5, 0)
+C676 Copy LUTn156 (10, 4) to (10, 1)
+C677 Copy LUTn156 (10, 1) to (5, 1)
+C678 Copy LUTn156 (10, 1) to (6, 1)
+C679 Copy LUT~n161 (10, 5) to (10, 3)
+C680 Copy LUT~n161 (10, 3) to (6, 3)
+C681 Copy LUT~n161 (6, 3) to (6, 10)
+C682 Copy LUTn161 (10, 5) to (10, 24)
+C683 Copy LUTn161 (10, 24) to (6, 24)
+C684 Copy LUTn161 (6, 24) to (6, 21)
+C685 Copy LUTn161 (6, 21) to (6, 17)
+C686 Copy LUTn164 (10, 9) to (10, 22)
+C687 Copy LUTn164 (10, 22) to (5, 22)
+C688 Copy LUTn164 (5, 22) to (6, 22)
+C689 Copy LUTn164 (6, 22) to (6, 19)
+C690 Copy LUTn161 (10, 5) to (10, 21)
+C691 Copy LUTn161 (10, 21) to (5, 21)
+C692 Copy LUTn161 (5, 21) to (5, 10)
+C693 Copy LUTn161 (5, 10) to (7, 10)
+C694 Copy LUTn164 (10, 9) to (10, 23)
+C695 Copy LUTn164 (10, 23) to (5, 23)
+C696 Copy LUTn164 (5, 23) to (7, 23)
+C697 Copy LUTn164 (7, 23) to (7, 19)
+C698 Copy LUTn137 (1, 9) to (17, 9)
+C699 Copy LUTn137 (17, 9) to (17, 0)
+C700 Copy LUTn137 (17, 0) to (10, 0)
+C701 Copy LUTn137 (10, 0) to (8, 0)
+C702 Copy LUTn171 (13, 5) to (13, 1)
+C703 Copy LUTn171 (13, 1) to (8, 1)
+C704 Copy LUTn171 (13, 1) to (9, 1)
+C705 Copy LUTn177 (16, 5) to (16, 25)
+C706 Copy LUTn177 (16, 25) to (5, 25)
+C707 Copy LUTn177 (5, 25) to (5, 12)
+C708 Copy LUTn177 (5, 12) to (9, 12)
+C709 Copy LUTn137 (1, 9) to (18, 9)
+C710 Copy LUTn137 (18, 9) to (18, 0)
+C711 Copy LUTn137 (18, 0) to (18, 17)
+C712 Copy LUTn137 (18, 17) to (9, 17)
+C713 Copy LUTn186 (22, 5) to (22, 19)
+C714 Copy LUTn186 (22, 19) to (9, 19)
+C715 Copy LUTn184 (19, 5) to (19, 12)
+C716 Copy LUTn184 (19, 12) to (10, 12)
+C717 Copy LUTn186 (22, 19) to (10, 19)
+C718 Copy LUTn184 (19, 5) to (19, 0)
+C719 Copy LUTn184 (19, 0) to (11, 0)
+C720 Copy LUTn192 (13, 9) to (13, 3)
+C721 Copy LUTn192 (13, 3) to (11, 3)
+C722 Copy LUTn192 (11, 3) to (11, 1)
+C723 Copy LUTn192 (13, 9) to (13, 8)
+C724 Copy LUTn192 (13, 8) to (12, 8)
+C725 Copy LUTn192 (12, 8) to (12, 1)
+C726 Copy LUT~n184 (19, 12) to (8, 12)
+C727 Copy LUT~n184 (8, 12) to (12, 12)
+C728 Copy LUTn177 (16, 5) to (16, 21)
+C729 Copy LUTn177 (16, 21) to (8, 21)
+C730 Copy LUTn177 (8, 21) to (8, 17)
+C731 Copy LUTn177 (8, 17) to (12, 17)
+C732 Copy LUTn212 (16, 9) to (16, 18)
+C733 Copy LUTn212 (16, 18) to (12, 18)
+C734 Copy LUTn212 (12, 18) to (12, 19)
+C735 Copy LUTn184 (19, 12) to (13, 12)
+C736 Copy LUTn212 (16, 9) to (16, 0)
+C737 Copy LUTn212 (16, 0) to (13, 0)
+C738 Copy LUTn212 (13, 0) to (13, 19)
+C739 Copy LUT~n177 (16, 5) to (16, 8)
+C740 Copy LUT~n177 (16, 8) to (14, 8)
+C741 Copy LUT~n177 (14, 8) to (14, 0)
+C742 Copy LUTn177 (16, 5) to (16, 13)
+C743 Copy LUTn177 (16, 13) to (15, 13)
+C744 Copy LUTn177 (15, 13) to (15, 3)
+C745 Copy LUTn177 (15, 3) to (15, 0)
+C746 Copy LUT~n146 (5, 15) to (15, 15)
+C747 Copy LUT~n146 (15, 15) to (15, 8)
+C748 Copy LUT~n146 (15, 8) to (15, 10)
+C749 Copy LUT~n180 (8, 15) to (8, 3)
+C750 Copy LUT~n180 (8, 3) to (8, 19)
+C751 Copy LUT~n180 (8, 19) to (15, 19)
+C752 Copy LUTn141 (7, 5) to (7, 25)
+C753 Copy LUTn141 (7, 25) to (11, 25)
+C754 Copy LUTn141 (11, 25) to (11, 10)
+C755 Copy LUTn141 (11, 10) to (16, 10)
+C756 Copy LUTn177 (8, 17) to (16, 17)
+C757 Copy LUTn141 (11, 10) to (17, 10)
+C758 Copy LUT~n146 (5, 15) to (17, 15)
+C759 Copy LUT~n146 (17, 15) to (17, 1)
+C760 Copy LUT~n146 (17, 1) to (17, 12)
+C761 Copy LUTn177 (8, 17) to (17, 17)
+C762 Copy LUT~n180 (8, 19) to (17, 19)
+C763 HNOR col:[0, 1] -> 7
+C764 HNOR col:[10, 12] -> 16
+C765 HNOR col:[17, 19] -> 20
+C766 HNOR col:[21, 22, 23] -> 24
+C767 HNOR col:[25, 26, 27, 28] -> 29
+C768 VNOR  col:7, row:[0] -> 1
+C769 VNOR  col:16, row:[0, 1] -> 2
+C770 VNOR  col:20, row:[0, 1] -> 2
+C771 VNOR  col:7, row:[2, 3] -> 4
+C772 VNOR  col:16, row:[3, 4] -> 5
+C773 VNOR  col:20, row:[3, 4] -> 5
+C774 VNOR  col:7, row:[5, 6] -> 7
+C775 VNOR  col:16, row:[6, 7] -> 8
+C776 VNOR  col:20, row:[6, 7] -> 8
+C777 VNOR  col:7, row:[8, 9] -> 10
+C778 VNOR  col:16, row:[9, 10] -> 11
+C779 VNOR  col:20, row:[9, 10] -> 11
+C780 VNOR  col:7, row:[11, 12] -> 13
+C781 VNOR  col:16, row:[12, 13] -> 14
+C782 VNOR  col:20, row:[12, 13] -> 14
+C783 VNOR  col:7, row:[14, 15] -> 16
+C784 VNOR  col:16, row:[15, 16, 17] -> 18
+C785 VNOR  col:20, row:[15, 16, 17] -> 18
+C786 VNOR  col:24, row:[0, 1] -> 2
+C787 VNOR  col:24, row:[3, 4] -> 5
+C788 VNOR  col:29, row:[0, 1, 2, 3] -> 4
+C789 Reset Column: 0, 1, 3, 5, 8, 9, 10, 12, 13, 15, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31
+C790 Place LUTn169 (0, 0), (0, 10) 
+#LABELS LUTn169 (0, 0), (0, 10) cols 0,1,10 | ~IG165gat n170 0
+C791 Place LUTn162 (2, 0), (2, 10) 
+C792 Place LUTn162 (3, 0), (3, 10) 
+#LABELS LUTn162 (2, 0), (2, 10) cols 0,1,10 | ~n146 n163 0
+#LABELS LUTn162 (3, 0), (3, 10) cols 0,1,10 | ~IG237gat n163 0
+C793 Place LUTn190 (5, 0), (5, 10) 
+C794 Place LUTn190 (6, 0), (6, 10) 
+#LABELS LUTn190 (5, 0), (5, 10) cols 0,1,10 | ~n180 n191 0
+#LABELS LUTn190 (6, 0), (6, 10) cols 0,1,10 | ~IG237gat n191 0
+C795 Place LUTn196 (8, 0), (8, 10) 
+C796 Place LUTn196 (9, 0), (9, 10) 
+#LABELS LUTn196 (8, 0), (8, 10) cols 0,1,10 | ~n185 ~IG159gat 0
+#LABELS LUTn196 (9, 0), (9, 10) cols 0,1,10 | n185 IG159gat 0
+C797 Place LUTn198 (11, 0), (11, 10) 
+C798 Place LUTn198 (12, 0), (12, 10) 
+#LABELS LUTn198 (11, 0), (11, 10) cols 0,1,10 | n185 n199 0
+#LABELS LUTn198 (12, 0), (12, 10) cols 0,1,10 | ~IG246gat n199 0
+C799 Place LUTn203 (14, 0), (14, 10) 
+C800 Place LUTn203 (15, 0), (15, 10) 
+#LABELS LUTn203 (14, 0), (14, 10) cols 0,1,10 | ~IG165gat ~n170 0
+#LABELS LUTn203 (15, 0), (15, 10) cols 0,1,10 | IG165gat n170 0
+C801 Place LUTn205 (17, 0), (17, 10) 
+C802 Place LUTn205 (18, 0), (18, 10) 
+#LABELS LUTn205 (17, 0), (17, 10) cols 0,1,10 | n206 n170 0
+#LABELS LUTn205 (18, 0), (18, 10) cols 0,1,10 | ~IG246gat n206 0
+C803 Place LUTn175 (20, 0), (20, 10) 
+C804 Place LUTn175 (21, 0), (21, 10) 
+C805 Place LUTn175 (22, 0), (22, 10) 
+#LABELS LUTn175 (20, 0), (20, 10) cols 0,1,10 | ~IG165gat n176 0
+#LABELS LUTn175 (21, 0), (21, 10) cols 0,1,10 | n176 n170 0
+#LABELS LUTn175 (22, 0), (22, 10) cols 0,1,10 | ~IG165gat n170 0
+C806 Place LUTn197 (0, 12), (0, 21) 
+#LABELS LUTn197 (0, 12), (0, 21) cols 12,17,19,21 | ~n185 IG159gat IG237gat 0
+C807 Place LUTn204 (2, 12), (2, 21) 
+#LABELS LUTn204 (2, 12), (2, 21) cols 12,17,19,21 | ~n170 IG165gat IG237gat 0
+C808 Place LUTn114 (4, 12), (4, 21) 
+C809 Place LUTn114 (5, 12), (5, 21) 
+#LABELS LUTn114 (4, 12), (4, 21) cols 12,17,19,21 | ~n115 ~n126 n127 0
+#LABELS LUTn114 (5, 12), (5, 21) cols 12,17,19,21 | n127 ~n126 ~IG237gat 0
+C810 Place LUTn147 (7, 12), (7, 21) 
+C811 Place LUTn147 (8, 12), (8, 21) 
+#LABELS LUTn147 (7, 12), (7, 21) cols 12,17,19,21 | ~n136 IG183gat IG237gat 0
+#LABELS LUTn147 (8, 12), (8, 21) cols 12,17,19,21 | ~n148 0 0 0
+C812 Place LUTn151 (10, 12), (10, 21) 
+C813 Place LUTn151 (11, 12), (11, 21) 
+#LABELS LUTn151 (10, 12), (10, 21) cols 12,17,19,21 | ~n152 ~n153 IG219gat 0
+#LABELS LUTn151 (11, 12), (11, 21) cols 12,17,19,21 | n152 n153 IG219gat 0
+C814 Place LUTn154 (13, 12), (13, 21) 
+C815 Place LUTn154 (14, 12), (14, 21) 
+#LABELS LUTn154 (13, 12), (13, 21) cols 12,17,19,21 | ~n141 IG189gat IG237gat 0
+#LABELS LUTn154 (14, 12), (14, 21) cols 12,17,19,21 | ~n155 0 0 0
+C816 Place LUTn159 (16, 12), (16, 21) 
+C817 Place LUTn159 (17, 12), (17, 21) 
+#LABELS LUTn159 (16, 12), (16, 21) cols 12,17,19,21 | ~n160 ~n140 IG219gat 0
+#LABELS LUTn159 (17, 12), (17, 21) cols 12,17,19,21 | n160 n140 IG219gat 0
+C818 Place LUTn210 (19, 12), (19, 21) 
+C819 Place LUTn210 (20, 12), (20, 21) 
+#LABELS LUTn210 (19, 12), (19, 21) cols 12,17,19,21 | ~n177 IG171gat IG237gat 0
+#LABELS LUTn210 (20, 12), (20, 21) cols 12,17,19,21 | ~n211 0 0 0
+C820 Place LUTn168 (22, 12), (22, 21) 
+C821 Place LUTn168 (23, 12), (23, 21) 
+C822 Place LUTn168 (24, 12), (24, 21) 
+#LABELS LUTn168 (22, 12), (22, 21) cols 12,17,19,21 | ~n139 ~IG183gat n145 0
+#LABELS LUTn168 (23, 12), (23, 21) cols 12,17,19,21 | n136 ~n139 n145 0
+#LABELS LUTn168 (24, 12), (24, 21) cols 12,17,19,21 | n136 ~IG183gat 0 0
+C823 Place LUTn134 (0, 22), (0, 27) 
+C824 Place LUTn134 (1, 22), (1, 27) 
+C825 Place LUTn134 (2, 22), (2, 27) 
+#LABELS LUTn134 (0, 22), (0, 27) cols 22,23,25,26,27 | ~n139 n145 n135 IG219gat 0
+#LABELS LUTn134 (1, 22), (1, 27) cols 22,23,25,26,27 | 0 ~n145 ~n135 IG219gat 0
+#LABELS LUTn134 (2, 22), (2, 27) cols 22,23,25,26,27 | n139 0 ~n135 IG219gat 0
+C826 Copy LUTn170 (10, 7) to (10, 1)
+C827 Copy LUTn170 (10, 1) to (0, 1)
+C828 Copy LUT~n185 (11, 20) to (11, 28)
+C829 Copy LUT~n185 (11, 28) to (0, 28)
+C830 Copy LUT~n185 (0, 28) to (0, 12)
+C831 Copy LUT~n139 (5, 24) to (5, 22)
+C832 Copy LUT~n139 (5, 22) to (3, 22)
+C833 Copy LUT~n139 (3, 22) to (0, 22)
+C834 Copy LUTn145 (18, 16) to (18, 23)
+C835 Copy LUTn145 (18, 23) to (0, 23)
+C836 Copy LUTn135 (2, 20) to (2, 31)
+C837 Copy LUTn135 (2, 31) to (0, 31)
+C838 Copy LUTn135 (0, 31) to (0, 30)
+C839 Copy LUTn135 (0, 30) to (0, 25)
+C840 Copy LUT~n145 (18, 23) to (3, 23)
+C841 Copy LUT~n145 (3, 23) to (1, 23)
+C842 Copy LUT~n135 (2, 20) to (2, 28)
+C843 Copy LUT~n135 (2, 28) to (1, 28)
+C844 Copy LUT~n135 (1, 28) to (1, 25)
+C845 Copy LUT~n146 (5, 15) to (5, 30)
+C846 Copy LUT~n146 (5, 30) to (2, 30)
+C847 Copy LUT~n146 (2, 30) to (2, 0)
+C848 Copy LUTn163 (8, 20) to (8, 30)
+C849 Copy LUTn163 (8, 30) to (1, 30)
+C850 Copy LUTn163 (1, 30) to (1, 1)
+C851 Copy LUTn163 (1, 1) to (2, 1)
+C852 Copy LUT~n170 (10, 7) to (18, 7)
+C853 Copy LUT~n170 (18, 7) to (18, 12)
+C854 Copy LUT~n170 (18, 12) to (2, 12)
+C855 Copy LUTn139 (5, 22) to (2, 22)
+C856 Copy LUT~n135 (2, 20) to (19, 20)
+C857 Copy LUT~n135 (19, 20) to (19, 25)
+C858 Copy LUT~n135 (19, 25) to (2, 25)
+C859 Copy LUTn163 (1, 1) to (3, 1)
+C860 Copy LUT~n115 (1, 7) to (1, 0)
+C861 Copy LUT~n115 (1, 0) to (1, 12)
+C862 Copy LUT~n115 (1, 12) to (4, 12)
+C863 Copy LUT~n126 (2, 24) to (6, 24)
+C864 Copy LUT~n126 (6, 24) to (6, 17)
+C865 Copy LUT~n126 (6, 17) to (4, 17)
+C866 Copy LUTn127 (2, 16) to (19, 16)
+C867 Copy LUTn127 (19, 16) to (19, 0)
+C868 Copy LUTn127 (19, 0) to (4, 0)
+C869 Copy LUTn127 (4, 0) to (4, 19)
+C870 Copy LUT~n180 (8, 15) to (8, 3)
+C871 Copy LUT~n180 (8, 3) to (5, 3)
+C872 Copy LUT~n180 (5, 3) to (5, 0)
+C873 Copy LUTn191 (13, 7) to (13, 1)
+C874 Copy LUTn191 (13, 1) to (5, 1)
+C875 Copy LUTn127 (2, 16) to (20, 16)
+C876 Copy LUTn127 (20, 16) to (20, 23)
+C877 Copy LUTn127 (20, 23) to (5, 23)
+C878 Copy LUTn127 (5, 23) to (5, 12)
+C879 Copy LUT~n126 (6, 17) to (5, 17)
+C880 Copy LUTn191 (13, 1) to (6, 1)
+C881 Copy LUT~n136 (4, 5) to (4, 1)
+C882 Copy LUT~n136 (4, 1) to (7, 1)
+C883 Copy LUT~n136 (7, 1) to (7, 12)
+C884 Copy LUT~n185 (11, 20) to (11, 22)
+C885 Copy LUT~n185 (11, 22) to (8, 22)
+C886 Copy LUT~n185 (8, 22) to (8, 0)
+C887 Copy LUT~n148 (4, 7) to (4, 23)
+C888 Copy LUT~n148 (4, 23) to (8, 23)
+C889 Copy LUT~n148 (8, 23) to (8, 12)
+C890 Copy LUTn185 (11, 20) to (11, 24)
+C891 Copy LUTn185 (11, 24) to (7, 24)
+C892 Copy LUTn185 (7, 24) to (7, 0)
+C893 Copy LUTn185 (7, 0) to (9, 0)
+C894 Copy LUT~n152 (5, 16) to (5, 25)
+C895 Copy LUT~n152 (5, 25) to (10, 25)
+C896 Copy LUT~n152 (10, 25) to (10, 12)
+C897 Copy LUT~n153 (5, 20) to (5, 26)
+C898 Copy LUT~n153 (5, 26) to (10, 26)
+C899 Copy LUT~n153 (10, 26) to (10, 17)
+C900 Copy LUTn185 (7, 0) to (11, 0)
+C901 Copy LUTn199 (14, 13) to (14, 3)
+C902 Copy LUTn199 (14, 3) to (11, 3)
+C903 Copy LUTn199 (11, 3) to (11, 1)
+C904 Copy LUTn152 (5, 16) to (5, 28)
+C905 Copy LUTn152 (5, 28) to (3, 28)
+C906 Copy LUTn152 (3, 28) to (3, 12)
+C907 Copy LUTn152 (3, 12) to (11, 12)
+C908 Copy LUTn153 (5, 20) to (5, 31)
+C909 Copy LUTn153 (5, 31) to (1, 31)
+C910 Copy LUTn153 (1, 31) to (1, 17)
+C911 Copy LUTn153 (1, 17) to (11, 17)
+C912 Copy LUTn199 (14, 13) to (14, 8)
+C913 Copy LUTn199 (14, 8) to (12, 8)
+C914 Copy LUTn199 (12, 8) to (12, 1)
+C915 Copy LUT~n141 (7, 5) to (7, 3)
+C916 Copy LUT~n141 (7, 3) to (13, 3)
+C917 Copy LUT~n141 (13, 3) to (13, 12)
+C918 Copy LUT~n170 (10, 1) to (16, 1)
+C919 Copy LUT~n170 (16, 1) to (14, 1)
+C920 Copy LUT~n155 (7, 7) to (7, 22)
+C921 Copy LUT~n155 (7, 22) to (14, 22)
+C922 Copy LUT~n155 (14, 22) to (14, 12)
+C923 Copy LUTn170 (10, 1) to (15, 1)
+C924 Copy LUT~n160 (8, 16) to (8, 24)
+C925 Copy LUT~n160 (8, 24) to (16, 24)
+C926 Copy LUT~n160 (16, 24) to (16, 12)
+C927 Copy LUT~n140 (12, 15) to (12, 17)
+C928 Copy LUT~n140 (12, 17) to (3, 17)
+C929 Copy LUT~n140 (3, 17) to (16, 17)
+C930 Copy LUTn206 (16, 4) to (16, 0)
+C931 Copy LUTn206 (16, 0) to (10, 0)
+C932 Copy LUTn206 (10, 0) to (17, 0)
+C933 Copy LUTn170 (10, 1) to (17, 1)
+C934 Copy LUTn160 (8, 16) to (22, 16)
+C935 Copy LUTn160 (22, 16) to (22, 3)
+C936 Copy LUTn160 (22, 3) to (17, 3)
+C937 Copy LUTn160 (17, 3) to (17, 12)
+C938 Copy LUTn140 (12, 17) to (17, 17)
+C939 Copy LUTn206 (16, 4) to (16, 3)
+C940 Copy LUTn206 (16, 3) to (18, 3)
+C941 Copy LUTn206 (18, 3) to (18, 1)
+C942 Copy LUT~n177 (16, 5) to (16, 8)
+C943 Copy LUT~n177 (16, 8) to (19, 8)
+C944 Copy LUT~n177 (19, 8) to (19, 12)
+C945 Copy LUTn176 (18, 20) to (18, 4)
+C946 Copy LUTn176 (18, 4) to (17, 4)
+C947 Copy LUTn176 (17, 4) to (20, 4)
+C948 Copy LUTn176 (20, 4) to (20, 1)
+C949 Copy LUT~n211 (14, 20) to (14, 15)
+C950 Copy LUT~n211 (14, 15) to (20, 15)
+C951 Copy LUT~n211 (20, 15) to (20, 12)
+C952 Copy LUTn176 (18, 20) to (18, 15)
+C953 Copy LUTn176 (18, 15) to (13, 15)
+C954 Copy LUTn176 (13, 15) to (13, 0)
+C955 Copy LUTn176 (13, 0) to (21, 0)
+C956 Copy LUTn170 (10, 1) to (21, 1)
+C957 Copy LUTn170 (10, 1) to (22, 1)
+C958 Copy LUT~n139 (5, 24) to (9, 24)
+C959 Copy LUT~n139 (9, 24) to (9, 12)
+C960 Copy LUT~n139 (9, 12) to (22, 12)
+C961 Copy LUTn145 (18, 16) to (18, 19)
+C962 Copy LUTn145 (18, 19) to (22, 19)
+C963 Copy LUTn136 (4, 5) to (23, 5)
+C964 Copy LUTn136 (23, 5) to (23, 12)
+C965 Copy LUT~n139 (5, 24) to (15, 24)
+C966 Copy LUT~n139 (15, 24) to (15, 17)
+C967 Copy LUT~n139 (15, 17) to (23, 17)
+C968 Copy LUTn145 (18, 19) to (23, 19)
+C969 Copy LUTn136 (4, 5) to (24, 5)
+C970 Copy LUTn136 (24, 5) to (24, 12)
+C971 HNOR col:[0, 1] -> 10
+C972 HNOR col:[12, 17, 19] -> 21
+C973 HNOR col:[22, 23, 25, 26] -> 27
+C974 VNOR  col:10, row:[0] -> 1
+C975 VNOR  col:10, row:[2, 3] -> 4
+C976 VNOR  col:10, row:[5, 6] -> 7
+C977 VNOR  col:10, row:[8, 9] -> 10
+C978 VNOR  col:10, row:[11, 12] -> 13
+C979 VNOR  col:10, row:[14, 15] -> 16
+C980 VNOR  col:10, row:[17, 18] -> 19
+C981 VNOR  col:10, row:[20, 21, 22] -> 23
+C982 VNOR  col:21, row:[0] -> 1
+C983 VNOR  col:21, row:[2] -> 3
+C984 VNOR  col:21, row:[4, 5] -> 6
+C985 VNOR  col:21, row:[7, 8] -> 9
+C986 VNOR  col:21, row:[10, 11] -> 12
+C987 VNOR  col:21, row:[13, 14] -> 15
+C988 VNOR  col:21, row:[16, 17] -> 18
+C989 VNOR  col:21, row:[19, 20] -> 21
+C990 VNOR  col:21, row:[22, 23, 24] -> 25
+C991 VNOR  col:27, row:[0, 1, 2] -> 3
+C992 Reset Column: 0, 1, 3, 4, 5, 7, 8, 12, 15, 16, 17, 19, 20, 22, 23, 24, 25, 26, 28, 30, 31
+C993 Place LUTOG850gat (0, 0), (0, 12) 
+#LABELS LUTOG850gat (0, 0), (0, 12) cols 0,1,12 | ~n132 n114 0
+C994 Place LUTn189 (2, 0), (2, 12) 
+C995 Place LUTn189 (3, 0), (3, 12) 
+#LABELS LUTn189 (2, 0), (2, 12) cols 0,1,12 | ~n193 n190 0
+#LABELS LUTn189 (3, 0), (3, 12) cols 0,1,12 | ~IG228gat n190 0
+C996 Place LUTn201 (5, 0), (5, 12) 
+C997 Place LUTn201 (6, 0), (6, 12) 
+#LABELS LUTn201 (5, 0), (5, 12) cols 0,1,12 | n168 n176 0
+#LABELS LUTn201 (6, 0), (6, 12) cols 0,1,12 | ~n183 n176 0
+C998 Place LUTn209 (8, 0), (8, 12) 
+C999 Place LUTn209 (9, 0), (9, 12) 
+#LABELS LUTn209 (8, 0), (8, 12) cols 0,1,12 | ~n213 n210 0
+#LABELS LUTn209 (9, 0), (9, 12) cols 0,1,12 | ~IG228gat n210 0
+C1000 Place LUTn208 (11, 0), (11, 12) 
+C1001 Place LUTn208 (12, 0), (12, 12) 
+C1002 Place LUTn208 (13, 0), (13, 12) 
+#LABELS LUTn208 (11, 0), (11, 12) cols 0,1,12 | ~IG177gat n184 0
+#LABELS LUTn208 (12, 0), (12, 12) cols 0,1,12 | n168 n184 0
+#LABELS LUTn208 (13, 0), (13, 12) cols 0,1,12 | n168 ~IG177gat 0
+C1003 Place LUTOG863gat (0, 17), (0, 23) 
+C1004 Place LUTOG863gat (1, 17), (1, 23) 
+#LABELS LUTOG863gat (0, 17), (0, 23) cols 17,19,22,23 | ~n135 ~n134 n147 0
+#LABELS LUTOG863gat (1, 17), (1, 23) cols 17,19,22,23 | ~IG228gat ~n134 n147 0
+C1005 Place LUTOG864gat (3, 17), (3, 23) 
+C1006 Place LUTOG864gat (4, 17), (4, 23) 
+#LABELS LUTOG864gat (3, 17), (3, 23) cols 17,19,22,23 | ~n152 ~n151 n154 0
+#LABELS LUTOG864gat (4, 17), (4, 23) cols 17,19,22,23 | ~IG228gat ~n151 n154 0
+C1007 Place LUTOG865gat (6, 17), (6, 23) 
+C1008 Place LUTOG865gat (7, 17), (7, 23) 
+#LABELS LUTOG865gat (6, 17), (6, 23) cols 17,19,22,23 | ~n160 ~n159 n162 0
+#LABELS LUTOG865gat (7, 17), (7, 23) cols 17,19,22,23 | ~IG228gat ~n159 n162 0
+C1009 Place LUTn167 (9, 17), (9, 23) 
+C1010 Place LUTn167 (10, 17), (10, 23) 
+#LABELS LUTn167 (9, 17), (9, 23) cols 17,19,22,23 | ~n169 ~n168 n183 0
+#LABELS LUTn167 (10, 17), (10, 23) cols 17,19,22,23 | ~n175 0 0 0
+C1011 Place LUTn195 (12, 17), (12, 23) 
+C1012 Place LUTn195 (13, 17), (13, 23) 
+#LABELS LUTn195 (12, 17), (12, 23) cols 17,19,22,23 | ~n196 ~n197 n198 0
+#LABELS LUTn195 (13, 17), (13, 23) cols 17,19,22,23 | ~IG228gat ~n197 n198 0
+C1013 Place LUTn202 (15, 17), (15, 23) 
+C1014 Place LUTn202 (16, 17), (16, 23) 
+#LABELS LUTn202 (15, 17), (15, 23) cols 17,19,22,23 | ~n203 ~n204 n205 0
+#LABELS LUTn202 (16, 17), (16, 23) cols 17,19,22,23 | ~IG228gat ~n204 n205 0
+C1015 Copy LUT~n132 (4, 29) to (4, 0)
+C1016 Copy LUT~n132 (4, 0) to (1, 0)
+C1017 Copy LUT~n132 (1, 0) to (0, 0)
+C1018 Copy LUTn114 (6, 21) to (6, 26)
+C1019 Copy LUTn114 (6, 26) to (0, 26)
+C1020 Copy LUTn114 (0, 26) to (0, 25)
+C1021 Copy LUTn114 (0, 25) to (0, 1)
+C1022 Copy LUT~n135 (2, 20) to (2, 19)
+C1023 Copy LUT~n135 (2, 19) to (2, 17)
+C1024 Copy LUT~n135 (2, 17) to (0, 17)
+C1025 Copy LUT~n134 (3, 27) to (3, 28)
+C1026 Copy LUT~n134 (3, 28) to (0, 28)
+C1027 Copy LUT~n134 (0, 28) to (0, 19)
+C1028 Copy LUTn147 (9, 21) to (9, 30)
+C1029 Copy LUTn147 (9, 30) to (0, 30)
+C1030 Copy LUTn147 (0, 30) to (0, 22)
+C1031 Copy LUT~n134 (3, 27) to (3, 25)
+C1032 Copy LUT~n134 (3, 25) to (1, 25)
+C1033 Copy LUT~n134 (1, 25) to (1, 19)
+C1034 Copy LUTn147 (9, 21) to (9, 26)
+C1035 Copy LUTn147 (9, 26) to (1, 26)
+C1036 Copy LUTn147 (1, 26) to (1, 22)
+C1037 Copy LUT~n193 (14, 16) to (14, 0)
+C1038 Copy LUT~n193 (14, 0) to (7, 0)
+C1039 Copy LUT~n193 (7, 0) to (2, 0)
+C1040 Copy LUTn190 (7, 10) to (7, 1)
+C1041 Copy LUTn190 (7, 1) to (2, 1)
+C1042 Copy LUTn190 (7, 1) to (3, 1)
+C1043 Copy LUT~n152 (5, 16) to (5, 3)
+C1044 Copy LUT~n152 (5, 3) to (5, 17)
+C1045 Copy LUT~n152 (5, 17) to (3, 17)
+C1046 Copy LUT~n151 (12, 21) to (12, 26)
+C1047 Copy LUT~n151 (12, 26) to (3, 26)
+C1048 Copy LUT~n151 (3, 26) to (3, 19)
+C1049 Copy LUTn154 (15, 21) to (15, 30)
+C1050 Copy LUTn154 (15, 30) to (3, 30)
+C1051 Copy LUTn154 (3, 30) to (3, 22)
+C1052 Copy LUT~n151 (12, 21) to (12, 3)
+C1053 Copy LUT~n151 (12, 3) to (4, 3)
+C1054 Copy LUT~n151 (4, 3) to (4, 19)
+C1055 Copy LUTn154 (15, 21) to (15, 1)
+C1056 Copy LUTn154 (15, 1) to (4, 1)
+C1057 Copy LUTn154 (4, 1) to (4, 22)
+C1058 Copy LUTn168 (25, 21) to (25, 0)
+C1059 Copy LUTn168 (25, 0) to (5, 0)
+C1060 Copy LUTn176 (18, 20) to (18, 1)
+C1061 Copy LUTn176 (18, 1) to (5, 1)
+C1062 Copy LUT~n183 (11, 16) to (11, 24)
+C1063 Copy LUT~n183 (11, 24) to (6, 24)
+C1064 Copy LUT~n183 (6, 24) to (6, 3)
+C1065 Copy LUT~n183 (6, 3) to (6, 0)
+C1066 Copy LUTn176 (18, 1) to (6, 1)
+C1067 Copy LUT~n160 (8, 16) to (8, 3)
+C1068 Copy LUT~n160 (8, 3) to (8, 17)
+C1069 Copy LUT~n160 (8, 17) to (6, 17)
+C1070 Copy LUT~n159 (18, 21) to (18, 19)
+C1071 Copy LUT~n159 (18, 19) to (5, 19)
+C1072 Copy LUT~n159 (5, 19) to (6, 19)
+C1073 Copy LUTn162 (4, 10) to (4, 25)
+C1074 Copy LUTn162 (4, 25) to (2, 25)
+C1075 Copy LUTn162 (2, 25) to (2, 22)
+C1076 Copy LUTn162 (2, 22) to (6, 22)
+C1077 Copy LUT~n159 (5, 19) to (7, 19)
+C1078 Copy LUTn162 (2, 22) to (7, 22)
+C1079 Copy LUT~n213 (16, 7) to (16, 0)
+C1080 Copy LUT~n213 (16, 0) to (10, 0)
+C1081 Copy LUT~n213 (10, 0) to (8, 0)
+C1082 Copy LUTn210 (21, 21) to (21, 1)
+C1083 Copy LUTn210 (21, 1) to (1, 1)
+C1084 Copy LUTn210 (1, 1) to (8, 1)
+C1085 Copy LUTn210 (1, 1) to (9, 1)
+C1086 Copy LUT~n169 (1, 10) to (1, 28)
+C1087 Copy LUT~n169 (1, 28) to (9, 28)
+C1088 Copy LUT~n169 (9, 28) to (9, 17)
+C1089 Copy LUT~n168 (25, 21) to (25, 19)
+C1090 Copy LUT~n168 (25, 19) to (8, 19)
+C1091 Copy LUT~n168 (8, 19) to (9, 19)
+C1092 Copy LUTn183 (11, 16) to (11, 22)
+C1093 Copy LUTn183 (11, 22) to (5, 22)
+C1094 Copy LUTn183 (5, 22) to (9, 22)
+C1095 Copy LUT~n175 (23, 10) to (23, 17)
+C1096 Copy LUT~n175 (23, 17) to (11, 17)
+C1097 Copy LUT~n175 (11, 17) to (10, 17)
+C1098 Copy LUTn184 (19, 5) to (19, 1)
+C1099 Copy LUTn184 (19, 1) to (11, 1)
+C1100 Copy LUTn168 (25, 0) to (12, 0)
+C1101 Copy LUTn184 (19, 1) to (12, 1)
+C1102 Copy LUT~n196 (10, 10) to (10, 8)
+C1103 Copy LUT~n196 (10, 8) to (12, 8)
+C1104 Copy LUT~n196 (12, 8) to (12, 17)
+C1105 Copy LUT~n197 (1, 21) to (1, 30)
+C1106 Copy LUT~n197 (1, 30) to (12, 30)
+C1107 Copy LUT~n197 (12, 30) to (12, 19)
+C1108 Copy LUTn198 (13, 10) to (13, 26)
+C1109 Copy LUTn198 (13, 26) to (8, 26)
+C1110 Copy LUTn198 (8, 26) to (8, 22)
+C1111 Copy LUTn198 (8, 22) to (12, 22)
+C1112 Copy LUTn168 (25, 0) to (13, 0)
+C1113 Copy LUT~n197 (1, 21) to (1, 31)
+C1114 Copy LUT~n197 (1, 31) to (13, 31)
+C1115 Copy LUT~n197 (13, 31) to (13, 19)
+C1116 Copy LUTn198 (8, 22) to (13, 22)
+C1117 Copy LUT~n203 (16, 10) to (16, 3)
+C1118 Copy LUT~n203 (16, 3) to (15, 3)
+C1119 Copy LUT~n203 (15, 3) to (15, 17)
+C1120 Copy LUT~n204 (3, 21) to (3, 31)
+C1121 Copy LUT~n204 (3, 31) to (15, 31)
+C1122 Copy LUT~n204 (15, 31) to (15, 19)
+C1123 Copy LUTn205 (19, 10) to (19, 22)
+C1124 Copy LUTn205 (19, 22) to (15, 22)
+C1125 Copy LUT~n204 (3, 21) to (26, 21)
+C1126 Copy LUT~n204 (26, 21) to (26, 19)
+C1127 Copy LUT~n204 (26, 19) to (16, 19)
+C1128 Copy LUTn205 (19, 22) to (16, 22)
+C1129 HNOR col:[0, 1] -> 12
+C1130 HNOR col:[17, 19, 22] -> 23
+C1131 VNOR  col:12, row:[0] -> 1
+C1132 VNOR  col:12, row:[2, 3] -> 4
+C1133 VNOR  col:12, row:[5, 6] -> 7
+C1134 VNOR  col:12, row:[8, 9] -> 10
+C1135 VNOR  col:12, row:[11, 12, 13] -> 14
+C1136 VNOR  col:23, row:[0, 1] -> 2
+C1137 VNOR  col:23, row:[3, 4] -> 5
+C1138 VNOR  col:23, row:[6, 7] -> 8
+C1139 VNOR  col:23, row:[9, 10] -> 11
+C1140 VNOR  col:23, row:[12, 13] -> 14
+C1141 VNOR  col:23, row:[15, 16] -> 17
+C1142 Reset Column: 0, 1, 3, 8, 17, 19, 21, 22, 24, 25, 26, 28, 30, 31
+C1143 Place LUTOG866gat (0, 0), (0, 17) 
+C1144 Place LUTOG866gat (1, 0), (1, 17) 
+C1145 Place LUTOG866gat (2, 0), (2, 17) 
+#LABELS LUTOG866gat (0, 0), (0, 17) cols 0,1,17 | ~n185 IG159gat 0
+#LABELS LUTOG866gat (1, 0), (1, 17) cols 0,1,17 | ~n167 IG159gat 0
+#LABELS LUTOG866gat (2, 0), (2, 17) cols 0,1,17 | ~n167 ~n185 0
+C1146 Place LUTOG874gat (0, 19), (0, 26) 
+C1147 Place LUTOG874gat (1, 19), (1, 26) 
+C1148 Place LUTOG874gat (2, 19), (2, 26) 
+#LABELS LUTOG874gat (0, 19), (0, 26) cols 19,22,25,26 | ~n168 ~n193 IG219gat 0
+#LABELS LUTOG874gat (1, 19), (1, 26) cols 19,22,25,26 | n168 n193 IG219gat 0
+#LABELS LUTOG874gat (2, 19), (2, 26) cols 19,22,25,26 | ~n189 0 0 0
+C1149 Place LUTOG878gat (4, 19), (4, 26) 
+C1150 Place LUTOG878gat (5, 19), (5, 26) 
+C1151 Place LUTOG878gat (6, 19), (6, 26) 
+#LABELS LUTOG878gat (4, 19), (4, 26) cols 19,22,25,26 | ~n167 ~n196 IG219gat 0
+#LABELS LUTOG878gat (5, 19), (5, 26) cols 19,22,25,26 | n167 n196 IG219gat 0
+#LABELS LUTOG878gat (6, 19), (6, 26) cols 19,22,25,26 | ~n195 0 0 0
+C1152 Place LUTOG879gat (8, 19), (8, 26) 
+C1153 Place LUTOG879gat (9, 19), (9, 26) 
+C1154 Place LUTOG879gat (10, 19), (10, 26) 
+#LABELS LUTOG879gat (8, 19), (8, 26) cols 19,22,25,26 | ~n201 ~n203 IG219gat 0
+#LABELS LUTOG879gat (9, 19), (9, 26) cols 19,22,25,26 | n201 n203 IG219gat 0
+#LABELS LUTOG879gat (10, 19), (10, 26) cols 19,22,25,26 | ~n202 0 0 0
+C1155 Place LUTOG880gat (12, 19), (12, 26) 
+C1156 Place LUTOG880gat (13, 19), (13, 26) 
+C1157 Place LUTOG880gat (14, 19), (14, 26) 
+#LABELS LUTOG880gat (12, 19), (12, 26) cols 19,22,25,26 | ~n208 ~n213 IG219gat 0
+#LABELS LUTOG880gat (13, 19), (13, 26) cols 19,22,25,26 | n208 n213 IG219gat 0
+#LABELS LUTOG880gat (14, 19), (14, 26) cols 19,22,25,26 | ~n209 0 0 0
+C1158 Copy LUT~n185 (11, 20) to (11, 0)
+C1159 Copy LUT~n185 (11, 0) to (3, 0)
+C1160 Copy LUT~n185 (3, 0) to (0, 0)
+C1161 Copy LUT~n168 (25, 21) to (25, 19)
+C1162 Copy LUT~n168 (25, 19) to (3, 19)
+C1163 Copy LUT~n168 (3, 19) to (0, 19)
+C1164 Copy LUT~n193 (14, 16) to (14, 28)
+C1165 Copy LUT~n193 (14, 28) to (0, 28)
+C1166 Copy LUT~n193 (0, 28) to (0, 22)
+C1167 Copy LUT~n167 (11, 23) to (11, 28)
+C1168 Copy LUT~n167 (11, 28) to (1, 28)
+C1169 Copy LUT~n167 (1, 28) to (1, 30)
+C1170 Copy LUT~n167 (1, 30) to (1, 0)
+C1171 Copy LUTn168 (25, 19) to (1, 19)
+C1172 Copy LUTn193 (14, 16) to (14, 31)
+C1173 Copy LUTn193 (14, 31) to (0, 31)
+C1174 Copy LUTn193 (0, 31) to (1, 31)
+C1175 Copy LUTn193 (1, 31) to (1, 22)
+C1176 Copy LUT~n167 (11, 23) to (11, 31)
+C1177 Copy LUT~n167 (11, 31) to (2, 31)
+C1178 Copy LUT~n167 (2, 31) to (2, 28)
+C1179 Copy LUT~n167 (2, 28) to (2, 0)
+C1180 Copy LUT~n185 (11, 20) to (11, 1)
+C1181 Copy LUT~n185 (11, 1) to (3, 1)
+C1182 Copy LUT~n185 (3, 1) to (2, 1)
+C1183 Copy LUT~n189 (4, 12) to (4, 30)
+C1184 Copy LUT~n189 (4, 30) to (2, 30)
+C1185 Copy LUT~n189 (2, 30) to (2, 19)
+C1186 Copy LUT~n167 (11, 23) to (11, 19)
+C1187 Copy LUT~n167 (11, 19) to (4, 19)
+C1188 Copy LUT~n196 (10, 10) to (10, 0)
+C1189 Copy LUT~n196 (10, 0) to (4, 0)
+C1190 Copy LUT~n196 (4, 0) to (4, 22)
+C1191 Copy LUTn167 (11, 19) to (7, 19)
+C1192 Copy LUTn167 (7, 19) to (5, 19)
+C1193 Copy LUTn196 (10, 10) to (10, 28)
+C1194 Copy LUTn196 (10, 28) to (3, 28)
+C1195 Copy LUTn196 (3, 28) to (3, 22)
+C1196 Copy LUTn196 (3, 22) to (5, 22)
+C1197 Copy LUT~n195 (14, 23) to (14, 0)
+C1198 Copy LUT~n195 (14, 0) to (6, 0)
+C1199 Copy LUT~n195 (6, 0) to (6, 19)
+C1200 Copy LUT~n201 (7, 12) to (7, 0)
+C1201 Copy LUT~n201 (7, 0) to (8, 0)
+C1202 Copy LUT~n201 (8, 0) to (8, 19)
+C1203 Copy LUT~n203 (16, 10) to (16, 22)
+C1204 Copy LUT~n203 (16, 22) to (7, 22)
+C1205 Copy LUT~n203 (7, 22) to (8, 22)
+C1206 Copy LUTn201 (7, 12) to (7, 1)
+C1207 Copy LUTn201 (7, 1) to (4, 1)
+C1208 Copy LUTn201 (4, 1) to (9, 1)
+C1209 Copy LUTn201 (9, 1) to (9, 19)
+C1210 Copy LUTn203 (16, 22) to (9, 22)
+C1211 Copy LUT~n202 (17, 23) to (17, 19)
+C1212 Copy LUT~n202 (17, 19) to (15, 19)
+C1213 Copy LUT~n202 (15, 19) to (10, 19)
+C1214 Copy LUT~n208 (14, 12) to (14, 1)
+C1215 Copy LUT~n208 (14, 1) to (12, 1)
+C1216 Copy LUT~n208 (12, 1) to (12, 19)
+C1217 Copy LUT~n213 (16, 7) to (16, 0)
+C1218 Copy LUT~n213 (16, 0) to (12, 0)
+C1219 Copy LUT~n213 (12, 0) to (12, 22)
+C1220 Copy LUTn208 (14, 12) to (14, 15)
+C1221 Copy LUTn208 (14, 15) to (13, 15)
+C1222 Copy LUTn208 (13, 15) to (13, 0)
+C1223 Copy LUTn208 (13, 0) to (13, 19)
+C1224 Copy LUTn213 (16, 7) to (16, 1)
+C1225 Copy LUTn213 (16, 1) to (5, 1)
+C1226 Copy LUTn213 (5, 1) to (13, 1)
+C1227 Copy LUTn213 (13, 1) to (13, 22)
+C1228 Copy LUT~n209 (10, 12) to (10, 3)
+C1229 Copy LUT~n209 (10, 3) to (14, 3)
+C1230 Copy LUT~n209 (14, 3) to (14, 19)
+C1231 HNOR col:[0, 1] -> 17
+C1232 HNOR col:[19, 22, 25] -> 26
+C1233 VNOR  col:17, row:[0, 1, 2] -> 3
+C1234 VNOR  col:26, row:[0, 1, 2] -> 3
+C1235 VNOR  col:26, row:[4, 5, 6] -> 7
+C1236 VNOR  col:26, row:[8, 9, 10] -> 11
+C1237 VNOR  col:26, row:[12, 13, 14] -> 15
+Place Cycle 261 / A_star_Cycle 819 / Copy_IR_Cycle 0 / HNOR_Cycle 24 / VNOR_Cycle 126 / Reset_Cycle 7 

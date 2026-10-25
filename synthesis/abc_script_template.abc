@@ -1,0 +1,6 @@
+source abc_rc_path
+read_blif input.blif
+strash
+resyn
+if -K 4                       
+write_verilog output.v
