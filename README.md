@@ -13,7 +13,7 @@ parallel horizontal/vertical NORs, intermediate-result handling and resets) and 
 | Method | File | Description |
 |---|---|---|
 | Ours | `mappers/OURS_TCAD26.py` | The proposed framework: size-aware floorplanning, ILP-based LUT placement, Hanan-grid fan-in routing, parallel HNOR/VNOR execution |
-| CONTRA | `mappers/CONTRA.py` | Baseline [D. Bhattacharjee et al.] used for comparison in the paper |
+| CONTRA | `mappers/CONTRA.py` | Baseline: our re-implementation of CONTRA [D. Bhattacharjee et al., ICCAD 2020], written for the comparison in the paper (not the original authors' code, which is available at <https://github.com/debjyoti0891/arche>) |
 | Prev. | `mappers/PREV_ICCD24.py` | Baseline (previous work, ICCD 2024) used for comparison in the paper |
 
 ## Contents

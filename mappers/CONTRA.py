@@ -1,4 +1,5 @@
-"""CONTRA - baseline mapper (D. Bhattacharjee et al.), as used for the comparison in the TCAD 2026 paper.
+"""CONTRA - our re-implementation of the CONTRA mapper (D. Bhattacharjee et al., ICCAD 2020), written for the
+comparison in the TCAD 2026 paper. This is not the original authors' code (https://github.com/debjyoti0891/arche).
 
   python3 mappers/CONTRA.py -i benchmarks/netlists/ISCAS85/c432.v -c 64x64
 """
