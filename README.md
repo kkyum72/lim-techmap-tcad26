@@ -163,4 +163,6 @@ the NoN notation `assign ~X = expr;` (meaning X = expr) that the mappers read. I
 ## License
 
 MIT License (see `LICENSE`). The original benchmark circuits in `benchmarks/original/` come from the ISCAS'85
-and EPFL combinational benchmark suites and remain under their own terms.
+and EPFL combinational benchmark suites and remain under their own terms. The EPFL circuits
+(<https://github.com/lsils/benchmarks>) and the netlists derived from them are distributed under the MIT
+License of that suite (see `benchmarks/original/EPFL/LICENSE`).
