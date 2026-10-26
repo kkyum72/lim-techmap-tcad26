@@ -57,11 +57,11 @@ check_env.py          checks Python, Gurobi (package and license) and ABC
 ## Quick start
 
 ```bash
-python3 mappers/OURS_TCAD26.py -i benchmarks/netlists/ISCAS85/c432.v -c 32x32
-# [OURS_TCAD26] c432 32x32: <total> cycles (Place Cycle ... / Reset_Cycle ...) -> results/c432_32x32_OURS_TCAD26
-python3 mappers/CONTRA.py      -i benchmarks/netlists/ISCAS85/c432.v -c 64x64
-python3 mappers/PREV_ICCD24.py -i benchmarks/netlists/ISCAS85/c432.v -c 64x64
-python3 verify/replay.py benchmarks/netlists/ISCAS85/c432.v results/c432_32x32_OURS_TCAD26
+python3 mappers/OURS_TCAD26.py -i benchmarks/netlists/ISCAS85/c432.v -c 32x32 -o my_results/c432_32x32_OURS_TCAD26
+# [OURS_TCAD26] c432 32x32: <total> cycles (Place Cycle ... / Reset_Cycle ...) -> my_results/c432_32x32_OURS_TCAD26
+python3 mappers/CONTRA.py      -i benchmarks/netlists/ISCAS85/c432.v -c 64x64 -o my_results/c432_64x64_CONTRA
+python3 mappers/PREV_ICCD24.py -i benchmarks/netlists/ISCAS85/c432.v -c 64x64 -o my_results/c432_64x64_PREV_ICCD24
+python3 verify/replay.py benchmarks/netlists/ISCAS85/c432.v my_results/c432_32x32_OURS_TCAD26
 ```
 
 Run the commands from this directory. A run either finishes with a summary line (total cycle count) or reports
